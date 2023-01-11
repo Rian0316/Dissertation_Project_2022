@@ -1,0 +1,415 @@
+ \ x B A \ x A 2 \ x D 7 \ x D 3 \ x C 3 \ x C 7   \ x B 5 \ x B 1 \ x C 4 \ x E 3 \ x C 3 \ x C 7 M a r s h a l l \ x C A \ x E 5 \ x C A \ x E 5 \ x B 5 Ĺ \ x A B \ x B 9 \ x B 2 \ x C 6 \ x F B \ x B 3 \ x B 5   \ x D 4 ھ \ x E 0 \ x C 0 \ x E B Զ \ x B A \ x B A \ x C 6 ն پ Ƶ \ x E A 5 Ӣ \ x C 0 \ x E F \ x C D \ x E 2   \ x B 7 \ x A 2 \ x C 9 \ x F A \ x B 9 \ x C A \ x D 5 \ x C F \ x D 2 Ժ \ x F 3   \ x C B \ x F B \ x B 7 \ x A 2 \ x C 1 ˸ \ x F 6 \ x C A \ x C 4  
+
+ \ x C E ҿ \ x C 9 \ x D 2 \ x D 4 \ x D 7 \ x D F \ x D 7 \ x C 5 ȥ  
+ \ x D 0 \ x C 7 \ x C 6 \ x D A \ x C 1 \ x F 9   \ x C D \ x E D \ x C 9 \ x C F 1 0 \ x B 5 \ x E 3   \ x B B \ x E 9 \ x C 0 \ x F 1 ǰ 2 0 С ʱ  
+ \ x C A ǵ \ x C 4   \ x D 5 \ x E 2 \ x C A \ x C 7 M a r s h a l l \ x B 6 \ x D 4 ս \ x B B \ x F A \ x C 6 \ x F 7 \ x B 5 \ x C 4 . . .   \ x D 3 \ x D 6 һ ƪ \ x D 5 \ x C 2   \ x C E \ x D 2 \ x C 3 ǵ \ x C 4 Ӣ \ x D 0 ۿ \ x A A ʼ \ x C 1 \ x C B \ x C B \ x F B \ x B 5 \ x C 4 \ x C 2 ó \ x C C  
+ \ x B B \ x F 0 \ x D 1 ۽ \ x F 0 \ x B E \ x A 6   \ x D 2 \ x E 2 ־ \ x B C ᶨ  
+ \ x B F \ x C 9 \ x C C \ x F 8 ת \ x B 5 \ x B D \ x B 2 \ x B B \ x B E \ x C 3 ֮ \ x B A \ x F 3  
+ \ x D 2 \ x E 2 ־ \ x D 3 \ x D 0 Щ \ x B C \ x F 5 \ x C 8 \ x F 5  
+ \ x C B \ x F B ƣ \ x B 1 \ x B 9 \ x D 3 \ x D 6 \ x C D \ x D 1 ˮ  
+ \ x B 4 \ x F 3 \ x C 4 \ x D 4 ģ \ x B A \ x F D \ x B 2 \ x B B \ x C 7 \ x E 5  
+ \ x B F \ x C 9 \ x C A ǵ Ȼ \ x E 1 \ x B 6 \ x F 9   Ϊ ʲ ô \ x B 4 \ x F 3 \ x B D Ź \ x D 6  
+ վ \ x D 4 \ x D A \ x C 1 \ x C B \ x C 0 \ x E 9 \ x B 0 \ x C A \ x C 5 Ա \ x D F ?  
+ \ x E 0 \ x D E   \ x B A \ x D 9   \ x C 4 \ x E 3 ʲ ô \ x B 6 \ x B C û \ x B F \ x B 4 \ x B C \ x F B \ x B 9 \ x F E   \ x C E Ҳ \ x C 5 û \ x D 3 л þ \ x F 5   \ x C A \ x C 0 \ x C 9 \ x C F \ x D 5 \ x E 6 \ x D 3 д \ x F 3 \ x B D Ź \ x D 6  
+ \ x B F ɴ \ x F 3 \ x B C Ҷ \ x B C ֪ \ x B 5 \ x C 0 \ x C B \ x F B \ x B C \ x B 8 \ x C 4 \ x E A ǰ \ x B E ͽ \ x E 4 \ x D 1 \ x C C \ x C 1 \ x C B  
+ \ x E 0 \ x D E   \ x D 4 \ x E 3 \ x B 8 \ x E 2   \ x C E \ x D 2 \ x C 4 \ x D 4 \ x D 7 Ӳ \ x B B \ x B A \ x C 3 ʹ \ x C 1 \ x C B  
+
+
+ \ x B 1 \ x A 7 Ǹ   \ x B A \ x D 9  
+ Ҫ \ x D 4 \ x D 8 \ x C 4 \ x E 3 \ x C 3 \ x C 7 һ \ x B 3 \ x C C \ x C 2 \ x F 0 ?  
+ \ x D 5 \ x E 2 \ x B E \ x C D \ x C A \ x C 7 M a r s h a l l \ x B A \ x C D \ x C 4 \ x E 3 \ x C 3 \ x C 7 \ x C 2 \ x E 8 \ x C 2 \ x E 8 \ x B 5 \ x C 4 \ x C F \ x E 0 \ x D 3 \ x F 6  
+ \ x C 8 \ x D 9 \ x D 3 \ x F E \ x B 3 \ x F 6 Ʒ   \ x B 7 \ x A D \ x D 2 \ x E B :   E c h o   ʳ \ x C 3 \ x C E \ x F 5 \ x F 8   t s   \ x C 0 ū \   У \ x B 6 \ x D 4 :   \ x B 4 м ҵ \ x C 4 С ë ë  
+ \ x B 5 ھ ż \ x B E   \ x B 5 \ x D A 1 3 \ x B C \ x A F  
+
+ ̫ \ x B 0 \ x F 4 \ x C 1 \ x C B   \ x B 4 \ x F 3 \ x B C Ҷ \ x B C \ x B E \ x D B \ x D 4 \ x D A \ x C 1 \ x C B һ \ x C 6 \ x F 0  
+ \ x B 4 󲿷 ֵ Ĵ \ x F 3 \ x B C \ x D 2  
+ \ x C A ǰ \ x A 1   ƴ ͼ \ x C 9 Ͼ \ x C D ȱ \ x C 4 \ x C 7 ô \ x D 5 \ x E 4 \ x B 9 \ x F 3 \ x B 5 \ x C 4 һ \ x B F \ x E 9  
+ \ x C 4 \ x C 7 ƿ 3 0 \ x C 4 \ x E A \ x B 5 ĸ \ x F 1 \ x C 2 \ x D 7 \ x C 2 \ x F 3 \ x B F \ x C F \ x C 4 \ x C 9 \ x C D \ x F E ʿ \ x B C \ x C 9  
+ \ x D 6 \ x C 1 \ x B D \ x F 1   \ x C 4 Ǹ \ x F 6 \ x D 6 \ x D C ĩ \ x B B \ x D 9 \ x C 1 ˲ \ x B B ֹ һ ƿ . . .   \ x B 6 \ x F 8 \ x C A \ x C 7 \ x C 1 \ x B D ƿ \ x B C \ x D B ֵ 6 0 0 \ x C 3 \ x C 0 Ԫ \ x B 5 \ x C 4 \ x C D \ x F E ʿ \ x B C \ x C 9     \ x C 4 \ x C 7 \ x C A \ x C 7 Ϊ \ x B B \ x E 9 \ x C 0 \ x F 1 ף \ x B E \ x C 6 \ x C C ر \ x F 0 ׼ \ x B 1 \ x B 8 \ x B 5 \ x C 4  
+
+ ˳ \ x B 1 \ x E 3 һ \ x C E \ x C A   M a r s h a l l \ x B 5 \ x B D \ x C 4 Ķ \ x F 9 ȥ \ x C 1 \ x C B ?  
+ \ x C E һ \ x B 9 \ x C A ǲ \ x B B \ x B 8 \ x D 2 \ x C F \ x E 0 \ x D 0 \ x C 5     \ x C B \ x F B \ x B E \ x D 3 Ȼ \ x B 1 \ x B 3 \ x D 7 \ x C 5 \ x C E ҽ \ x D 3 \ x C 1 ˷ \ x A 8 \ x B 9 \ x D 9 \ x C 4 Ƿ ݹ \ x A 4 \ x D 7 \ x F 7  
+ \ x C C \ x F D \ x D 7 \ x C 5   \ x C E \ x D 2 ֪ \ x B 5 \ x C 0 \ x D 5 \ x E 2 \ x B A \ x D C \ x C 2 \ x D 2     \ x C E ҵ \ x C 4 \ x C 3 \ x C E \ x C F \ x E B \ x B A \ x C D M a r s h a l l \ x B 5 \ x C 4 \ x C 3 \ x C E \ x C F \ x E B  
+ \ x C E Ҳ \ x B B ǿ \ x C 6 \ x C 8 \ x C 4 \ x E 3 \ x C 3 \ x C 7 ѡ \ x B 1 \ x D F վ  
+ \ x B A ܺ \ x C 3   \ x D 2 \ x F 2 Ϊ \ x C E \ x D 2 \ x C D \ x E A ȫ ͦ M a r s h a l l   \ x C 4 \ x C 7 \ x D 1 \ x F 9 \ x B E \ x C D \ x D E \ x C F \ x D E \ x C E \ x C 1 \ x C B  
+ \ x B A ٺ \ x D 9     \ x C E \ x D 2 \ x C 3 ǿ \ x B 4 \ x B F \ x B 4 \ x B 0 \ x C 9 ̨ \ x D 3 \ x D 0 û \ x D 3 и \ x F 1 \ x C 2 \ x D 7 \ x C 2 \ x F 3 \ x B F \ x C F \ x C 4 \ x C 9 \ x C D \ x F E ʿ \ x B C \ x C 9  
+ \ x B A \ x C 3   \ x B A \ x D 9   \ x B 1 \ x F 0 \ x C 9 \ x F A \ x C 6 \ x F 8  
+ B a r n e y ֻ \ x C A \ x C 7 \ x C 8 \ x C F Ϊ   Ҫ \ x C A \ x C 7 \ x D 3 и \ x F 6 \ x B 7 \ x A 8 \ x B 9 \ x D 9 \ x C 5 \ x F 3 \ x D 3 \ x D 1   \ x C B \ x F B \ x B E \ x C D \ x C 4 \ x D C ˦ \ x B 5 \ x F 4 \ x C B \ x F 9 \ x D 3 \ x D 0 \ x C B \ x E 6 \ x B 5 ش \ x F 3 С \ x B 1 \ x E 3 \ x B 5 Ĵ \ x A B Ʊ  
+ B a r n e y \ x B 5 \ x B D \ x B 5 ׶ ೣ \ x C B \ x E 6 \ x B 5 ش \ x F 3 С \ x B 1 \ x E 3 ?  
+ \ x B E \ x A D \ x B 3 \ x A 3  
+
+ \ x B 1 \ x F 0 \ x B 5 \ x A 3 \ x D 0 \ x C 4   \ x C E \ x D 2 ͦ \ x C 4 \ x E 3  
+ \ x C 5 \ x F 3 \ x D 3 \ x D 1 \ x C 3 \ x C 7   \ x C 1 \ x C 4 ɶ \ x C 4 \ x D 8 ?  
+ \ x E 0 \ x D E   \ x C C 찡   \ x D 5 \ x E 2 ɵ \ x B 1 \ x C 6 \ x C A \ x C 7 ˭ ?  
+ \ x C B \ x F B \ x D 5 \ x E 2 \ x C A \ x C 7 Ҫ \ x B 9 \ x B 4 \ x B 4 \ x E E \ x C E \ x D 2 \ x C 3 ǵ \ x B 1 \ x D 6 е \ x C 4 ˭ \ x C 4 \ x D 8 ?  
+ \ x C 4 \ x E 3 \ x C 3 ǽ \ x F 1 \ x C D \ x E D \ x B 6 \ x B C \ x B A \ x D C \ x C 3 \ x C 0  
+ \ x B 4 \ x F 3 \ x D 0 ֵ \ x D C   \ x C 4 㻹 \ x C F \ x E B 3 P \ x B 0 \ x A 1  
+ \ x C 4 \ x E 3 \ x C 4 \ x D C \ x C F \ x E B \ x C F \ x F 3 \ x B 8 \ x F A \ x D 5 \ x E 2 \ x B 9 \ x D 6 ̥ 3 P \ x C 2 \ x F 0 ?  
+ \ x B F ɲ \ x B B \ x C A \ x C 7  
+ \ x C 4 \ x E 3   \ x C E \ x D 2   \ x B A \ x C D \ x D 5 \ x E 2 \ x C 4 е \ x C 4   \ x B 9 \ x E 2 \ x D 7 \ x C 5 \ x C 9 \ x E D \ x D 7 \ x D 3   \ x B 4 \ x F 2 \ x B 5 û \ x F 0 \ x C 8 \ x C 8  
+ Ȼ \ x B A \ x F 3 \ x C B \ x F B \ x C 0 \ x D B \ x C 1 \ x C B   \ x B E \ x C D ʣ \ x C 4 \ x E 3 \ x C E \ x D 2   \ x B C \ x C C \ x D 0 \ x F 8 \ x B B \ x F 0 \ x C 8 \ x C 8  
+ \ x B 0 \ x A 1   L i l y . . . \ x C 4 \ x C 7 ̫ \ x B 4 \ x C 0 \ x C 1 \ x C B  
+ ̫ \ x B 4 \ x C 0 \ x C 1 \ x C B . . .  
+
+ \ x B A \ x C 3   \ x C E \ x D 2 \ x C 0 \ x B 4 \ x B 7 ŵ \ x B 9 \ x C B \ x F B  
+ ˳ \ x B 1 \ x E 3 һ \ x C C \ x E 1     \ x C E \ x D 2 \ x D 5 \ x E 6 Ϊ \ x C 3 \ x F 7 \ x C C \ x E C \ x B 5 Ļ \ x E 9 \ x C 0 \ x F 1 \ x B 8 е \ x B D \ x D 0 ˷ ܰ \ x A 1   R o b i n  
+ \ x C A յ \ x B D \ x C 4 \ x E 3 \ x B A \ x C D B a r n e y \ x B 5 \ x C 4 \ x D 1 \ x F B \ x C 7 \ x E B   \ x C E \ x D 2 \ x D 5 \ x E 6 \ x B 5 ĺ \ x D C \ x C 8 \ x D 9 \ x D 0 \ x D 2  
+ \ x C A \ x C 7 \ x C E \ x D 2 \ x C 3 ǵ \ x C 4 \ x C 8 \ x D 9 \ x D 0 \ x D 2 . . . \ x C 4 \ x E 3 \ x C 4 \ x D C \ x C 0 \ x B 4 . . . \ x D 7 \ x F 0 \ x B 9 \ x F 3 \ x B 5 Ŀ \ x C D \ x C 8 \ x C B  
+
+
+ \ x B 0 \ x E F \ x B 0 \ x E F \ x C E \ x D 2   \ x D 5 \ x E 2 \ x C A \ x C 7 ˭ ?  
+ ˵ \ x B 2 \ x B B \ x B 6 \ x A 8 \ x C A \ x C 7 \ x C 4 \ x E 3 \ x C 4 ĸ \ x F 6   ʧ ɢ \ x B 6 \ x E 0 \ x C 4 \ x E A \ x B 5 ļ \ x D 3 \ x C 4 ô \ x F 3 \ x B 1 \ x E D \ x D 0 ֵ \ x D C ?  
+ \ x C 4 \ x E 3 \ x B 5 \ x C 4 \ x C A \ x D 6 ָ \ x B D \ x C 5 ֺ \ x B 6 \ x B C \ x B B \ x B 9 \ x D 4 \ x D A \ x C 2 \ x F 0 ?  
+ \ x B 6 \ x E E . . . \ x C A ǰ \ x A 1  
+ \ x C 4 Ǿ Ͳ \ x B B \ x C A \ x C 7 \ x C E ҵ ı \ x E D \ x D 0 ֵ \ x D C  
+ \ x B A \ x D 9   \ x D 4 ٴ \ x C E л л \ x C 4 \ x E 3 \ x B 4 \ x F 8 \ x C E \ x D 2 \ x C 3 \ x C 7 һ ·  
+ \ x D 5 ⼸ \ x C C \ x E C \ x D 5 \ x E 6 \ x C A Ƿ \ x E 8 \ x B F \ x F 1  
+ \ x C 4 \ x E 3 \ x B 8 \ x F 9 \ x B 1 \ x B E \ x C E ޷ \ x A 8 \ x C F \ x E B \ x C F \ x F 3 \ x C E \ x D 2 \ x C 3 Ǿ \ x A D \ x C 0 \ x F A \ x C 1 \ x C B ʲ ô  
+ \ x B 5 ȵ \ x C 8   \ x C 8 \ x C 3 \ x C E Ҳ \ x C 2 һ \ x C F \ x C 2   \ x C 4 \ x E 3 \ x B 0 ݷ \ x C 3 \ x C 1 \ x C B һ \ x C 3 \ x F B \ x C 7 \ x D 7 \ x C 6 \ x D D   \ x B B \ x F 2 \ x D 0 \ x E D \ x C A \ x C 7 . . . \ x C 4 \ x E 3 \ x C 2 \ x E 8 \ x C 2 \ x E 8 ?  
+ \ x C E Ҹ \ x D 0 \ x C A ܵ \ x B D \ x C 1 \ x C B \ x D 6 \ x D 0 \ x C E \ x F 7 \ x B 2 \ x B F \ x B 5 \ x C 4 \ x C 6 \ x F 8 \ x B 7 \ x D 5     \ x B 1 \ x C 8 \ x C 8 \ x E 7 . . . \ x C D \ x F E ˹ \ x B F \ x B 5 \ x D 0 \ x C 7 . . .  
+ . . . \ x B 2 \ x B B   \ x C 3 \ x F 7 \ x C 4 \ x E 1 \ x C B մ \ x E F ?  
+ \ x C D \ x D B   \ x C 4 \ x E 3 - \ x C 4 \ x E 3 \ x B A \ x D C \ x C 9 ó \ x A 4 \ x D 5 \ x E 2 \ x B 8 \ x F 6 \ x B 0 \ x A 1  
+ \ x C 4 \ x E 3 \ x B C ƻ \ x A E Ҫ \ x B A \ x C D \ x C 4 \ x E 3 \ x C 0 \ x C F \ x C 6 ų \ x F 6 \ x B 9 \ x F A  
+ \ x C E ҿ \ x B 4 \ x B C \ x F B һ \ x B 8 \ x F 6 . . . \ x B B \ x E E \ x C 6 õ ĺ \ x E C ͷ \ x B 7 \ x A 2 Ů \ x C 8 \ x C B     \ x C B \ x F D \ x C 8 Ȱ \ x A E \ x D 2 \ x D 5 \ x C A \ x F 5  
+ \ x C B \ x F D \ x B 8 ջ \ x F 1 \ x B 5 \ x C 3 һ \ x B 7 \ x D D \ x D 4 \ x D A ŷ \ x D 6 ޵ Ĺ \ x A 4 \ x D 7 \ x F 7     \ x B B \ x F 2 \ x D 0 \ x E D \ x C A Ƿ \ x A 8 \ x B 9 \ x F A ?  
+ \ x B 2 \ x B B   \ x D 2 \ x E 2 \ x B 4 \ x F 3 \ x C 0 \ x F B ?  
+ \ x C E \ x D 2 Ҫ Ϲ \ x B 2 \ x C 2 \ x C 1 \ x C B   \ x C A ǲ \ x B B \ x C A \ x C 7 . . . \ x C 2 \ x D E \ x C 2 \ x E D ?  
+ Ҫ \ x B 2 \ x B B \ x C E һ \ x B 9 \ x C A \ x C 7 . . . \ x B B \ x B 9 \ x C A ǳ \ x F 6 ȥ \ x B 0 \ x C 9  
+ \ x C 4 \ x E 3 \ x C 4 Ķ \ x F 9 Ҳ \ x B 2 \ x B B \ x C 4 \ x D C ȥ  
+ \ x B 2 \ x B B   \ x C E Ҷ \ x B A \ x C 4 \ x E 3 \ x C 4 \ x D 8  
+ \ x C E Һ \ x C D \ x C 4 \ x E 3 \ x C 0 \ x C F \ x C 6 Ŵ \ x E E \ x C 1 \ x C B ͬ һ \ x C C ˻ \ x F 0 \ x B 3 \ x B 5  
+ \ x C 4 \ x E 3 \ x B 8 \ x F A \ x C E \ x D 2 ˵ \ x C 1 \ x C B \ x C 4 \ x E 3 \ x C B \ x F 9 \ x D 3 \ x D 0 \ x C A \ x C 2   \ x C 4 \ x E 3 \ x B F ϶ \ x A 8 \ x C A \ x C 7 M a r s h a l l  
+
+ \ x B 6 \ x E E . . . \ x C E Ҿ \ x C D \ x C A ǿ \ x B 4 \ x B F \ x B 4 \ x B A \ x A 2 \ x D 7 \ x D 3  
+ \ x B 5 ȵ \ x C 8   \ x B 5 ȵ \ x C 8  
+
+ \ x C 4 \ x E 3 \ x C 3 \ x C 7 \ x C 1 \ x B D \ x B 8 \ x F 6 \ x B 6 \ x B C \ x B 4 \ x A 9 \ x D 7 \ x C 5 ˯ \ x D 2 ± \ x B B \ x C B \ x F 8 \ x D 4 \ x D A \ x C E ݶ \ x A 5 \ x C 1 \ x C B \ x C 2 \ x F 0 ?  
+ \ x C 4 \ x E 3 \ x C 1 \ x A 9 \ x D 5 \ x E 6 \ x C A ǻ \ x B 6 \ x C 0 \ x D 6 \ x D 3 ֿ ɰ \ x A E \ x B 0 \ x A 1 !  
+
+ ֪ \ x B 5 \ x C 0 \ x D 5 \ x E 2 \ x C 8 \ x C B \ x C A \ x C 7 ˭ \ x C 2 \ x F 0 ?  
+ \ x B 2 \ x B B   \ x B F \ x C 9 \ x C E Һ ܸ \ x D F \ x D 0 \ x C B \ x C B \ x F B \ x B 6 \ x A E \ x C E \ x D 2 \ x C 3 ǵ Ļ \ x B 6 \ x C 0 ֺ Ϳ ɰ \ x A E !  
+ \ x C E \ x D 2 \ x C 3 Ǿ \ x C D \ x C A ǻ \ x B 6 \ x C 0 \ x D 6 \ x D 3 ֿ ɰ \ x A E \ x B 0 \ x A 1 !  
+ \ x C F \ x C 2 һ \ x C 2 \ x D 6 \ x C E \ x D 2 \ x C 7 \ x E B  
+ -   \ x E 0 \ x D E   л \ x C 1 \ x C B   -   л л \ x C 4 \ x E 3   L i l  
+ \ x B A \ x D 9   \ x B A ܱ \ x A 7 Ǹ \ x B 4 \ x F 2 \ x C 8 \ x C 5 \ x C 4 \ x E 3 \ x C 3 \ x C 7 \ x C 1 \ x C B  
+ \ x C E \ x D 2 \ x D 3 \ x D 0 ʱ \ x B A \ x F 2 ̫ \ x B C \ x B 1 \ x D 3 ں \ x C D \ x C 8 ˽ \ x B B \ x C D \ x F 9 \ x C 1 \ x C B  
+ \ x B B \ x F 2 \ x D 0 \ x E D \ x C A \ x C 7 \ x D 2 \ x F 2 Ϊ \ x C E ҵ \ x C 4 ͯ \ x C 4 \ x E A  
+ \ x C A ǰ \ x A 1   \ x D 2 \ x F 2 Ϊ \ x B 7 \ x A 2 \ x C 9 \ x F A \ x B 5 \ x C 4 \ x C 4 Ǽ \ x F E \ x C A \ x C 2  
+ \ x C E \ x D 2 \ x C 2 \ x E 8 \ x C 2 \ x E 8 \ x D 4 \ x D A \ x C E Һ \ x D C С \ x B 5 \ x C 4 ʱ \ x B A \ x F 2   \ x D 4 \ x D A һ \ x B 4 \ x C E \ x E 1 \ x F 7 \ x C 1 \ x D 4 \ x D 6 \ x D 0 ȥ \ x C A \ x C 0 \ x C 1 \ x C B  
+ \ x C A ǰ \ x A 1   \ x B E \ x C D \ x C A \ x C 7 \ x D 5 \ x E 2 \ x B C \ x F E \ x C A \ x C 2  
+ \ x B 6 Բ \ x B B \ x C 6 \ x F 0   ˵ \ x B 3 \ x C 1 \ x D 6 \ x D 8 \ x C 1 \ x C B !  
+ R o b i n   \ x C 4 \ x E 3 \ x C 4 \ x D 8 . . . \ x D 7 \ x E E \ x B D \ x F C \ x D 4 \ x F 5 ô \ x D 1 \ x F 9 ?  
+ û ʲ ô \ x C A \ x C 2   \ x B 7 \ x B 4 \ x D 5 \ x F D û ʲ ô \ x B 4 \ x F 3 \ x C A \ x C 2  
+ \ x B A \ x D 9   \ x B 7 \ x C 5 \ x D 0 \ x C 4   \ x C 4 \ x E 3 \ x B F \ x C 9 \ x D 2 Ը \ x E 6 \ x C B \ x D F \ x C E ҵ \ x C 4  
+ \ x C E Ҿ \ x F 5 \ x B 5 \ x C 3 L i l y . . .  
+ T e d   \ x C 8 \ x E 7 \ x B 9 \ x F B \ x C 4 \ x E 3 \ x D 5 \ x E 6 \ x B 5 \ x C 4 \ x C F \ x E B \ x B 8 \ x F 8 B a r n e y   \ x B 8 㵽 һ ƿ 3 0 \ x C 4 \ x E A \ x B 5 ĸ \ x F 1 \ x C 2 \ x D 7 \ x C 2 \ x F 3 \ x B F \ x C F \ x C 4 \ x C 9 \ x C D \ x F E ʿ \ x B C \ x C 9  
+ F a r h a m p t o n \ x B E \ x C 6 \ x C 6 \ x C C \ x C 0 \ x E F \ x D 3 \ x D 0 \ x D 7 \ x E E \ x B A \ x F 3 һ ƿ  
+ \ x C 4 \ x C 7 \ x C 0 \ x E F \ x B 5 ı \ x A 3 \ x B 0 \ x B 2 \ x B A \ x D C \ x C 0 \ x C 3  
+ \ x B 2 \ x B B   \ x C E Ҳ \ x B B \ x C F \ x E B ֪ \ x B 5 \ x C 0   \ x C E ҿ ɲ \ x B B \ x C F 뵱 \ x B 5 \ x C 1 \ x C 7 \ x D 4 \ x D 7 \ x E F \ x B 5 Ĺ \ x B 2 \ x B 7 \ x B 8  
+ \ x C E Ҳ \ x B B \ x B 3 \ x D 0 \ x C 8 \ x C F Ҳ \ x B 2 \ x B B \ x B 7 \ x F 1 \ x C 8 \ x C F  
+ \ x D 7 \ x D C ֮ \ x B 4 \ x A 2 \ x B 2 \ x D 8 \ x C A \ x D 2 \ x C 0 \ x E F \ x D 3 \ x D 0 һ \ x B 8 \ x F 6 \ x B A ܸ ߵ Ĵ \ x B 0 \ x B B \ x A 7   \ x C 8 \ x E 7 \ x B 9 \ x F B \ x C 4 \ x E 3 \ x C 5 \ x C 0 \ x C 9 \ x C F ȥ . . .  
+ \ x C 0 \ x B 2 \ x C 0 \ x B 2 \ x C 0 \ x B 2 \ x C 0 \ x B 2 \ x C E Ҳ \ x B B Ҫ \ x C C \ x F D !  
+ \ x C E Ұ \ x A E B a r n e y   \ x B 5 \ x A B \ x C A \ x C 7 \ x C E Ҳ \ x B B \ x B B \ x E 1 Ϊ \ x C 1 \ x C B \ x C B \ x F B ȥ \ x B 6 ׼ \ x E 0 \ x D 3 \ x F C \ x B 5 \ x C 4  
+ Ϊ ʲ ô \ x B 2 \ x B B \ x D 0 \ x D 0 ?   \ x C E Ҿ \ x C D Ը \ x D 2 \ x E 2 Ϊ \ x C 1 \ x C B \ x C 4 \ x E 3 \ x B 6 ׼ \ x E 0 \ x D 3 \ x F C  
+ -   \ x C 4 㲻 \ x B B \ x E 1 Ը \ x D 2 \ x E 2   -   \ x C E \ x D 2 Ը \ x D 2 \ x E 2  
+ \ x C C \ x E 6 \ x D 7 \ x E E \ x B A õ \ x C 4 \ x C 5 \ x F 3 \ x D 3 Ѷ ׼ \ x E 0 \ x D 3 \ x F C ?   \ x D 5 \ x E 2 \ x C A \ x C 7 \ x C E \ x D 2 \ x C 3 \ x C E \ x C 3 \ x C 2 \ x D 2 \ x D 4 \ x C 7 \ x F 3 \ x B 5 \ x C 4 \ x C A \ x C 2  
+ \ x C A \ x C 7 \ x C 2 \ x F 0 ?   \ x D 5 \ x E 2 \ x C A \ x C 7 \ x C 4 \ x E 3 \ x C 3 \ x C E \ x C 3 \ x C 2 \ x D 2 \ x D 4 \ x C 7 \ x F 3 \ x B 5 \ x C 4 \ x C A \ x C 2 ?  
+ û \ x B 4 \ x E D   \ x D 5 \ x E 2 \ x C A \ x C 7 \ x D 7 \ x E E \ x B 8 \ x D F \ x C 9 е \ x C 4 . . .   \ x B 8 \ x E 7 \ x C 3 Ƕ \ x F 9 \ x B C \ x E 4 \ x D 7 \ x E E \ x D 0 \ x D 6 \ x C 9 е \ x C 4 \ x C A \ x C 2 \ x C 7 \ x E 9  
+
+ \ x C B \ x F 9 \ x D 2 \ x D 4 û \ x B 4 \ x E D   T e d   \ x D 5 \ x E 2 \ x C A \ x C 7 \ x C 3 \ x C E \ x C 3 \ x C 2 \ x D 2 \ x D 4 \ x C 7 \ x F 3 \ x B 5 \ x C 4 \ x C A \ x C 2  
+ \ x C 4 \ x E 3 ̫ ϲ \ x B B \ x B 6 ˵ " \ x C 3 \ x C E \ x C 3 \ x C 2 \ x D 2 \ x D 4 \ x C 7 \ x F 3 " \ x C 1 \ x C B  
+ \ x C E \ x D 2 ʲ ô ʱ \ x B A \ x F 2 \ x D 5 \ x E 2 ô ˵ \ x B 9 \ x F D !  
+ \ x D 3 \ x C 3 Ѭ \ x B B \ x F 0 \ x C D \ x C 8 \ x D 7 \ x F 6 \ x C E \ x F 7 װ   \ x C B \ x F 9 \ x D 2 Գ Թ ⼴ \ x C D ѹ \ x E 2   " \ x C 3 \ x C E \ x C 3 \ x C 2 \ x D 2 \ x D 4 \ x C 7 \ x F 3 "  
+ һ Ⱥ ʨ \ x D 7 Ӵ \ x F 3 ս \ x B 1 \ x A 9 \ x C 1 \ x F A   " \ x C 3 \ x C E \ x C 3 \ x C 2 \ x D 2 \ x D 4 \ x C 7 \ x F 3 "  
+ 2 4 С ʱ \ x B 2 \ x B B \ x B C \ x E 4 \ x B 6 \ x C F \ x C 0 \ x A D \ x C D \ x E A һ \ x D 5 \ x F B \ x C 4 \ x E A \ x B 5 ı \ x E 3 \ x B 1 \ x E 3 \ x C 1 \ x B F   Ȼ \ x B A \ x F 3 һ \ x D 5 \ x F B \ x C 4 궼 \ x B 2 \ x B B \ x D 3 \ x C 3 \ x D 4 \ x D 9 \ x C 0 \ x A D \ x B 1 \ x E 3 \ x B 1 \ x E 3  
+ " \ x C 3 \ x C E \ x C 3 \ x C 2 \ x D 2 \ x D 4 \ x C 7 \ x F 3 "  
+ \ x C E Ҵ \ x D 3 \ x C 0 \ x B 4 û ˵ \ x B 9 \ x F D \ x B 1 \ x E 3 \ x B 1 \ x E 3 \ x C 8 \ x D 5 \ x C 3 \ x C E \ x C 3 \ x C 2 \ x D 2 \ x D 4 \ x C 7 \ x F 3  
+ \ x C E \ x D 2 ֻ ˵ \ x C 1 ˿ \ x C 6 ѧ \ x B B \ x E 1 \ x C 8 \ x C 3 \ x C 8 \ x C B \ x C 3 \ x C E \ x C F \ x E B \ x B 3 \ x C 9 \ x D 5 \ x E 6  
+ \ x C 4 \ x E 3 ֻ \ x C 4 \ x D C \ x C 3 \ x C E \ x C 3 \ x C 2 \ x D 2 \ x D 4 \ x C 7 \ x F 3 һ \ x B 4 \ x C E !  
+ \ x C 4 \ x E 3 ȷ \ x B 6 \ x A 8 Ҫ \ x B 6 \ x A 8 Ϊ   " Ϊ \ x C 1 \ x C B \ x D 7 \ x E E \ x B A õ \ x C 4 \ x C 5 \ x F 3 \ x D 3 Ѷ ׼ \ x E 0 \ x D 3 \ x F C " \ x C 2 \ x F 0 ?  
+ \ x C 4 \ x E 3 ȷ \ x B 6 \ x A 8 Ҫ \ x B 0 \ x D 1 \ x C B \ x F C \ x B 5 \ x B 1 \ x D 7 \ x F 6 \ x C A \ x C 7   һ \ x B 1 \ x B 2 \ x D 7 \ x D 3 Ψ һ \ x B 5 \ x C 4 \ x D 3 \ x C 0 \ x B A \ x E 3 \ x C 3 \ x C E \ x C F \ x E B ?  
+
+ -   \ x C A ǵ \ x C 4   -   \ x C 4 Ǻ \ x C 3   \ x C 4 \ x C 7 \ x C 4 \ x E 3 \ x D 4 ٲ \ x B B \ x C 4 \ x D C ˵ " \ x C 3 \ x C E \ x C 3 \ x C 2 \ x D 2 \ x D 4 \ x C 7 \ x F 3 " \ x C 1 \ x C B  
+ \ x D 5 \ x E 2 \ x C A \ x C 7 \ x C E \ x D 2 \ x C 3 \ x C E \ x C 3 \ x C 2 \ x D 2 \ x D 4 \ x C 7 \ x F 3 \ x B 5 \ x C 4  
+ L i l y   R o b i n \ x B 8 ո \ x F A \ x C E \ x D 2 ˵ \ x C 1 \ x C B \ x D 2 \ x E 2 \ x B 4 \ x F 3 \ x C 0 \ x F B \ x B 5 \ x C 4 \ x C A \ x C 2 !  
+ һ \ x B 6 \ x A 8 \ x B B \ x E 1 \ x B A \ x D C \ x C 4 \ x D 1 \ x C D \ x F C \ x B 5 \ x C 4  
+ \ x C 8 \ x E 7 \ x B 9 \ x F B \ x C E \ x D 2 \ x C 4 \ x D C ˵ \ x B 7 \ x F E \ x C E \ x D 2 \ x C 0 Ϲ \ x A B   \ x D 7 \ x F 1 \ x C A \ x D 8 ŵ \ x D 1 Ժ \ x C D \ x C E \ x D 2 һ \ x C 6 \ x F 0 \ x D 7 ߵ Ļ \ x B 0  
+ R o b i n   \ x C B \ x E 4 Ȼ \ x C 4 \ x E 3 ֧ \ x B 3 \ x D 6 M a r s h a l l  
+ \ x B 5 \ x A B \ x C A \ x C 7 \ x C E \ x D 2 \ x C F \ x E B ֧ \ x B 3 \ x D 6 L i l y  
+ \ x B B ؼ \ x F B \ x C 1 \ x C B   \ x C 3 \ x C 0 Ů \ x C 3 \ x C 7  
+ л л \ x C 4 \ x E 3 \ x B E \ x C 8 \ x C 1 \ x C B \ x C E \ x D 2 \ x C 3 \ x C 7  
+ \ x C E \ x D 2 һ \ x B 0 㲻 \ x B B \ x E 1 \ x C B \ x E 6 \ x B 1 \ x E 3 ͣ \ x B 3 \ x B 5 \ x B 5 \ x C 4   \ x B 5 \ x A B \ x C A \ x C 7 ˭ \ x C 8 \ x C 3 \ x C E \ x D 2 \ x D 3 \ x F 6 \ x B C \ x F B \ x C 1 \ x C B ȫ \ x C A \ x C 0 \ x B D \ x E 7   \ x D 7 \ x E E \ x B F ɰ \ x A E \ x B 5 Ĵ  \ x C 8 \ x C B \ x C 4 \ x D 8  
+ л л  
+ Ŷ \ x C 4 \ x E 3 \ x C A \ x C 7 \ x D 4 \ x D A ˵ M a r v i n  
+ \ x B 6 Բ \ x B B \ x C 6 \ x F 0   \ x B D \ x F 1 \ x C C \ x E C \ x D 5 \ x E 6 \ x B 5 Ĺ \ x B B Ǻ \ x B 5 \ x C 4  
+ \ x C E \ x D 2 \ x C 3 ǵ \ x B D \ x C 1 \ x C B ֮ \ x B A \ x F 3   \ x C E \ x D 2 \ x C 7 \ x E B \ x C 4 \ x E 3 \ x B A ȶ \ x A B \ x C E \ x F 7  
+ л л   \ x B 5 \ x A B \ x C A \ x C 7 \ x C E Ұ \ x D 1 \ x C 4 \ x E 3 \ x C 3 \ x C 7 \ x C B ͵ \ x B D ֮ \ x B A \ x F 3   \ x B E \ x C D Ҫ \ x B 8 ϻ س \ x C 7 \ x C 0 \ x E F \ x C 1 \ x C B  
+ \ x C A \ x C 7 \ x C 2 \ x F 0 ?     \ x C 4 \ x E 3 \ x B 5 \ x C 4 \ x C 0 ֶ Ӳ \ x B B \ x C A \ x C 7 Ҫ \ x D 4 ڻ \ x E 9 \ x C 0 \ x F 1 \ x C 9 \ x C F \ x D 1 ݳ \ x F 6 \ x C 2 \ x F 0 ?  
+ -   Ϊ ʲ ô Ҫ \ x D 7 \ x D F ?     -   \ x D 2 \ x F 2 Ϊ \ x C 4 \ x C 7 \ x D 6 \ x F 7 \ x B 3 \ x A A  
+ \ x C B \ x F B \ x B E \ x C D \ x C A Ǹ \ x F 6 ħ \ x B 9 \ x E D  
+ \ x C B \ x F B \ x D 7 \ x E E \ x B B \ x E 1 \ x C C \ x F 4 \ x B 2 \ x A 6 \ x C 0 \ x E B \ x B C \ x E 4 \ x C 1 \ x C B   \ x C 6 ƻ \ x B 5 \ x B 1 \ x F 0 \ x C 8 ˵ \ x C 4 \ x C 9 \ x F A \ x B B \ x E E \ x B E \ x C D Ϊ \ x C 1 \ x C B \ x D 7 Լ \ x B A \ x B A \ x C 3 \ x C D \ x E 6  
+ \ x C B \ x F B \ x C F \ x C 8 \ x C A ǽ ӽ \ x F C \ x C 1 \ x B D \ x B 8 \ x F 6 \ x C 5 \ x F 3 \ x D 3 \ x D 1   Ȼ \ x B A \ x F 3 \ x D 5 ҵ \ x B D \ x C B \ x F B \ x C 3 \ x C 7 \ x D 3 \ x D 1 \ x D 2 \ x E A \ x B 5 \ x C 4 \ x D 2 \ x D 7 ȼ \ x B 5 \ x E 3   Ȼ \ x B A \ x F 3   һ \ x C 0 \ x A D \ x C F \ x D F !   \ x D 3 \ x D 1 \ x D 2 \ x E A \ x B E \ x C D \ x D 5 \ x E 2 \ x D 1 \ x F 9 \ x D 7 ߵ \ x B D \ x C 1 ˾ \ x A 1 ͷ  
+ \ x C B \ x F B \ x B D \ x D 0 ʲ ô ?  
+ \ x D 4 ڸ \ x C 9 \ x C 2 \ x E F \ x C 4 \ x D 8   \ x C 5 \ x F 3 \ x D 3 \ x D 1 \ x C 3 \ x C 7 ?  
+ D a r r e n  
+
+ \ x C 4 \ x E 3 ֧ \ x B 3 \ x D 6 M a r s h a l l ? !  
+ \ x C 4 \ x E 3 \ x B 8 ɴ \ x E 0 ȥ \ x D 7 \ x F 6 \ x B C \ x F E M a r s h a l l T \ x D 0 \ x F 4 \ x C 9 \ x C 0 \ x B A \ x C 3 \ x C 1 \ x C B  
+ \ x C 4 㴩 ʲ ô \ x C 2 \ x E B ?   \ x C C ش \ x F 3 \ x C 2 \ x E B \ x C 5 \ x D 1 ͽ \ x C 2 \ x F 0 ?  
+ \ x B 2 \ x B B \ x B 2 \ x B B \ x B 2 \ x B B   \ x C E \ x D 2 ˵ \ x B 5 \ x C 4 \ x C A \ x C 7 . . .  
+
+ \ x C E ҵ \ x C 4 \ x D 2 \ x E 2 ˼ \ x C A \ x C 7 . . .   \ x C E \ x D 2 \ x C 3 \ x C 7 \ x C A \ x C 7 \ x D 4 \ x F 5 ô \ x B 3 \ x B 3 \ x C 6 \ x F 0 \ x C 0 \ x B 4 \ x B 5 \ x C 4 ?  
+ \ x C 4 \ x E 3 \ x D 7 \ x D C \ x C A ǻ \ x E 1 \ x C E \ x C A \ x D 7 Լ \ x B A \ x D 5 \ x E 2 \ x B 8 \ x F 6 \ x C E \ x C A \ x C C \ x E 2   \ x C B \ x F B \ x B 5 Ĳ \ x B D \ x D 6 \ x E 8 \ x C A \ x C 7 \ x D 5 \ x E 2 \ x D 1 \ x F 9 \ x B 5 \ x C 4 :   \ x C A \ x D 7 \ x C F \ x C 8   \ x C B \ x F B \ x C 8 \ x C 3 \ x C 4 \ x E 3 \ x B E \ x F 5 \ x B 5 \ x C 3  
+ \ x D 7 Լ \ x B A \ x C A \ x C 7 ȫ \ x C A \ x C 0 \ x B D \ x E 7 \ x D 7 \ x E E \ x D 3 \ x D 0 Ȥ \ x B F ɰ \ x A E \ x B 5 \ x C 4 \ x C 8 \ x C B  
+ \ x C 4 \ x E 3 \ x C 3 \ x C 7 \ x D 3 \ x D 6 \ x D 3 \ x D 0 Ȥ \ x D 3 ֿ ɰ \ x A E !  
+ \ x C E \ x D 2 ϲ \ x B B \ x B 6 \ x C B \ x F B     \ x C B \ x F B \ x B 6 \ x A E \ x C E \ x D 2 \ x C 3 ǵ \ x C 4 \ x D 3 \ x D 0 Ȥ \ x B A Ϳ ɰ \ x A E  
+ \ x C E \ x D 2 \ x C 3 \ x C 7 ȷ ʵ \ x B A \ x D C \ x D 3 \ x D 0 Ȥ \ x B A Ϳ ɰ \ x A E  
+ Ȼ \ x B A \ x F 3 \ x C B \ x F B \ x B B \ x E 1 ˵ \ x B C \ x B 8 \ x B 8 \ x F 6 \ x C 4 \ x E 3 \ x B C \ x D 2 \ x C F \ x E 7 \ x B 5 \ x C 4 \ x C C ص \ x E 3   \ x D 2 Ա \ x E 3 \ x B A \ x C D \ x C 4 \ x E 3 \ x B 2 \ x F A \ x C 9 \ x F A \ x B 9 \ x B 2 \ x C 3 \ x F 9  
+ -   \ x B F \ x C B \ x C 0 \ x F B \ x B 7 \ x F 2 \ x C 0 \ x B C ?     -   \ x C A ǵ \ x C 4  
+
+ G a l l u c i \ x B C ҵ \ x C 4 \ x C 0 \ x B 1 \ x C F 㳦 \ x C 3 \ x E 6 \ x B 0 \ x F C \ x D 7 \ x E E \ x B A ó \ x D 4 !  
+ \ x C 4 \ x E 3 \ x C A \ x C 7 ˹ \ x C B \ x F E \ x B 6 ٵ \ x B A \ x B 5 \ x C 4 ?  
+ \ x B 4 \ x F 3 \ x B C һ \ x E F \ x B 6 \ x F 9 \ x D 4 \ x D A \ x D 7 Լ Ҳ \ x D D ƺ \ x C 9 ϶ \ x B C \ x C 4 ܴ \ x F 2 \ x C 6 \ x F 0 \ x C 0 \ x B 4 !  
+ \ x C 4 \ x E 3 \ x B E \ x C D \ x C F \ x F 1 \ x C A \ x C 7 \ x C 0 \ x C F \ x C F \ x E 7 \ x C B Ƶ \ x C 4 !  
+
+ -   \ x D 5 \ x E 2 \ x B 8 \ x E 7 \ x C 3 Ǻ ð \ x F 4 \ x B 0 \ x A 1 !     -   ̫ \ x B 0 \ x F 4 \ x C 1 \ x C B !  
+
+ \ x C E Ҿ \ x F 8 \ x B 6 \ x D 4 Ը \ x D 2 \ x E 2 Ϊ \ x C 1 \ x C B \ x C B \ x F B ȥ \ x B 6 ׼ \ x E 0 \ x D 3 \ x F C  
+ \ x D 5 ⻰ ̫ \ x C 9 \ x C B \ x C 8 \ x C B \ x C 1 \ x C B   Ȼ \ x B A \ x F 3 \ x C B \ x F B \ x B B \ x E 1 \ x B 8 \ x E 6 \ x C B \ x D F \ x C 4 \ x E 3 һ \ x B 8 \ x F 6 " ˽ \ x C 8 \ x C B \ x C 3 \ x D 8 \ x C 3 \ x D C "  
+ ͨ \ x B 3 \ x A 3 \ x C A Ƕ \ x F 9 ͯ \ x B 6 \ x A F \ x B B \ x A D Ƭ \ x C 0 \ x E F \ x B 5 ı \ x A F \ x B 2 \ x D 2 \ x C 7 \ x E 9 \ x B D \ x D A  
+ \ x C E \ x D 2 \ x C 2 \ x E 8 \ x C 2 \ x E 8 \ x D 4 ڴ \ x F 2 \ x C 1 Ե \ x C 4 ʱ \ x B A \ x F 2 ȥ \ x C A \ x C 0 \ x C 1 \ x C B  
+ ͨ \ x B 3 \ x A 3 \ x C A \ x C 7 С ¹ \ x B 0 ߱ \ x C 8  
+ \ x C E Ұ ְ ֱ \ x B B һ \ x B 8 \ x F 6 ԭ \ x B 1 \ x B E \ x B F \ x C 9 \ x D 0 ŵ \ x C 4 \ x C 5 \ x F 3 \ x D 3 \ x D 1   \ x B 1 \ x B 3 \ x C 5 Ѻ ͺ \ x A 6 \ x C B \ x C 0  
+ \ x D 3 \ x D 0 ʱ \ x B A \ x F 2 \ x D 3 \ x C 3 һ \ x C F \ x C 2 ʨ \ x D 7 \ x D 3 \ x C D \ x F 5  
+ \ x C E \ x D 2 û \ x D 3 м \ x D 2 \ x C 8 \ x C B   \ x B 5 \ x A B \ x C A ǽ \ x F 1 \ x C D \ x E D . . .  
+ \ x C E Ҹ о \ x F 5 \ x D 5 ҵ \ x B D \ x C 1 \ x C B \ x C 1 \ x B D \ x B 8 \ x F 6 \ x D 0 ֵ \ x D C  
+
+ \ x B 2 \ x B B \ x B A \ x C 3 \ x D 2 \ x E 2 ˼   \ x B B \ x B 0 \ x C C \ x E 2 ̫ \ x B 3 \ x C 1 \ x D 6 \ x D 8 \ x C 1 \ x C B  
+ û \ x B 9 \ x D 8 ϵ    
+ \ x C E \ x D 2 ȥ \ x B 8 \ x F 8 \ x C 4 \ x E 3 \ x C 3 \ x C 7 \ x C 2 \ x F 2 \ x B A ȵ \ x C 4  
+ һ \ x B 5 \ x A 9 \ x C 4 \ x E 3 \ x B 7 \ x C 5 \ x C F \ x C 2 \ x C 1 ˷ \ x C 0 \ x B 1 \ x B 8   \ x C B \ x F B \ x B 5 Ĳ \ x E 2 \ x C A Ծ Ϳ \ x A A ʼ \ x C 1 \ x C B  
+ T e d   \ x C 4 \ x E 3 \ x D 4 \ x F 5 ô \ x D 1 \ x F 9 \ x B 0 \ x A 1 ?  
+ \ x D F \ x C 0   \ x D 3 и \ x F 6 \ x C A \ x C 2 \ x C 7 \ x E 9 . . .  
+ -   \ x C B \ x E 3 \ x C 1 \ x C B û ʲ ô   -   \ x B 7 \ x C 5 \ x D 0 İ \ x C 9  
+ \ x C 4 \ x E 3 \ x B F \ x C 9 \ x D 2 Ը \ x E 6 \ x C B \ x D F \ x C E ҵ \ x C 4  
+ \ x C E ҵ \ x C 4 \ x C A \ x C 7 \ x D 2 \ x E 2 ˼ \ x C A \ x C 7 \ x D 5 \ x E 2 \ x B C \ x F E \ x C A \ x C 2 \ x D 3 \ x D 0 \ x C 1 \ x B D \ x B 1 \ x D F  
+ \ x D 2 \ x E 2 \ x B 4 \ x F 3 \ x C 0 \ x F B \ x C A \ x C 7 \ x C 4 \ x E 3 \ x B 5 \ x C 4 \ x C 3 \ x C E \ x C F \ x E B   \ x B 5 \ x A B \ x C A ǵ \ x B 1 \ x B 7 \ x A 8 \ x B 9 \ x D 9 \ x C A \ x C 7 M a r s h a l l \ x B 5 \ x C 4 \ x C 3 \ x C E \ x C F \ x E B  
+ \ x B E \ x C D \ x C F \ x F 1 \ x C A ǽ \ x C C ѧ \ x B 5 \ x C 0 \ x B E \ x D F \ x D 4 ں \ x C D \ x C 8 ȴ \ x F 8 \ x C 4 \ x F 1 \ x C 0 \ x E 0   \ x B 1 Ƚ \ x C F \ x D 6 \ x D 8 Ҫ \ x D 0 \ x D 4  
+ \ x B A \ x C D С \ x F 0 \ x D 0 \ x F 0 \ x C 4 T o p û \ x B 9 \ x D 8 ϵ !  
+ \ x C E Ҳ \ x B B \ x D 0 \ x E 8 Ҫ \ x B F ͹ \ x D B  
+ \ x C 4 \ x E 3 \ x C A \ x C 7 \ x C E \ x D 2 \ x D 7 \ x E E \ x B A õ \ x C 4 \ x C 5 \ x F 3 \ x D 3 \ x D 1   \ x C E \ x D 2 ϣ \ x C D \ x F B \ x D 3 \ x D 0 \ x C 4 \ x E 3 ֧ \ x B 3 \ x D 6  
+ \ x C E Ҷ \ x A E   \ x C E \ x D 2 ֧ \ x B 3 \ x D 6 \ x C 4 \ x E 3  
+ -   \ x B 6 Բ \ x B B \ x C 6 \ x F 0   -   \ x C E \ x D 2 Ҳ \ x C A \ x C 7  
+ \ x C D \ x F C \ x C 4 \ x C 3 \ x C A ֻ \ x F A \ x C 1 \ x C B   \ x B 2 \ x B B \ x B A \ x C 3 \ x D 2 \ x E 2 ˼   \ x C 4 \ x E 3 \ x C 3 Ǵ \ x F 3 \ x B 8 \ x C 5 \ x D 4 \ x D A ̸ \ x B B \ x E 9 \ x C 0 \ x F 1 ϸ \ x B D \ x D A   \ x B 2 \ x B B \ x B F \ x C 9 \ x C 4 \ x D C \ x D 3 а \ x E 9 \ x C 4 \ x E F \ x B B \ x E 1 \ x D 4 \ x D A \ x D 0 \ x C 2 \ x C 4 \ x E F \ x B 5 Ĵ \ x F 3 \ x C 8 \ x D 5 \ x D 7 \ x D 3  
+ \ x D 3 \ x C 3 \ x D 7 Լ \ x B A \ x B 5 \ x C 4 \ x C A \ x C 2 \ x C 7 \ x E 9 \ x C 7 \ x C 0 ȥ \ x B 7 \ x E 7 ͷ   \ x B 6 ԰ \ x C 9 ?  
+ ̹ \ x B 3 \ x C F \ x C F \ x E 0 \ x B 4 \ x F D   \ x B D \ x E 3 \ x C 3 Ƕ \ x F 9 !  
+ \ x C B \ x F B ˵ \ x B 5 ö \ x D 4   Ϊ ʲ ô \ x B 6 \ x B C \ x D 4 \ x D A ˵ \ x C 4 \ x E 3 ?  
+ \ x C 4 \ x E 3 \ x D 5 \ x F B \ x B 8 \ x F 6 \ x D 6 \ x D C ĩ \ x B 6 \ x B C \ x D 4 \ x D A ˵ M a r s h a l l  
+ \ x C E \ x D 2 û \ x D 3 \ x D 0 !  
+ \ x C 4 \ x E 3 \ x D 7 \ x F 6 \ x C 1 ˸ \ x F 6 \ x D 5 \ x E D ͷ \ x C 8 \ x C B ż   \ x B 8 \ x F 8 \ x C B \ x F B \ x C 6 \ x F 0 \ x C 1 \ x C B \ x C B \ x F B \ x B 5 \ x C 4 \ x C 3 \ x F B \ x D 7 ֺ \ x C D \ x C B \ x F B һ \ x C 6 \ x F 0 ˯  
+ \ x B 2 \ x C 5 û \ x D 3 \ x D 0 !  
+ \ x C E \ x D 2 \ x C 3 \ x C 7 \ x C D \ x E A \ x C A ¶ \ x F 9 \ x D 2 Ժ \ x F 3   M a r s h \ x D 5 \ x E D ͷ \ x C A \ x C 7 ˯ ɳ \ x B 7 \ x A 2 \ x B 5 \ x C 4 !  
+ -   \ x C E Ҿ \ x C D ˵ !     -   \ x C C \ x E C \ x C 4 \ x C 5   ̫ \ x B F \ x C 9 Ц \ x C 1 \ x C B !   D a r r e n \ x B 6 \ x D 4 \ x C 4 \ x E 3 \ x D 7 \ x F 6 \ x C 1 \ x C B ʲ ô ?  
+ \ x B C \ x B 8 \ x C 4 \ x E A ǰ   \ x C E \ x D 2 \ x D 7 \ x E 9 \ x C 1 ˸ \ x F 6 \ x C 0 ֶ \ x D 3  
+ \ x C 4 㶮 \ x B 5 \ x C 4   \ x B E \ x C D \ x C A Ǵ \ x F 2 \ x B 7 \ x A 2 ʱ \ x B C \ x E 4 . . .   ֻ \ x D 3 \ x D 0 \ x C E Һ ͼ \ x B 8 \ x B 8 \ x F 6 \ x C 9 \ x C C ѧ Ժ \ x B 5 Ĵ \ x F 4 \ x D 7 \ x D 3  
+ \ x C E Ҷ \ x B C \ x B 2 \ x B B \ x B A \ x C 3 \ x D 2 \ x E 2 ˼ \ x B 8 \ x E 6 \ x C B \ x D F \ x C 4 \ x E 3 \ x C 0 ֶ \ x D 3 \ x C 3 \ x F B \ x D 7 \ x D 6  
+ \ x C E \ x D 2 \ x D 7 \ x E 9 \ x B 9 \ x F D һ \ x B 8 \ x F 6 \ x C 2 \ x C 9 ʦ \ x B 5 \ x C 4 \ x C 0 ֶ \ x D 3   \ x C 3 \ x F B \ x D 7 ֽ \ x D 0   F u n k   ȫ F u n k   ֻ \ x D 3 \ x D 0 F u n k  
+ \ x C E Ҿ \ x F 5 \ x B 5 ÿ \ x C 9 \ x D 2 Է \ x C 5 \ x D 0 Ľ \ x B 2 \ x C E ҵ \ x C 4 \ x C 0 ֶ \ x D 3 \ x C 3 \ x F B \ x D 7 \ x D 6 \ x C 1 \ x C B . . .  
+ -   \ x B 3 \ x A C \ x B 1 \ x E 4 ̬ \ x B E \ x A D \ x B C \ x C 3 ѧ   -   \ x B 2 \ x B B \ x B 4 \ x E D  
+ \ x D 7 \ x D C ֮   \ x C E \ x D 2 \ x D 2 \ x F D \ x B C \ x F 6 \ x C 1 \ x C B D a r r e n һ \ x C 6 \ x F 0 \ x D 7 \ x F 6 \ x D 6 \ x F 7 \ x B 3 \ x A A   \ x C B \ x F B \ x B E \ x C D \ x C D \ x E A ȫ \ x B D \ x D 3 \ x C A \ x D 6 \ x C 1 \ x C B   һ \ x B F \ x A A ʼ \ x C 7 \ x C 0 \ x D 7 \ x D F \ x C 1 \ x C B \ x C E ҵ Ķ \ x C 0 \ x B 3 \ x A A   Ȼ \ x B A \ x F 3 \ x C E ҽ \ x B 5 \ x B C \ x B 6 \ x B 3 \ x C 9 \ x C 1 ˺ \ x F 2 \ x B 2 \ x B 9 \ x D 6 \ x F 7 \ x B 3 \ x A A  
+ \ x C F \ x D 6 \ x D 4 \ x D A \ x C E \ x D 2 Ψ һ \ x C 4 \ x D C \ x C 4 \ x C 3 \ x C 9 \ x C F \ x C 2 \ x F 3 \ x B 5 Ļ \ x F A \ x B B \ x E 1 \ x C A \ x C 7   D a r r e n \ x B 5 \ x D A һ \ x B 4 μ \ x D 9 װ \ x C F ³ \ x A 1 \ x B 5 \ x C 4 ʱ \ x B A \ x F 2  
+ \ x C E \ x D 2 ˵ һ \ x B E \ x E 4 " \ x C 4 \ x E 3 \ x C 3 ǻ \ x B 9 \ x C F \ x E B \ x C C \ x F D D a r r e n \ x C 2 \ x F 0 ? "  
+ Ȼ \ x B A \ x F 3 \ x B D \ x F 1 \ x C C \ x E C   \ x C E \ x D 2 \ x D 4 \ x D A \ x C D \ x F 8 \ x C 9 Ͽ \ x B 4 \ x B 5 \ x B D \ x D 5 \ x E 2 \ x B 8 \ x F 6 \ x B 9 \ x E 3 \ x B 8 \ x E 6  
+ -   " \ x D 5 л 쵰 \ x D 1 \ x D D \ x D 7 \ x E 0 \ x C A \ x D 6 " ?     -   \ x B 0 Ѵ \ x F 3 Ĵ ָ \ x C 4 ÿ \ x A A  
+ Ŷ " \ x D 5 б \ x B 4 ˹ \ x C A \ x D 6 "  
+ ʲ ô   \ x C B \ x F B Ҫ \ x B 0 \ x D 1 \ x C 4 \ x E 3 \ x B 8 ϳ \ x F 6 \ x C 4 \ x E 3 \ x D 7 Լ \ x B A \ x B 5 \ x C 4 \ x C 0 ֶ \ x D 3 ?  
+ û \ x B 4 \ x E D   \ x B 5 \ x A B \ x C A \ x C 7 . . .  
+ -   \ x C E \ x D 2 \ x C D ˳ \ x F 6 \ x C 1 \ x C B   -   \ x C 4 \ x E 3 \ x C D ˳ \ x F 6 \ x C 1 \ x C B ? !   \ x B E \ x C D \ x D 5 \ x E 2 \ x D 1 \ x F 9 ?  
+ \ x D 5 \ x E 2 \ x B F \ x C 9 \ x C A \ x C 7 \ x C 4 \ x E 3 \ x B 5 \ x C 4 \ x C 0 ֶ \ x D 3 . . .   \ x C 4 \ x E 3 \ x B F ϶ \ x A 8 \ x B A \ x D C \ x C 4 ջ \ x F 0 !  
+ \ x C 4 \ x E 3 \ x D 5 \ x E 2 ô ˵ \ x D 5 \ x E 6 \ x D 3 \ x D 0 \ x D 2 \ x E 2 ˼  
+ \ x D 2 \ x F 2 Ϊ \ x C E \ x D 2 \ x C 0 뿪 \ x B E Ƶ \ x E A \ x B 5 \ x C 4 ʱ \ x B A \ x F 2 \ x D 3 \ x F 6 \ x B 5 \ x B D һ \ x B 8 \ x F 6 \ x C 8 \ x C B  
+ \ x C 4 \ x E 3 \ x B 5 \ x C 3 ͵ \ x B 5 \ x F 4 \ x D 5 \ x E 2 \ x B 8 \ x F 6 \ x B 4 \ x C 0 \ x B 5 \ x B 0 \ x B 5 ĳ \ x B 5  
+ A l d r i n \ x B 9 \ x A B \ x D 5 \ x F D   \ x B 2 \ x B B \ x B 4 \ x E D !  
+ -   \ x C 4 \ x E 3 \ x C 6 \ x D E \ x D 7 Ӻ ܿ \ x E 1   -   \ x B 3 \ x A C \ x B F \ x E 1 \ x B 5 \ x C 4   \ x C B \ x F D \ x D 3 \ x D 0 û \ x D 3 \ x D 0 ǡ \ x B A \ x C 3 \ x C C ᵽ  
+ \ x C E \ x D 2 \ x C B \ x E 3 \ x C A ǻ \ x D 9 \ x C 1 \ x C B \ x C B \ x F D ȥ \ x D 2 \ x E 2 \ x B 4 \ x F 3 \ x C 0 \ x F B \ x B 5 \ x C 4 \ x C 3 \ x C E \ x C F \ x E B ?  
+ \ x C 4 Ǹ \ x F 6 \ x C A \ x C 7 \ x D 3 \ x D 0 \ x C C \ x E 1 \ x C 6 \ x F 0 \ x C 0 \ x B 2  
+ \ x C 4 \ x E 3 \ x B 5 \ x C 3 ͵ \ x D 7 \ x D F \ x C 4 Ǹ \ x F 6 \ x B 4 \ x C 0 \ x B 5 \ x B 0 \ x B 5 ĳ \ x B 5  
+ Ȼ \ x B A \ x F 3 \ x B 4 \ x D 3 \ x C E \ x D 2 \ x D 5 ɷ \ x F 2 \ x C 9 \ x E D \ x C 9 \ x C F ѹ \ x B 9 \ x F D ȥ  
+ \ x C E Ҿ \ x F 5 \ x B 5 \ x C 3 \ x C 4 \ x E 3 \ x C 3 ǻ \ x E 1 \ x D 3 \ x D 0 һ \ x B 3 \ x A 1 \ x B 6 \ x F 1 ̸  
+ \ x C 4 \ x E 3 Ҳ \ x C A \ x C 7  
+ \ x B 5 \ x C 8 \ x C E \ x D 2 \ x C 3 ǵ \ x B D F a r h a m p t o n \ x C 2 ù \ x D D   \ x C 4 \ x E 3 \ x B E ͽ \ x F 8 ȥ   \ x C 3 \ x E 6 \ x B 6 \ x D 4 D a r r e n  
+ \ x B 1 \ x F 0 ѽ   \ x C E \ x D 2 \ x D 2 Ѿ \ x A D \ x D 3 \ x C 3 \ x C 1 \ x C B A l d r i n \ x B 9 \ x A B \ x D 2 \ x E 5 \ x C 1 \ x C B  
+ û \ x B 4 \ x E D   \ x B 5 \ x A B \ x C E Ҳ \ x C 2 \ x C 4 \ x E 3 \ x B B \ x E 1 \ x B 0 ѳ \ x B 5 \ x B B \ x B 9 \ x B 8 \ x F 8 \ x C B \ x F B  
+ \ x D 6 \ x C 1 \ x C 9 \ x D 9 \ x D 4 \ x D A \ x C 0 \ x E F \ x C 3 \ x E 6 \ x C 8 \ x F 6 \ x B 8 \ x F 6 \ x C 4 \ x F 2 ?  
+ \ x C E Ҵ \ x F 2 \ x C B \ x E 3 \ x B C \ x D 3 \ x C 2 \ x F A \ x D 3 \ x C D \ x D 4 \ x D 9 ϴ \ x B 8 \ x F 6 \ x B 3 \ x B 5 \ x B 5 \ x C 4  
+ \ x C 4 \ x E 3 ̫ \ x C 9 \ x C 6 \ x C 1 \ x B C \ x C 1 \ x C B   \ x B A \ x C D \ x C E \ x D 2 һ \ x D 1 \ x F 9  
+ \ x B 5 \ x A B \ x D 3 \ x D 0 ʱ \ x B E ͵ \ x C 3 ȥ \ x B 8 \ x F 8 \ x D 7 Լ \ x B A \ x B 3 \ x F 6 ͷ  
+ \ x C E \ x D 2 \ x D 7 \ x D C \ x C A \ x C 7 \ x C D \ x C B \ x C B \ x F 5   \ x B 8 \ x B D \ x B A ͱ \ x F 0 \ x C 8 ˵ \ x C 4 \ x D 2 \ x E 2 \ x B C \ x F B  
+ -   \ x C E \ x D 2 û \ x B 7 \ x A 8 \ x B A \ x C D \ x C 8 ˶ \ x D 4 \ x D 6 \ x C 5   -   \ x C 4 \ x E 3 \ x B F \ x C 9 \ x D 2 Ե \ x C 4  
+ -   \ x C 4 \ x E 3 ˵ \ x B 5 \ x C 4 ̫ \ x D 3 е \ x C 0 \ x C 0 \ x E D \ x C 1 \ x C B   -   \ x C C \ x F D \ x D 7 \ x C 5  
+ \ x C E Ҳ \ x B B \ x C 1 ˽ \ x E 2 \ x C 4 \ x E 3   \ x B 5 \ x A B \ x C E Ҿ \ x F 5 \ x B 5 \ x C 3 \ x C 4 \ x E 3 \ x B A ܼ \ x E 1 ǿ  
+ \ x C A \ x C 7 \ x C 4 \ x E 3 \ x B 5 \ x C 4 \ x C 0 ֶ \ x D 3  
+ \ x B 1 \ x F 0 \ x C 8 \ x C 3 D a r r e n ͵ \ x D 7 \ x D F  
+
+ \ x B 2 \ x B B \ x D 0 а \ x A 1   \ x C F \ x D 6 \ x D 4 \ x D A \ x C E \ x D E \ x C B \ x F 9 ν \ x B 4 \ x F 2 \ x B 0 ܶ \ x F 1 ħ \ x C 1 \ x C B   \ x C B \ x F B \ x C F \ x D 6 \ x D 4 \ x D A \ x C A Ǳ \ x F 0 \ x C 8 ˵ \ x C 4 \ x C 2 鷳  
+ \ x B 6 Բ \ x B B \ x C 6 \ x F 0 \ x C E \ x D 2 \ x D 5 \ x F B \ x B 8 \ x F 6 \ x D 6 \ x D C ĩ \ x B 6 \ x B C \ x B A ܷ \ x D 6 \ x D 0 \ x C 4  
+ \ x B F \ x C 9 \ x D 2 Բ \ x B B \ x B 3 \ x B 3 \ x C 1 \ x C B \ x C 2 \ x F 0 ?   \ x B A ܺ \ x C 3   R o b i n   \ x C 4 \ x E 3 \ x D 6 \ x D 5 \ x D 3 ڸ \ x E 6 \ x C B \ x D F L i l y \ x C 4 \ x E 3 \ x B E \ x F 5 \ x B 5 \ x C 3  
+ \ x C B \ x F D ȥ \ x D 2 \ x E 2 \ x B 4 \ x F 3 \ x C 0 \ x F B \ x B A \ x C 3 \ x C F \ x F 1 \ x C 5 \ x D 7 \ x C 6 \ x F A \ x C 1 \ x C B \ x C 4 \ x E 3 \ x D 5 \ x E 2 \ x B 8 \ x F 6 \ x C 5 \ x F 3 \ x D 3 \ x D 1  
+ ̹ \ x B 3 \ x C F Ϊ \ x C 9 \ x C F   \ x D 3 \ x C 0 \ x B A \ x E 3 \ x D 5 \ x E 6 \ x C 0 \ x E D  
+
+ -   \ x C E \ x D 2 û . . .     -   T e d  
+ \ x C 4 \ x E 3 \ x B 0 \ x E 1 ȥ ֥ \ x B C Ӹ \ x E 7 \ x D 2 Ժ \ x F 3   һ \ x B 6 \ x A 8 Ҫ \ x B 3 \ x A 2 \ x B 3 \ x A 2 G a z z o l a \ x C 5 \ x F B \ x C 8 \ x F 8  
+ ˫ \ x C A ֺ \ x C F ʮ   \ x C E ҵ ĵ \ x D C \ x D 0 \ x D 6  
+
+ \ x C 4 \ x E 3 Ҫ \ x B 0 \ x E 1 ȥ ֥ \ x B C Ӹ \ x E 7 ?   \ x D 5 \ x E 2 \ x C A Ǹ \ x F 6 \ x D 5 \ x E 6 \ x B 5 ĵ ط \ x B D \ x C 2 \ x F 0 ?  
+ \ x D 5 \ x E 2 \ x C A \ x C 7 \ x D 6 \ x D 6 \ x C 5 \ x F B \ x C 8 \ x F 8   T e d   \ x C 4 㲻 \ x C 4 \ x D C ס \ x D 4 \ x D A \ x C 5 \ x F B \ x C 8 \ x F 8 \ x C 0 \ x E F  
+ \ x C E \ x D 2 \ x D 4 \ x D A \ x C 4 Ƕ \ x F 9 \ x C 4 õ \ x B D һ \ x B 8 \ x F 6 \ x B A ܰ \ x F 4 \ x B 5 Ĺ \ x A 4 \ x D 7 \ x F 7  
+ \ x C C \ x F D \ x D 7 \ x C 5 L i l y ֪ \ x B 5 \ x C 0   \ x B 5 \ x A B M a r s h a l l \ x B A \ x C D R o b i n   \ x B 2 \ x B B ֪ \ x B 5 \ x C 0   \ x C B \ x F 9 \ x D 2 Ա \ x F 0 \ x D 0 \ x F B \ x D 1 \ x E F  
+ \ x C 4 \ x E 3 Ҫ \ x B 0 \ x E 1 ȥ ֥ \ x B C Ӹ \ x E 7 ? !  
+ \ x C B \ x F B Ҫ \ x B 0 \ x E 1 ȥ ֥ \ x B C Ӹ \ x E 7 !  
+ ʲ ô ʱ \ x B A \ x F 2 ?  
+ \ x D 6 \ x C 1 \ x C 9 \ x D 9 \ x C A \ x C 7 \ x C 3 \ x F 7 \ x C 4 \ x E A ֮ \ x C 0 \ x E 0 \ x B 5 İ \ x C 9  
+ \ x C A \ x C 7 . . . \ x D 6 \ x D C һ  
+ \ x D 6 \ x D C һ ? !   \ x C 4 \ x E 3 Ҫ \ x D 4 \ x D A \ x C E ҵ Ļ \ x E 9 \ x C 0 \ x F 1 \ x B A \ x F 3 һ \ x C C \ x E C \ x B E \ x C D \ x C F \ x F B ʧ ?  
+
+
+ \ x D 7 \ x F 6 \ x C 1 \ x C B ʮ \ x C 4 \ x E A \ x D 7 \ x E E \ x B A õ \ x C 4 \ x C 5 \ x F 3 \ x D 3 \ x D 1 \ x D 2 Ժ \ x F 3 ?  
+ -   \ x C 6 \ x E 4 ʵ M a r s h a l l \ x B 2 \ x C 5 \ x C A \ x C 7 \ x C E \ x D 2 . . .     -   \ x C F 붼 \ x B 1 \ x F 0 \ x C F \ x E B !  
+ -   \ x B A ܹ \ x A B ƽ     -   \ x C 4 \ x E 3 \ x B E \ x C D \ x C C \ x E 1 ǰ һ \ x C C \ x E C ͨ ֪ \ x C E \ x D 2 ?  
+ \ x C E Ҳ \ x B B ϣ \ x C D \ x F B \ x D 4 \ x D A \ x C 4 \ x E 3 \ x B D \ x E 1 \ x B B \ x E 9 \ x B 5 \ x C 4 ʱ \ x B A \ x F 2 \ x C 8 \ x C 3 \ x C 4 㵣 \ x D 0 \ x C 4  
+ \ x B 2 \ x B B   \ x B A ܺ \ x C 3  
+ \ x C F \ x D 6 \ x D 4 \ x D A \ x C E \ x D 2 ֪ \ x B 5 \ x C 0 \ x C E \ x D 2 \ x D 4 \ x D A \ x C 4 \ x E 3 \ x D 0 \ x C 4 \ x C 0 \ x E F \ x B 5 ĵ \ x D 8 λ   ˵ \ x D 4 ټ \ x F B \ x B E \ x C D \ x C 8 \ x D D \ x D 2 ׶ \ x E 0 \ x C 1 \ x C B  
+
+
+
+
+ \ x C C \ x F D \ x D 7 \ x C 5   \ x C E \ x D 2 . . . \ x C E Ҿ \ x F 8 \ x B 2 \ x B B \ x B B \ x E 1 ֧ \ x B 3 \ x D 6 M a r s h a l l  
+ \ x C E һ \ x E 1 ֧ \ x B 3 \ x D 6   \ x B 2 \ x B B ʧ ȥ \ x C E \ x D 2 \ x D 7 \ x E E \ x B A õ \ x C 4 \ x C 5 \ x F 3 \ x D 3 \ x D 1  
+ \ x B E \ x C D \ x D 5 \ x E 2 ô \ x D 7 \ x D 4 ˽  
+ \ x C E \ x D E \ x C 2 \ x D B \ x C 4 \ x E 3 ȥ \ x C 4 Ķ \ x F 9   \ x C E Ҷ \ x B C վ \ x D 4 \ x D A \ x C 4 \ x E 3 \ x D 5 \ x E 2 \ x B 1 \ x D F   \ x D 3 \ x C 0 Զ  
+ Ϊ \ x C 1 \ x C B ֤ \ x C 3 \ x F 7 . . .  
+
+ \ x C 4 \ x E 3 \ x C 4 \ x C 3 M a r s h \ x D 5 \ x E D ͷ \ x B 8 \ x C 9 \ x C 2 \ x E F ?  
+ \ x B 7 \ x F 6 \ x D 7 \ x C 5 \ x C B \ x F C   \ x C 8 \ x C 3 \ x C 4 \ x E 3 \ x B 0 \ x D 1 \ x D 5 \ x E 2 \ x B 8 \ x F 6 \ x B B 쵰 ʹ \ x D 7 \ x E 1 һ \ x B 6 \ x D 9  
+ \ x D 5 \ x E 2 \ x B E \ x C D \ x C A \ x C 7 \ x D 7 \ x E E \ x B A õ \ x C 4 \ x C 5 \ x F 3 \ x D 3 \ x D 1  
+ л л   \ x B 5 \ x A B \ x D 5 ⲻ \ x B B \ x E 1 \ x D 3 \ x D 0 \ x D 3 õ \ x C 4  
+ \ x C A \ x D 4 \ x C A \ x D 4 \ x C 2 \ x E F   \ x B E \ x C D һ ȭ  
+
+ \ x C D \ x D B Ŷ   \ x B 8 о \ x F 5 \ x C 1 \ x B C \ x B A \ x C 3  
+ \ x B E \ x C D \ x C A \ x C 7 \ x D 5 \ x E 2 \ x D 1 \ x F 9   \ x C 7 װ \ x A E \ x B 5 \ x C 4  
+ һ \ x B 6 \ x F E һ   һ \ x B 6 \ x F E һ  
+
+ B a r n e y   \ x B 5 ȵ \ x C 8   \ x B 5 \ x C 8 һ \ x C F \ x C 2 !  
+ \ x C 4 \ x E 3 \ x D 5 \ x E 2 \ x B 8 \ x F 6 \ x C 5 \ x F 3 \ x D 3 Ѷ \ x D 4 \ x C E \ x D 2 \ x C 0 \ x B 4 ˵ \ x B A \ x D C \ x D 6 \ x D 8 Ҫ  
+ \ x C E \ x D 2 \ x D 2 \ x D 4 \ x C E \ x D 2 \ x C 0 \ x C F \ x C 2 \ x E 8 \ x B 5 \ x C 4 . . .   \ x B 2 \ x B B   \ x C E \ x D 2 \ x C F \ x F 2 \ x C 9 ϵ ۷ \ x A 2 \ x C A \ x C 4  
+ \ x B 2 \ x B B   \ x C E \ x D 2 \ x C F \ x F 2 H e f \ x B 7 \ x A 2 \ x C A \ x C 4   \ x B 2 \ x B B Ҫ \ x B 9 \ x B C \ x B 8 \ x B A \ x C 1 \ x C B \ x D 5 \ x E 2 \ x B 8 \ x F 6 \ x C 3 \ x F B \ x D 7 \ x D 6  
+ \ x C 8 \ x E 7 \ x B 9 \ x F B \ x C 4 \ x E 3 Ҫ \ x C 0 뿪   Ӧ \ x B 8 ø \ x E 6 \ x C B ߶ \ x D 4 \ x C 4 \ x E 3 \ x D 6 \ x D 8 Ҫ \ x B 5 \ x C 4 \ x C 8 \ x C B  
+ \ x C E Ҳ \ x B B \ x B 9 \ x F D \ x C A \ x C 7 \ x C 4 \ x E 3 \ x D 4 \ x D A Ŧ Լ \ x B 5 ľ \ x C 9 \ x C F \ x E 0 ʶ \ x B 0 \ x D 5 \ x C 1 \ x C B  
+ ι  
+
+ \ x C D \ x D B   \ x D 4 \ x F 5 ô \ x B B \ x E 1 ?  
+
+
+ \ x D 5 \ x E 2 ƿ \ x B E \ x C 6 ֵ 6 0 0 \ x B 5 \ x B 6  
+ T e d   \ x D 5 \ x E 2 \ x B F \ x C 9 \ x C A \ x C 7 \ x D 6 ش \ x F 3 \ x B 5 \ x C 1 \ x C 7 \ x D 4  
+ \ x C 4 \ x E 3 \ x D 5 \ x E 6 \ x B 5 Ŀ \ x C 9 \ x C 4 \ x D C Ϊ \ x B 4 ˽ \ x F 8 \ x B E \ x D 6 \ x D 7 \ x D 3   \ x D 5 \ x E 2 \ x C A \ x C 7 \ x C E ҵ \ x C 4 \ x C 3 \ x C E \ x C F \ x E B  
+ \ x C B \ x F 9 \ x D 2 \ x D 4 ˵ . . .   \ x C 4 \ x E 3 Ҫ \ x B 0 \ x E 1 ȥ ֥ \ x B C Ӹ \ x E 7  
+ -   \ x C E \ x D 2 Ҫ ȥ ֥ \ x B C Ӹ \ x E 7     -   Ϊ ʲ ô ?  
+ \ x C E \ x D 2 ֪ \ x B 5 \ x C 0 M a r s h a l l \ x B A \ x C D L i l y Ҫ \ x D 7 \ x D F   \ x B 5 \ x A B Ҳ \ x B 2 \ x B B \ x B 9 \ x F D 1 \ x C 4 \ x E A  
+ \ x B 6 \ x F 8 \ x C 7 \ x D 2 \ x D 4 \ x D A \ x D 5 \ x E 2 \ x C 6 ڼ \ x E 4 \ x C E \ x D 2 \ x C 3 \ x C 7 Ҳ \ x B B \ x B 9 \ x B B \ x E 1 һ ֱ \ x B C \ x F B \ x C 3 \ x E 6   \ x C 4 \ x E 3   \ x C E \ x D 2   R o b i n . . .  
+
+ \ x C E \ x D 2 \ x D 0 \ x E 8 Ҫ һ \ x B 8 \ x F 6 \ x D 0 µ Ŀ \ x A A ʼ  
+
+ -   \ x C E һ \ x E 1 \ x C F \ x E B \ x C 4 \ x E 3 \ x B 5 \ x C 4   -   \ x C E \ x D 2 Ҳ \ x B B \ x E 1 \ x B 7 ǳ \ x A 3 \ x C F \ x E B \ x C 4 \ x E E \ x C 4 \ x E 3  
+
+
+ \ x B A õ \ x C 4   \ x C E \ x D 2 \ x C 3 ǵ \ x B D \ x C 1 \ x C B   ף \ x C 4 \ x E 3 \ x B A \ x C 3 \ x D 4 \ x C B  
+ л л   \ x B 1 \ x F 0 \ x B 5 \ x A 3 \ x D 0 \ x C 4   \ x D 4 ڻ \ x E 9 \ x D 1 \ x E 7 \ x C 9 \ x C F    
+
+ ÿ \ x C A ׸ 質 \ x C D \ x E A \ x B A \ x F 3 \ x C E Ҷ \ x B C \ x B B Ằ   " \ x D 5 \ x E 2 \ x B 8 \ x F 6 \ x D 6 \ x F 7 \ x B 3 \ x A A \ x D 5 \ x E 6 \ x C 0 \ x A C \ x B B \ x F 8 "  
+ \ x C E һ \ x E 1 \ x C F \ x E B \ x B 3 \ x F 6 \ x B 1 \ x C 8 " \ x D 5 \ x E 6 \ x C 0 \ x A C \ x B B \ x F 8 " \ x B 8 \ x F C \ x B A õ Ĵ \ x C A \ x C 0 \ x B 4  
+ \ x B 2 \ x B B   \ x B 2 \ x B B   " \ x D 5 \ x E 6 \ x C 0 \ x A C \ x B B \ x F 8 " \ x D 2 Ѿ \ x A D \ x B A ܸ \ x F 8 \ x C 1 \ x A 6 \ x C 1 \ x C B  
+ \ x B 5 \ x A B \ x C 4 㲻 \ x C 4 ܶ \ x D 4 \ x C 1 쳪 \ x D 5 \ x E 2 \ x D 1 \ x F 9 \ x B A \ x B 0  
+ \ x D 2 \ x F 2 Ϊ \ x C E ҳ \ x A A \ x B 5 Ĳ \ x B B \ x C 0 \ x A C \ x B B \ x F 8   -   \ x C 2 \ x F D \ x D 7 \ x C 5   \ x C 4 \ x E 3 \ x C A \ x C 7 ˵ . . . ?     -   \ x C E \ x D 2 Ҫ \ x B D \ x F 8 ȥ \ x C 1 \ x C B  
+
+
+ \ x C E ҵ ú \ x C D D a r r e n ̸ ̸ \ x C E ҵ \ x C 4 \ x C 0 ֶ \ x D 3  
+ \ x D 5 \ x E 6 \ x C 0 \ x A C \ x B B \ x F 8  
+ -   \ x C 9 \ x F 9 \ x C 3 \ x F 7 һ \ x C F \ x C 2 . . .     -   \ x E 0 \ x C 5  
+ -   \ x C B \ x F B \ x B 5 \ x D A һ \ x B 4 ο \ x A A \ x B F \ x D A ˵ \ x B 5 \ x C 4 \ x C A \ x C 7 " \ x C 2 \ x E 8 \ x C 2 \ x E 8 "     -   \ x B A ð \ x C 9  
+ \ x D 5 \ x E 2 \ x C A \ x C 7 \ x C E ҵ \ x C 4 \ x C 0 ֶ \ x D 3   \ x C E \ x D 2 \ x D 7 齨 \ x B 5 \ x C 4  
+ \ x C 8 \ x E 7 \ x B 9 \ x F B \ x D 3 \ x D 0 \ x C 8 ˵ \ x C 3 \ x C 0 뿪 \ x B 5 Ļ \ x B 0   Ӧ \ x B 8 \ x C 3 \ x C A \ x C 7 \ x C 4 \ x E 3   D a r r e n  
+ \ x C B \ x F 9 \ x D 2 Թ \ x F 6 \ x B 0 \ x C 9   \ x C 0 \ x A C . . . \ x B B \ x F 8  
+ \ x D 5 \ x E 2 \ x D 3 \ x D 0 \ x C 4 \ x C 7 ô һ \ x B 6 \ x A 1 \ x B 5 \ x E 3 \ x C D \ x F E \ x C 9 \ x E 5 \ x C 1 \ x A 6 \ x C 2 \ x F 0 ?  
+ \ x C D \ x E A ȫ û \ x D 3 \ x D 0   \ x B 6 \ x F 8 \ x C 7 \ x D 2 ֯ \ x B 6 \ x A B \ x C E \ x F 7 ֻ \ x B B \ x E 1 \ x C 8 \ x C 3 \ x D 5 \ x E 2 \ x B 8 \ x F C \ x D 4 \ x E 3  
+ \ x B 2 \ x B B \ x B A \ x C 3 \ x D 2 \ x E 2 ˼   \ x C E Ҹ ռ \ x F B \ x B 5 \ x B D һ \ x B 8 \ x F 6 \ x B 1 \ x A 6 \ x B 1 \ x A 6     \ x C B \ x F B \ x D 0 \ x E 8 Ҫ һ \ x B 6 \ x A 5 ñ \ x D 7 \ x D 3  
+ \ x C 9 \ x F 1 \ x C 2 \ x E D . . . \ x B B \ x B 9 \ x D 3 \ x D 0 \ x C 4 㲻 \ x C 4 ܸ \ x C F \ x D 7 \ x D F D a r r e n   \ x C B \ x F B \ x C 1 ˽ \ x E 2 \ x C E ҵ Ļ \ x B 6 \ x C 0 ֺ Ϳ ɰ \ x A E  
+ \ x B B \ x B 9 \ x D 3 \ x D 0 \ x C B \ x F B \ x C 2 豻 \ x C B \ x F 3 \ x D 3 \ x E 3 \ x B 3 Ե \ x F 4 \ x C 1 \ x C B   \ x C B \ x F B \ x C 4 ܶ ɹ \ x F D \ x C 4 ѹ \ x D 8 \ x C A Ƕ \ x E 0 ô \ x C 0 \ x F 8 ־ \ x B 5 Ĺ \ x C A \ x C A \ x C 2 ѽ  
+ \ x B 0 \ x A 1   \ x D 5 \ x E 2 \ x C A Ǻ \ x A 3 \ x B 5 \ x D 7 \ x D 7 ܶ \ x A F Ա !  
+ \ x D 5 ⵹ \ x C A \ x C 7 \ x D 0 µ \ x C 4  
+ ħ \ x B 9 \ x E D \ x C A \ x C 7 \ x C E ޷ \ x A 8 ս ʤ \ x B 5 \ x C 4  
+ \ x D 0 ¼ ƻ \ x A E  
+ L i n u s   \ x C 8 \ x E 7 \ x B 9 \ x F B \ x C 4 \ x E 3 \ x B D \ x F 1 \ x C D \ x E D \ x B F \ x B 4 \ x B 5 \ x B D \ x C E \ x D 2 \ x C A \ x D 6 \ x D 6 е ı \ x A D \ x D 7 ӿ \ x D 5 \ x C 1 \ x C B . . .  
+ \ x B F \ x C F \ x C 4 \ x E 1 \ x B 5 \ x C F \ x C C ײ \ x C D   \ x D 5 \ x E 2 \ x B 8 \ x F 6 \ x D 6 \ x D C ĩ \ x B A \ x D C \ x C 1 \ x F 7 \ x D 0 \ x D 0  
+ л л \ x C 4 \ x E 3   L i n u s  
+
+ L i l y ?  
+ -   L i l y .    
+ -   L i l y .  
+
+
+ -   \ x D 4 \ x D D ͣ ?     -   \ x D 4 \ x D D ͣ  
+
+
+ -   л л \ x C 4 \ x E 3   L i n u s   -   \ x B 2 \ x B B \ x D 3 \ x C 3  
+ \ x D 5 \ x E 2 \ x B 8 \ x F 6 \ x C A \ x C 0 \ x C 9 \ x C F \ x D 5 \ x E 6 \ x B 5 \ x C 4 \ x D 3 л \ x B 5 \ x C 8 \ x C B  
+ \ x B 5 \ x A B \ x C B \ x F B \ x C 3 ǲ \ x B B \ x C A \ x C 7 \ x D 7 \ x D C \ x C 4 ܱ \ x B B \ x D 5 \ x F D \ x D 2 \ x E 5 \ x B 4 \ x F 2 \ x B 0 \ x D C   \ x B 6 \ x D 4 \ x C 2 \ x F 0 ?  
+
+ \ x C 4 \ x E 3 \ x C F \ x E B Ҫ \ x C F \ x E 0 \ x D 0 \ x C 5 \ x D 2 \ x F 2 \ x B 9 \ x F B \ x B 1 \ x A 8 Ӧ  
+ \ x B A \ x C 3 \ x C 1 \ x C B   ˭ \ x C F \ x E B \ x C 0 \ x B 4 һ \ x B 1 \ x A D ?   \ x C A \ x C 7 \ x C E \ x D 2 ͵ \ x C 0 \ x B 4 \ x B 5 \ x C 4  
+ \ x B 5 \ x A B \ x B 1 \ x A 8 Ӧ Ҳ \ x B 2 \ x B B һ \ x B 6 \ x A 8 \ x B B \ x E 1 \ x C 0 \ x B 4  
+ \ x C E \ x D 2 \ x D 5 \ x E 6 \ x C F \ x D B Ľ \ x C 4 \ x E 3 \ x B 5 Ļ \ x E 9 \ x D 2 \ x F 6 \ x C 8 \ x E 7 \ x B 4 ˼ \ x E 1 \ x B 9 \ x C C  
+ L o u i s e   \ x C E \ x D E \ x C 2 \ x D B \ x C B \ x F B \ x B 6 \ x D 4 \ x C E \ x D 2 ˵ \ x C 1 \ x C B ʲ ô   \ x C 4 㶼 \ x B 2 \ x B B \ x D 3 ü \ x F 5 \ x B 7 \ x C A     \ x B 9 \ x F D \ x B B \ x E 1 \ x B C \ x F B   \ x B B \ x E F \ x B C \ x C 6  
+ \ x B 6 Բ \ x B B \ x C 6 \ x F 0   \ x C E ҵ \ x C 4 \ x C 5 \ x F 3 \ x D 3 \ x D 1   \ x C E \ x D 2 \ x C F \ x E B \ x C 4 \ x E 3 \ x B 1 \ x D 8 \ x D 0 \ x E B \ x B D \ x D 3 \ x C A \ x D C \ x C 9 \ x F A \ x C 3 \ x F C \ x D 6 \ x D 0 \ x D 3 \ x D 0 Щ ʱ \ x B A \ x F 2 . . .  
+ \ x C 4 \ x E 3 \ x B E \ x C D \ x C A \ x C 7 û \ x D 3 \ x D 0 \ x D 7 \ x E E \ x B A \ x F 3 һ \ x B B \ x F 7 \ x B 5 Ļ \ x F A \ x B B \ x E 1  
+
+
+
+ \ x C 4 ܸ \ x F 8 \ x C E \ x D 2 \ x C 0 \ x B 4 \ x B 5 \ x E 3 \ x B 1 \ x F 9 \ x C 2 \ x F 0 ?  
+ \ x C 4 Ǹ \ x F 6 \ x B 0 \ x E 9 \ x C 0 ɸ ո \ x D 5 \ x C E \ x D E Ե \ x C E ޹ ʸ \ x F 8 \ x C 1 \ x C B \ x C E \ x D 2 һ ȭ  
+ \ x D 4 \ x F 5 ô   \ x C 4 \ x E 3 \ x B E \ x F 5 \ x B 5 ú ܸ \ x E 3 Ц \ x C 2 \ x F 0 ?  
+ \ x C 4 \ x E 3 \ x B 2 \ x C 2 \ x D 4 \ x F 5 ô \ x D 7 \ x C 5 ?   \ x C E Ҳ \ x B B \ x B 8 \ x C 9 \ x C 1 \ x C B   \ x C 4 \ x E 3 \ x B F \ x C 9 \ x D 2 \ x D 4 \ x C 4 û \ x D 8 \ x C 4 \ x E 3 \ x B 5 Ĵ \ x C 0 \ x C 0 ֶ \ x D 3 \ x C 1 \ x C B  
+ \ x C E һ \ x B 3 \ x C 4 \ x E E ÿ \ x B 8 \ x F 6 \ x C 8 ˶ \ x B C \ x B A \ x D C \ x D 3 Ѻ \ x C 3   û \ x D 5 \ x E 2 ô \ x B 6 \ x E 0 Ϸ \ x B E 緢 \ x C 9 \ x F A \ x B 5 \ x C 4 \ x C 0 ֶ \ x D 3  
+ \ x C E ҽ \ x A B \ x B B ع \ x E 9 \ x D 0 \ x C 2 ǹ \ x C 5 \ x D A õ \ x B 9 \ x E 5   L i n u s   \ x C E \ x D E \ x C 2 ۰ \ x E 9 \ x C 0 \ x C 9 \ x C A \ x C 7 ˭   \ x C E \ x D 2 Ҫ Ϊ \ x C B \ x F B \ x C 2 \ x F 2 һ \ x B 4 \ x F 2   \ x C 4 \ x E 3 \ x C 3 \ x C 7 \ x D 5 \ x E 2 \ x D 7 \ x E E \ x B A õ \ x C 4 \ x C B ո \ x F 1 \ x C 0 \ x B C \ x C D \ x F E ʿ \ x B C \ x C 9  
+ * Y o u   s t a r t e d   a   b a n d *  
+ * T h a t   w a s   c o o l   f o r   a   w h i l e *  
+ * B u t   i t   t u r n e d   p r e t t y   b l a n d *  
+ * I   s t a r t e d   a   f i g h t *  
+ * W i t h   a   n e i g h b o r   n e x t   d o o r *  
+ * A n d   h i s   p e s k y   w i f e . . . *  
+
+ \ x B 8 \ x F 8 \ x C 4 \ x E 3  
+ \ x D 5 \ x E 2 \ x C A \ x C 7 \ x C 4 \ x E 3 \ x C 3 \ x C 7 \ x D 6 е \ x C 4 ĳ \ x B 8 \ x F 6 \ x C 8 \ x C B \ x C 7 \ x E B \ x B 5 \ x C 4 \ x C 2 \ x F 0 ?  
+ \ x B 2 \ x B B \ x C A \ x C 7   \ x B 2 \ x B B \ x C A \ x C 7   \ x B A ð \ x C 9  
+ * A n d   h a t e   e v e n   m o r e   w h e n   y o u ' r e   n o t *  
+ \ x C D \ x D B . . . \ x D 5 \ x E 6 \ x C A \ x C 7 ̫ \ x B A ú \ x C 8 \ x C 1 \ x C B   \ x D 5 \ x E 2 \ x C A \ x C 7 ʲ ô ?  
+ \ x C A \ x C 7 3 5 \ x C 4 \ x E A \ x B 5 ĸ \ x F 1 \ x C 2 \ x D 7 \ x C 2 \ x F 3 \ x B F \ x C F \ x C 4 \ x C 9 \ x C D \ x F E ʿ \ x B C \ x C 9  
+ \ x B 5 \ x C 8 һ \ x C F \ x C 2   һ ֱ \ x D 2 \ x D 4 \ x C 0 \ x B 4 \ x C 4 \ x E 3 \ x C 3 Ƕ \ x B C \ x D 3 \ x D 0 3 5 \ x C 4 \ x E A \ x B 5 ĸ \ x F 1 \ x C 2 \ x D 7 \ x C 2 \ x F 3 \ x B F \ x C F \ x C 4 \ x C 9 \ x C D \ x F E ʿ \ x B C \ x C 9 ?  
+
+ Ϊ ʲ ô \ x C 4 \ x E 3 ʲ ô Ҳ û ˵ ?  
+ \ x C 4 \ x E 3 Ҳ û \ x C E ʹ \ x F D 3 5 \ x C 4 \ x E A \ x B 5 \ x C 4 ѽ  
+ \ x B A \ x A 2 \ x D 7 \ x D 3 \ x C 3 \ x C 7   \ x D 5 \ x E 2 \ x C A \ x C 7 \ x C 4 \ x E 3 \ x C 3 \ x C 7 \ x C 0 \ x C F \ x C 2 \ x E 8 \ x B 5 \ x D A һ \ x B 4 θ \ x F 8 \ x C E \ x D 2 \ x C 2 \ x F 2 \ x B E \ x C 6  
+
+
+ B a r n e y   \ x B A \ x D C \ x D 2 ź \ x B 6 \ x B 4 \ x E D \ x B 9 \ x F D \ x C 1 \ x C B \ x C 4 \ x E 3 \ x B 5 Ĳ \ x C A \ x C 5 \ x C 5 \ x C D \ x E D \ x D 1 \ x E 7  
+ û \ x B 9 \ x D 8 ϵ \ x B 5 \ x C 4  
+ \ x C E \ x D 2 \ x C 3 \ x C 7 ѹ \ x B 8 \ x F 9 û \ x B 7 \ x A 2 \ x C F \ x D 6 \ x C 4 㲻 \ x D 4 \ x D A   \ x B B 쵰  
+ \ x C C \ x F D \ x C E \ x D 2 ˵   \ x C E \ x D 2 ֪ \ x B 5 \ x C 0 û \ x B 7 \ x A 8 Ϊ \ x C E ҵ ĳ ٵ \ x B D \ x B 2 \ x B 9 \ x B 3 \ x A 5  
+ \ x B 5 \ x A B \ x C E Ҹ \ x F 8 \ x C 4 \ x E 3 ׼ \ x B 1 \ x B 8 \ x C 1 \ x C B һ \ x B 7 \ x D D \ x C C ر \ x F 0 \ x B 5 \ x C 4 \ x C 0 \ x F 1 \ x C E \ x E F  
+ \ x B A ð \ x C 9   \ x C 4 ó \ x F 6 \ x C 0 \ x B 4 \ x B 0 \ x C 9   \ x D 6 \ x E D ͷ   \ x C 4 \ x E 3 \ x B F \ x C 9 \ x C 4 \ x D C \ x C F \ x E B Ҫ \ x B 5 ȵ \ x B D \ x C 5 \ x C 4 \ x C D \ x E A \ x B D \ x E 1 \ x B B \ x E 9 \ x D 5 \ x D 5 \ x D 2 Ժ \ x F 3 \ x D 4 ٿ \ x B 4  
+ \ x C F \ x D 6 \ x D 4 ڽ \ x B B \ x B 3 \ x F 6 \ x C 0 \ x B 4   \ x D 3 \ x D 0 " \ x C 2 \ x C 3 \ x D 0 \ x D 0 \ x C 6 \ x F 8 " \ x B 5 ļ һ \ x E F  
+ \ x B A ð \ x C 9   B a r n e y   \ x C E һ \ x E 1 \ x B 7 \ x E E \ x C 9 ϵ \ x C 4  
+ Ŷ   \ x C C \ x E C \ x C 4 \ x C 5   \ x C A ǵ \ x D A 4 \ x B 8 \ x F 6 \ x B 6 \ x F A \ x B 9 \ x E 2   \ x C E \ x D 2 \ x D 5 \ x E 6 \ x B 8 \ x C 3 \ x C B \ x C 0  
+ \ x B 1 \ x B E \ x C 2 \ x D B ̳ \ x D 7 \ x D 6 Ļ \ x B D \ x F 6 \ x B 7 \ x A D \ x D 2 뽻 \ x C 1 \ x F 7 ѧ ϰ ֮ \ x D 3 \ x C 3   \ x B D \ x F B ֹ \ x C 8 κ \ x C E \ x C 9 \ x C C ҵ \ x D 3 \ x C 3 ; \ x B 7 \ x F 1 \ x D 4 \ x F 2 \ x B A \ x F 3 \ x B 9 \ x F B \ x D 7 Ը \ x B A  
+ \ x B 7 \ x A D \ x D 2 \ x E B :
+   E c h o   ʳ \ x C 3 \ x C E \ x F 5 \ x F 8   t s   \ x C 0 ū \   У \ x B 6 \ x D 4 :   \ x B 4 м ҵ \ x C 4 С ë ë    

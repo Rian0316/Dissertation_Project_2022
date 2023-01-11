@@ -1,0 +1,355 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE cesAlign PUBLIC "-//CES//DTD XML cesAlign//EN" "">
+<cesAlign version="1.0">
+<linkGrp targType="s" fromDoc="./opensubs/583616/eng/1952109382.xml" toDoc="./opensubs/583616/chi/1951656884.xml">
+<link id="SL0" xtargets="1;1" overlap="0.162" />
+<link id="SL1" xtargets="2;2" overlap="0.643" />
+<link id="SL2" xtargets="3 4;3" overlap="0.824" />
+<link id="SL3" xtargets="5;4" overlap="0.788" />
+<link id="SL4" xtargets="6;5" overlap="0.194" />
+<link id="SL5" xtargets="7;6" overlap="0.598" />
+<link id="SL6" xtargets="8;7" overlap="0.768" />
+<link id="SL7" xtargets="9;8" overlap="0.893" />
+<link id="SL8" xtargets="10;9" overlap="0.688" />
+<link id="SL9" xtargets="11;10" overlap="0.584" />
+<link id="SL10" xtargets="12;11" overlap="0.470" />
+<link id="SL11" xtargets="13;12" overlap="0.508" />
+<link id="SL12" xtargets="14;13" overlap="0.705" />
+<link id="SL13" xtargets="15;14" overlap="0.672" />
+<link id="SL14" xtargets="16;15" overlap="0.553" />
+<link id="SL15" xtargets="17;16" overlap="0.671" />
+<link id="SL16" xtargets="18;17" overlap="0.650" />
+<link id="SL17" xtargets="19;18" overlap="0.035" />
+<link id="SL18" xtargets="20;19" overlap="0.641" />
+<link id="SL19" xtargets="21 22;20" overlap="0.560" />
+<link id="SL20" xtargets="23;21" overlap="0.338" />
+<link id="SL21" xtargets="24 25;22" overlap="0.576" />
+<link id="SL22" xtargets=";23" />
+<link id="SL23" xtargets=";24" />
+<link id="SL24" xtargets=";25" />
+<link id="SL25" xtargets=";26" />
+<link id="SL26" xtargets=";27" />
+<link id="SL27" xtargets=";28" />
+<link id="SL28" xtargets="26;29" overlap="0.644" />
+<link id="SL29" xtargets="27;30" overlap="0.802" />
+<link id="SL30" xtargets="28;31" overlap="0.684" />
+<link id="SL31" xtargets="29;32 33" overlap="0.691" />
+<link id="SL32" xtargets="30 31;34" overlap="0.739" />
+<link id="SL33" xtargets="32;35" overlap="0.930" />
+<link id="SL34" xtargets="33;36" overlap="0.796" />
+<link id="SL35" xtargets="34;37" overlap="0.869" />
+<link id="SL36" xtargets="35;38" overlap="0.865" />
+<link id="SL37" xtargets="36 37;39" overlap="0.867" />
+<link id="SL38" xtargets="38;40 41" overlap="0.830" />
+<link id="SL39" xtargets="39;42" overlap="0.886" />
+<link id="SL40" xtargets="40;43" overlap="0.802" />
+<link id="SL41" xtargets="41;44" overlap="0.701" />
+<link id="SL42" xtargets="42 43;45" overlap="0.762" />
+<link id="SL43" xtargets="44 45 46;46" overlap="0.947" />
+<link id="SL44" xtargets="47;47" overlap="0.764" />
+<link id="SL45" xtargets="48;48" overlap="0.593" />
+<link id="SL46" xtargets="49;49" overlap="0.774" />
+<link id="SL47" xtargets="50;50" overlap="0.741" />
+<link id="SL48" xtargets="51;51 52 53" overlap="0.958" />
+<link id="SL49" xtargets="52;54" overlap="0.950" />
+<link id="SL50" xtargets="53;55" overlap="0.890" />
+<link id="SL51" xtargets="54;56" overlap="0.714" />
+<link id="SL52" xtargets="55;57" overlap="0.864" />
+<link id="SL53" xtargets="56;58" overlap="0.902" />
+<link id="SL54" xtargets="57 58;59" overlap="0.732" />
+<link id="SL55" xtargets="59;60" overlap="0.902" />
+<link id="SL56" xtargets="60;61" overlap="0.776" />
+<link id="SL57" xtargets="61;62" overlap="0.830" />
+<link id="SL58" xtargets="62;63" overlap="0.851" />
+<link id="SL59" xtargets="63;64" overlap="0.768" />
+<link id="SL60" xtargets="64 65;65" overlap="0.739" />
+<link id="SL61" xtargets="66;66" overlap="0.666" />
+<link id="SL62" xtargets="67;" />
+<link id="SL63" xtargets="68;67" overlap="0.464" />
+<link id="SL64" xtargets="69;68" overlap="0.701" />
+<link id="SL65" xtargets="70 71;69" overlap="0.974" />
+<link id="SL66" xtargets="72;70" overlap="0.701" />
+<link id="SL67" xtargets="73 74;71" overlap="0.606" />
+<link id="SL68" xtargets="75;72 73" overlap="0.222" />
+<link id="SL69" xtargets="76;" />
+<link id="SL70" xtargets="77;74" overlap="0.811" />
+<link id="SL71" xtargets="78;75" overlap="0.788" />
+<link id="SL72" xtargets="79 80;76" overlap="0.948" />
+<link id="SL73" xtargets="81;77" overlap="0.492" />
+<link id="SL74" xtargets=";78" />
+<link id="SL75" xtargets="82;79" overlap="0.914" />
+<link id="SL76" xtargets="83;80" overlap="0.339" />
+<link id="SL77" xtargets="84;81" overlap="0.860" />
+<link id="SL78" xtargets="85;82" overlap="0.788" />
+<link id="SL79" xtargets="86;83" overlap="0.835" />
+<link id="SL80" xtargets="87;84" overlap="0.899" />
+<link id="SL81" xtargets="88;85" overlap="0.820" />
+<link id="SL82" xtargets="89 90;86" overlap="0.900" />
+<link id="SL83" xtargets="91;87" overlap="0.437" />
+<link id="SL84" xtargets="92;88" overlap="0.438" />
+<link id="SL85" xtargets="93;89" overlap="0.511" />
+<link id="SL86" xtargets="94 95;90" overlap="0.787" />
+<link id="SL87" xtargets="96 97;91" overlap="0.765" />
+<link id="SL88" xtargets="98 99;92" overlap="0.639" />
+<link id="SL89" xtargets="100 101;93" overlap="0.827" />
+<link id="SL90" xtargets="102 103;94" overlap="0.809" />
+<link id="SL91" xtargets="104 105;95" overlap="0.782" />
+<link id="SL92" xtargets="106 107;96" overlap="0.956" />
+<link id="SL93" xtargets="108;97" overlap="0.663" />
+<link id="SL94" xtargets="109;98" overlap="0.577" />
+<link id="SL95" xtargets="110;99" overlap="0.744" />
+<link id="SL96" xtargets="111;100" overlap="0.919" />
+<link id="SL97" xtargets="112;101" overlap="0.300" />
+<link id="SL98" xtargets="113;102" overlap="0.356" />
+<link id="SL99" xtargets="114;103" overlap="0.848" />
+<link id="SL100" xtargets="115;104" overlap="0.943" />
+<link id="SL101" xtargets="116;105" overlap="0.844" />
+<link id="SL102" xtargets="117;106 107" overlap="0.635" />
+<link id="SL103" xtargets="118;108" overlap="0.670" />
+<link id="SL104" xtargets="119;109" overlap="0.516" />
+<link id="SL105" xtargets=";110" />
+<link id="SL106" xtargets="120;111" overlap="0.841" />
+<link id="SL107" xtargets="121 122;112" overlap="0.821" />
+<link id="SL108" xtargets="123 124 125;113" overlap="0.807" />
+<link id="SL109" xtargets="126 127;114" overlap="0.796" />
+<link id="SL110" xtargets="128 129;115" overlap="0.537" />
+<link id="SL111" xtargets="130;116" overlap="0.914" />
+<link id="SL112" xtargets="131;117" overlap="0.826" />
+<link id="SL113" xtargets="132;118" overlap="0.579" />
+<link id="SL114" xtargets="133;119" overlap="0.569" />
+<link id="SL115" xtargets="134;120" overlap="0.882" />
+<link id="SL116" xtargets="135;121" overlap="0.693" />
+<link id="SL117" xtargets="136;122" overlap="0.758" />
+<link id="SL118" xtargets="137;123" overlap="0.089" />
+<link id="SL119" xtargets="138 139;124" overlap="0.524" />
+<link id="SL120" xtargets="140;125" overlap="0.528" />
+<link id="SL121" xtargets="141;126" overlap="0.931" />
+<link id="SL122" xtargets="142;127" overlap="0.405" />
+<link id="SL123" xtargets="143;128" overlap="0.655" />
+<link id="SL124" xtargets="144 145;129" overlap="0.633" />
+<link id="SL125" xtargets="146 147;130" overlap="0.748" />
+<link id="SL126" xtargets=";131" />
+<link id="SL127" xtargets="148;132" overlap="0.904" />
+<link id="SL128" xtargets="149;133" overlap="0.311" />
+<link id="SL129" xtargets="150 151;134" overlap="0.684" />
+<link id="SL130" xtargets="152;135" overlap="0.632" />
+<link id="SL131" xtargets="153;136" overlap="0.665" />
+<link id="SL132" xtargets=";137" />
+<link id="SL133" xtargets="154;138" overlap="0.679" />
+<link id="SL134" xtargets="155 156 157;139" overlap="0.916" />
+<link id="SL135" xtargets="158;" />
+<link id="SL136" xtargets="159 160;140" overlap="0.976" />
+<link id="SL137" xtargets="161;141" overlap="0.885" />
+<link id="SL138" xtargets="162;142 143" overlap="0.870" />
+<link id="SL139" xtargets="163 164 165;144" overlap="0.421" />
+<link id="SL140" xtargets="166 167;145" overlap="0.933" />
+<link id="SL141" xtargets="168;146" overlap="0.847" />
+<link id="SL142" xtargets="169;147" overlap="0.384" />
+<link id="SL143" xtargets="170 171;148" overlap="0.863" />
+<link id="SL144" xtargets="172;149" overlap="0.904" />
+<link id="SL145" xtargets="173;150" overlap="0.397" />
+<link id="SL146" xtargets="174;151" overlap="0.849" />
+<link id="SL147" xtargets="175 176;152" overlap="0.790" />
+<link id="SL148" xtargets="177;153" overlap="0.898" />
+<link id="SL149" xtargets="178;154" overlap="0.538" />
+<link id="SL150" xtargets="179 180;155" overlap="0.805" />
+<link id="SL151" xtargets="181;156" overlap="0.355" />
+<link id="SL152" xtargets="182;157" overlap="0.844" />
+<link id="SL153" xtargets="183;158" overlap="0.568" />
+<link id="SL154" xtargets="184;159" overlap="0.679" />
+<link id="SL155" xtargets="185;160" overlap="0.834" />
+<link id="SL156" xtargets="186;161" overlap="0.818" />
+<link id="SL157" xtargets="187;162" overlap="0.830" />
+<link id="SL158" xtargets="188;163" overlap="0.264" />
+<link id="SL159" xtargets="189;164" overlap="0.263" />
+<link id="SL160" xtargets="190 191 192;165" overlap="0.825" />
+<link id="SL161" xtargets="193;166" overlap="0.390" />
+<link id="SL162" xtargets="194;167" overlap="0.838" />
+<link id="SL163" xtargets="195;168 169" overlap="0.817" />
+<link id="SL164" xtargets="196;170" overlap="0.875" />
+<link id="SL165" xtargets="197;171 172" overlap="0.718" />
+<link id="SL166" xtargets="198;" />
+<link id="SL167" xtargets="199 200;173" overlap="0.632" />
+<link id="SL168" xtargets="201;174 175" overlap="0.576" />
+<link id="SL169" xtargets="202 203;176" overlap="0.807" />
+<link id="SL170" xtargets="204;177" overlap="0.753" />
+<link id="SL171" xtargets="205;178" overlap="0.923" />
+<link id="SL172" xtargets="206;" />
+<link id="SL173" xtargets="207 208;179" overlap="0.583" />
+<link id="SL174" xtargets="209;180" overlap="0.519" />
+<link id="SL175" xtargets="210;181 182" overlap="0.901" />
+<link id="SL176" xtargets="211 212;183" overlap="0.966" />
+<link id="SL177" xtargets="213;184" overlap="0.975" />
+<link id="SL178" xtargets="214;185" overlap="0.715" />
+<link id="SL179" xtargets="215;186" overlap="0.311" />
+<link id="SL180" xtargets="216;187" overlap="0.379" />
+<link id="SL181" xtargets="217;188" overlap="0.784" />
+<link id="SL182" xtargets="218;189" overlap="0.598" />
+<link id="SL183" xtargets="219;190" overlap="0.510" />
+<link id="SL184" xtargets="220;191" overlap="0.984" />
+<link id="SL185" xtargets="221;192" overlap="0.563" />
+<link id="SL186" xtargets="222 223;193" overlap="0.916" />
+<link id="SL187" xtargets="224;194" overlap="0.871" />
+<link id="SL188" xtargets="225;195" overlap="0.687" />
+<link id="SL189" xtargets="226;196" overlap="0.417" />
+<link id="SL190" xtargets="227;197" overlap="0.317" />
+<link id="SL191" xtargets="228;198" overlap="0.742" />
+<link id="SL192" xtargets="229;199" overlap="0.809" />
+<link id="SL193" xtargets="230;200" overlap="0.576" />
+<link id="SL194" xtargets="231;201" overlap="0.618" />
+<link id="SL195" xtargets="232 233;202" overlap="0.806" />
+<link id="SL196" xtargets="234 235;203" overlap="0.755" />
+<link id="SL197" xtargets="236;204" overlap="0.725" />
+<link id="SL198" xtargets="237;205" overlap="0.772" />
+<link id="SL199" xtargets="238;206" overlap="0.379" />
+<link id="SL200" xtargets="239;207" overlap="0.433" />
+<link id="SL201" xtargets="240;208" overlap="0.566" />
+<link id="SL202" xtargets="241;209" overlap="0.542" />
+<link id="SL203" xtargets="242 243;210" overlap="0.655" />
+<link id="SL204" xtargets="244;211" overlap="0.450" />
+<link id="SL205" xtargets="245 246;212" overlap="0.785" />
+<link id="SL206" xtargets="247;213" overlap="0.661" />
+<link id="SL207" xtargets="248;214" overlap="0.287" />
+<link id="SL208" xtargets="249;215" overlap="0.751" />
+<link id="SL209" xtargets="250;216" overlap="0.502" />
+<link id="SL210" xtargets="251;" />
+<link id="SL211" xtargets="252;217" overlap="0.441" />
+<link id="SL212" xtargets="253;218" overlap="0.712" />
+<link id="SL213" xtargets="254 255 256;219" overlap="0.748" />
+<link id="SL214" xtargets="257;220" overlap="0.656" />
+<link id="SL215" xtargets="258;221" overlap="0.587" />
+<link id="SL216" xtargets="259 260;222" overlap="0.756" />
+<link id="SL217" xtargets="261;223" overlap="0.637" />
+<link id="SL218" xtargets="262;" />
+<link id="SL219" xtargets="263 264;224" overlap="0.890" />
+<link id="SL220" xtargets="265;225" overlap="0.262" />
+<link id="SL221" xtargets="266 267;226" overlap="0.580" />
+<link id="SL222" xtargets="268;227" overlap="0.455" />
+<link id="SL223" xtargets="269;228 229" overlap="0.691" />
+<link id="SL224" xtargets="270 271;230" overlap="0.749" />
+<link id="SL225" xtargets="272;231" overlap="0.832" />
+<link id="SL226" xtargets="273;232" overlap="0.801" />
+<link id="SL227" xtargets="274;233 234" overlap="0.333" />
+<link id="SL228" xtargets=";235" />
+<link id="SL229" xtargets="275;236" overlap="0.234" />
+<link id="SL230" xtargets="276;237" overlap="0.578" />
+<link id="SL231" xtargets="277;238" overlap="0.523" />
+<link id="SL232" xtargets="278 279;239" overlap="0.842" />
+<link id="SL233" xtargets="280;240" overlap="0.859" />
+<link id="SL234" xtargets="281 282;241" overlap="0.932" />
+<link id="SL235" xtargets="283;242" overlap="0.836" />
+<link id="SL236" xtargets="284;243 244" overlap="0.798" />
+<link id="SL237" xtargets="285;245" overlap="0.877" />
+<link id="SL238" xtargets="286;246" overlap="0.795" />
+<link id="SL239" xtargets="287;247" overlap="0.663" />
+<link id="SL240" xtargets="288;248" overlap="0.741" />
+<link id="SL241" xtargets="289 290;249" overlap="0.469" />
+<link id="SL242" xtargets="291;250" overlap="0.460" />
+<link id="SL243" xtargets="292;251" overlap="0.445" />
+<link id="SL244" xtargets="293;252 253" overlap="0.657" />
+<link id="SL245" xtargets="294;" />
+<link id="SL246" xtargets="295;254" overlap="0.557" />
+<link id="SL247" xtargets="296;255" overlap="0.504" />
+<link id="SL248" xtargets="297;256" overlap="0.466" />
+<link id="SL249" xtargets="298 299;257" overlap="0.593" />
+<link id="SL250" xtargets="300;258" overlap="0.841" />
+<link id="SL251" xtargets="301 302;259" overlap="0.811" />
+<link id="SL252" xtargets="303;260" overlap="0.819" />
+<link id="SL253" xtargets="304;261" overlap="0.466" />
+<link id="SL254" xtargets="305;262" overlap="0.746" />
+<link id="SL255" xtargets="306 307;263" overlap="0.829" />
+<link id="SL256" xtargets="308;264" overlap="0.722" />
+<link id="SL257" xtargets="309;265" overlap="0.621" />
+<link id="SL258" xtargets="310;266" overlap="0.573" />
+<link id="SL259" xtargets="311 312;267" overlap="0.673" />
+<link id="SL260" xtargets="313;268" overlap="0.515" />
+<link id="SL261" xtargets="314;269" overlap="0.771" />
+<link id="SL262" xtargets="315;270" overlap="0.612" />
+<link id="SL263" xtargets="316;271" overlap="0.700" />
+<link id="SL264" xtargets="317;272" overlap="0.461" />
+<link id="SL265" xtargets="318 319;273" overlap="0.626" />
+<link id="SL266" xtargets="320;274" overlap="0.776" />
+<link id="SL267" xtargets="321 322;275" overlap="0.695" />
+<link id="SL268" xtargets="323;276" overlap="0.682" />
+<link id="SL269" xtargets="324;277" overlap="0.780" />
+<link id="SL270" xtargets="325;278" overlap="0.713" />
+<link id="SL271" xtargets="326;279" overlap="0.403" />
+<link id="SL272" xtargets="327;280" overlap="0.648" />
+<link id="SL273" xtargets="328;281" overlap="0.544" />
+<link id="SL274" xtargets="329;282" overlap="0.746" />
+<link id="SL275" xtargets="330;283" overlap="0.615" />
+<link id="SL276" xtargets="331;284" overlap="0.651" />
+<link id="SL277" xtargets="332;285" overlap="0.798" />
+<link id="SL278" xtargets="333;286" overlap="0.856" />
+<link id="SL279" xtargets="334;287" overlap="0.550" />
+<link id="SL280" xtargets="335;288" overlap="0.834" />
+<link id="SL281" xtargets="336;289" overlap="0.814" />
+<link id="SL282" xtargets="337;290" overlap="0.510" />
+<link id="SL283" xtargets="338;291" overlap="0.797" />
+<link id="SL284" xtargets="339;292" overlap="0.655" />
+<link id="SL285" xtargets="340;293" overlap="0.488" />
+<link id="SL286" xtargets="341;294" overlap="0.769" />
+<link id="SL287" xtargets="342;295" overlap="0.505" />
+<link id="SL288" xtargets="343;296" overlap="0.829" />
+<link id="SL289" xtargets="344;297" overlap="0.601" />
+<link id="SL290" xtargets="345;298" overlap="0.662" />
+<link id="SL291" xtargets="346 347;299" overlap="0.739" />
+<link id="SL292" xtargets="348;300" overlap="0.445" />
+<link id="SL293" xtargets="349;301" overlap="0.591" />
+<link id="SL294" xtargets="350 351;302" overlap="0.758" />
+<link id="SL295" xtargets="352 353 354;303" overlap="0.835" />
+<link id="SL296" xtargets="355;304" overlap="0.177" />
+<link id="SL297" xtargets="356;305" overlap="0.470" />
+<link id="SL298" xtargets="357 358;306" overlap="0.724" />
+<link id="SL299" xtargets="359;307" overlap="0.545" />
+<link id="SL300" xtargets="360;308" overlap="0.662" />
+<link id="SL301" xtargets="361;309" overlap="0.528" />
+<link id="SL302" xtargets="362;310" overlap="0.531" />
+<link id="SL303" xtargets="363;311 312" overlap="0.864" />
+<link id="SL304" xtargets="364 365;313" overlap="0.624" />
+<link id="SL305" xtargets="366;314" overlap="0.655" />
+<link id="SL306" xtargets="367 368;315" overlap="0.919" />
+<link id="SL307" xtargets="369;316" overlap="0.887" />
+<link id="SL308" xtargets="370;317" overlap="0.644" />
+<link id="SL309" xtargets="371;318" overlap="0.515" />
+<link id="SL310" xtargets="372;319" overlap="0.603" />
+<link id="SL311" xtargets=";320" />
+<link id="SL312" xtargets="373;321" overlap="0.397" />
+<link id="SL313" xtargets="374;322" overlap="0.627" />
+<link id="SL314" xtargets="375 376;323" overlap="0.570" />
+<link id="SL315" xtargets="377;324" overlap="0.714" />
+<link id="SL316" xtargets="378;325 326" overlap="0.795" />
+<link id="SL317" xtargets="379 380;327" overlap="0.656" />
+<link id="SL318" xtargets="381;" />
+<link id="SL319" xtargets="382;328" overlap="0.731" />
+<link id="SL320" xtargets="383;329" overlap="0.816" />
+<link id="SL321" xtargets="384;330" overlap="0.653" />
+<link id="SL322" xtargets=";331" />
+<link id="SL323" xtargets="385;332" overlap="0.653" />
+<link id="SL324" xtargets="386 387;333" overlap="0.894" />
+<link id="SL325" xtargets="388;334" overlap="0.288" />
+<link id="SL326" xtargets="389;335" overlap="0.252" />
+<link id="SL327" xtargets="390;" />
+<link id="SL328" xtargets="391;" />
+<link id="SL329" xtargets="392;336" overlap="0.882" />
+<link id="SL330" xtargets="393 394;337" overlap="0.524" />
+<link id="SL331" xtargets="395;338" overlap="0.691" />
+<link id="SL332" xtargets=";339" />
+<link id="SL333" xtargets="396;340" overlap="0.718" />
+<link id="SL334" xtargets="397 398;341" overlap="0.600" />
+<link id="SL335" xtargets="399 400;342" overlap="0.680" />
+<link id="SL336" xtargets="401;" />
+<link id="SL337" xtargets="402;343" overlap="0.388" />
+<link id="SL338" xtargets="403 404 405;344" overlap="0.670" />
+<link id="SL339" xtargets="406;345" overlap="0.627" />
+<link id="SL340" xtargets="407 408;346" overlap="0.641" />
+<link id="SL341" xtargets="409 410;347" overlap="0.543" />
+<link id="SL342" xtargets="411 412 413;348" overlap="0.691" />
+<link id="SL343" xtargets="414;349" overlap="0.346" />
+<link id="SL344" xtargets="415 416;350" overlap="0.727" />
+<link id="SL345" xtargets="417 418;351" overlap="0.611" />
+<link id="SL346" xtargets="419;" />
+<link id="SL347" xtargets="420;" />
+<link id="SL348" xtargets="421 422;352" overlap="0.202" />
+</linkGrp>
+</cesAlign>

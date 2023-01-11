@@ -1,0 +1,754 @@
+[Script Info]
+Title:Super Smart Animals S01E01
+Original Script:YYeTs Time Machine
+Synch Point:1
+ScriptType:v4.00+
+Collisions:Normal
+Timer:100.0000
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,方正黑体简体,12,&H00FFFFFF,&HF0000000,&H2F2F2F,&H000000,0,0,0,0,100,100,0,0.00,1,2,1,2,5,5,5,134
+
+[Events]
+Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:11.20,0:00:13.64,*Default,NTP,0000,0000,0000,,Come on, Albert!
+Dialogue: 0,0:00:54.52,0:00:57.64,*Default,NTP,0000,0000,0000,,Mickey Bricks,\Nif you've ever been brilliant,
+Dialogue: 0,0:00:57.64,0:00:59.24,*Default,NTP,0000,0000,0000,,please be brilliant now.
+Dialogue: 0,0:01:21.40,0:01:26.44,*Default,NTP,0000,0000,0000,,Gentlemen! I know what you're\Nthinking...but, er...
+Dialogue: 0,0:02:11.00,0:02:13.16,*Default,NTP,0000,0000,0000,,I guess...
+Dialogue: 0,0:02:13.16,0:02:16.40,*Default,NTP,0000,0000,0000,,most of you\Nmust have thought that...
+Dialogue: 0,0:02:16.40,0:02:18.88,*Default,NTP,0000,0000,0000,,one day it would end like this...
+Dialogue: 0,0:03:13.48,0:03:16.20,*Default,NTP,0000,0000,0000,,Oh, you did not just say that!\NIt is a well known fact.
+Dialogue: 0,0:03:16.20,0:03:18.16,*Default,NTP,0000,0000,0000,,Well known by who? Everyone. Not me.
+Dialogue: 0,0:03:18.16,0:03:20.12,*Default,NTP,0000,0000,0000,,That's because you're a bird.\NMickey?
+Dialogue: 0,0:03:21.76,0:03:25.36,*Default,NTP,0000,0000,0000,,Leave me out of this. How can\Nyou say women are more\Nargumentative than men?
+Dialogue: 0,0:03:25.36,0:03:27.88,*Default,NTP,0000,0000,0000,,Because it's a well-known fact.\NNo it is not. See?
+Dialogue: 0,0:03:27.88,0:03:33.04,*Default,NTP,0000,0000,0000,,See what? I mentioned that women are\Nmore argumentative than men, and\Nyou've done nothing but argue since.
+Dialogue: 0,0:03:33.04,0:03:35.36,*Default,NTP,0000,0000,0000,,I was discussing.\NWhat's the difference?
+Dialogue: 0,0:03:35.36,0:03:38.00,*Default,NTP,0000,0000,0000,,One is arguing and the other one....
+Dialogue: 0,0:03:38.00,0:03:39.40,*Default,NTP,0000,0000,0000,,isn't.
+Dialogue: 0,0:03:39.40,0:03:42.16,*Default,NTP,0000,0000,0000,,Way to go, sis.\NYou baffled him with logic...
+Dialogue: 0,0:03:42.16,0:03:45.32,*Default,NTP,0000,0000,0000,,He knows what I mean. Eddie,\Ndo you think I'm argumentative?
+Dialogue: 0,0:03:45.32,0:03:48.80,*Default,NTP,0000,0000,0000,,You are a bit, yeah. No, I'm not.\NI wasn't arguing.
+Dialogue: 0,0:03:48.80,0:03:50.44,*Default,NTP,0000,0000,0000,,No, she was discussing, you see.
+Dialogue: 0,0:03:50.44,0:03:53.52,*Default,NTP,0000,0000,0000,,Yeah, they do a lot of that, birds.\NYeah, they do...mmm. Mmm.
+Dialogue: 0,0:03:53.52,0:03:55.48,*Default,NTP,0000,0000,0000,,Oh, all right.
+Dialogue: 0,0:03:55.48,0:03:59.24,*Default,NTP,0000,0000,0000,,You can be\Nso annoying, really...all of you.
+Dialogue: 0,0:03:59.24,0:04:03.48,*Default,NTP,0000,0000,0000,,Well, looks like you were right,\Nhe arrived last evening.
+Dialogue: 0,0:04:04.60,0:04:05.92,*Default,NTP,0000,0000,0000,,Who did?
+Dialogue: 0,0:04:07.24,0:04:09.08,*Default,NTP,0000,0000,0000,,Our new mark.
+Dialogue: 0,0:04:14.84,0:04:17.24,*Default,NTP,0000,0000,0000,,Madani Wasem.
+Dialogue: 0,0:04:17.24,0:04:21.16,*Default,NTP,0000,0000,0000,,Came to London in the '80s to\Nre-trace his father's footsteps
+Dialogue: 0,0:04:21.16,0:04:23.32,*Default,NTP,0000,0000,0000,,and accept a place\Nat Oxford University.
+Dialogue: 0,0:04:23.32,0:04:27.32,*Default,NTP,0000,0000,0000,,He graduated with a degree in\Neconomics before returning
+Dialogue: 0,0:04:27.32,0:04:31.00,*Default,NTP,0000,0000,0000,,to Bahrain to take his place\Non the board of his father's company
+Dialogue: 0,0:04:31.00,0:04:33.32,*Default,NTP,0000,0000,0000,,The Gulf Partnership.
+Dialogue: 0,0:04:33.32,0:04:37.68,*Default,NTP,0000,0000,0000,,Wasem was with friends\Nwhen he heard of his father's death\Nfive weeks ago.
+Dialogue: 0,0:04:42.36,0:04:44.76,*Default,NTP,0000,0000,0000,,Yes! It's party time!
+Dialogue: 0,0:04:51.16,0:04:53.64,*Default,NTP,0000,0000,0000,,So they didn't get on then?
+Dialogue: 0,0:04:53.64,0:04:56.84,*Default,NTP,0000,0000,0000,,He'd lived his entire\Nlife in his father's shadow.
+Dialogue: 0,0:04:56.84,0:04:59.00,*Default,NTP,0000,0000,0000,,He was heard telling an aide\Nat the funeral
+Dialogue: 0,0:04:59.00,0:05:01.64,*Default,NTP,0000,0000,0000,,that he'd spent his adult life\Nwaiting for him to die.
+Dialogue: 0,0:05:01.64,0:05:02.92,*Default,NTP,0000,0000,0000,,Oh, what a charmer.
+Dialogue: 0,0:05:02.92,0:05:04.96,*Default,NTP,0000,0000,0000,,How much did he get?
+Dialogue: 0,0:05:04.96,0:05:07.40,*Default,NTP,0000,0000,0000,,North of 850 million.
+Dialogue: 0,0:05:07.40,0:05:10.24,*Default,NTP,0000,0000,0000,,He got the family money\Nand his father's shares,
+Dialogue: 0,0:05:10.24,0:05:11.72,*Default,NTP,0000,0000,0000,,but he has no real power.
+Dialogue: 0,0:05:11.72,0:05:14.68,*Default,NTP,0000,0000,0000,,His father was respected,\Nbut he isn't.
+Dialogue: 0,0:05:14.68,0:05:17.20,*Default,NTP,0000,0000,0000,,The board of Gulf Partnership\Nquickly closed ranks
+Dialogue: 0,0:05:17.20,0:05:18.60,*Default,NTP,0000,0000,0000,,to stop him taking control.
+Dialogue: 0,0:05:18.60,0:05:22.16,*Default,NTP,0000,0000,0000,,Which left Wasem with a bit of a\Nchip on his shoulder.\NOh, poor love(!)
+Dialogue: 0,0:05:22.16,0:05:26.04,*Default,NTP,0000,0000,0000,,They see him for what\Nhe is... Little more than a thug.
+Dialogue: 0,0:05:26.04,0:05:28.72,*Default,NTP,0000,0000,0000,,He doesn't earn respect, he buys it.
+Dialogue: 0,0:05:28.72,0:05:31.24,*Default,NTP,0000,0000,0000,,Using his wealth to surround himself\Nwith people
+Dialogue: 0,0:05:31.24,0:05:32.72,*Default,NTP,0000,0000,0000,,who will do whatever he asks.
+Dialogue: 0,0:05:32.72,0:05:37.80,*Default,NTP,0000,0000,0000,,Including an enforcer, someone who\Nwill kill or torture on demand.
+Dialogue: 0,0:05:39.24,0:05:43.00,*Default,NTP,0000,0000,0000,,The man who led the move\Nto stop Wasem taking control
+Dialogue: 0,0:05:43.00,0:05:46.28,*Default,NTP,0000,0000,0000,,of his father's company was found\Nwith his throat cut
+Dialogue: 0,0:05:46.28,0:05:50.56,*Default,NTP,0000,0000,0000,,in his own bathroom by his\Nten-year-old daughter,\Nyesterday afternoon.
+Dialogue: 0,0:05:50.56,0:05:53.48,*Default,NTP,0000,0000,0000,,Wasem has been linked\Nto two similar killings
+Dialogue: 0,0:05:53.48,0:05:57.52,*Default,NTP,0000,0000,0000,,since his father's death, and a long\Nlist of business associates
+Dialogue: 0,0:05:57.52,0:06:01.08,*Default,NTP,0000,0000,0000,,being beaten and having\Ntheir families threatened. Question.
+Dialogue: 0,0:06:01.08,0:06:04.64,*Default,NTP,0000,0000,0000,,Go on. We usually spend our time\Nstaying away from people like this.
+Dialogue: 0,0:06:04.64,0:06:06.56,*Default,NTP,0000,0000,0000,,Why are we going after him?
+Dialogue: 0,0:06:06.56,0:06:08.68,*Default,NTP,0000,0000,0000,,I think he's too good to pass up.
+Dialogue: 0,0:06:11.20,0:06:14.80,*Default,NTP,0000,0000,0000,,He's been making his way\Naround Europe playing the markets.
+Dialogue: 0,0:06:14.80,0:06:18.40,*Default,NTP,0000,0000,0000,,For anyone that openly opposes him,\Nhe uses violence,
+Dialogue: 0,0:06:18.40,0:06:21.56,*Default,NTP,0000,0000,0000,,but he knows that to take control\Nof his father's company, he has
+Dialogue: 0,0:06:21.56,0:06:25.96,*Default,NTP,0000,0000,0000,,to prove to the shareholders he has\Nhis father's flair for making money.
+Dialogue: 0,0:06:25.96,0:06:31.72,*Default,NTP,0000,0000,0000,,So far he's played the markets\Nin Greece, Turkey, Spain,
+Dialogue: 0,0:06:31.72,0:06:35.20,*Default,NTP,0000,0000,0000,,and Portugal,\Nmaking a hefty profit in each.
+Dialogue: 0,0:06:35.20,0:06:38.40,*Default,NTP,0000,0000,0000,,Now he's in London,\Nand he'll be looking for a broker.
+Dialogue: 0,0:06:38.40,0:06:40.60,*Default,NTP,0000,0000,0000,,Why travel?\NYou can buy shares anywhere.
+Dialogue: 0,0:06:40.60,0:06:43.64,*Default,NTP,0000,0000,0000,,That's one of the lessons he\Nactually learnt from his father -
+Dialogue: 0,0:06:43.64,0:06:46.16,*Default,NTP,0000,0000,0000,,local knowledge is the key\Nto making a good return.
+Dialogue: 0,0:06:46.16,0:06:49.12,*Default,NTP,0000,0000,0000,,So he flies in,\Ntalks to whoever he can,
+Dialogue: 0,0:06:49.12,0:06:52.56,*Default,NTP,0000,0000,0000,,tries to find an inside track, and\Nthen buys through a local broker.
+Dialogue: 0,0:06:52.56,0:06:56.52,*Default,NTP,0000,0000,0000,,What kind of money are we talking\Nabout? In Spain he invested\Nsix million euros.
+Dialogue: 0,0:06:59.44,0:07:02.80,*Default,NTP,0000,0000,0000,,He is very definitely high risk,\Nbut with that comes high rewards.
+Dialogue: 0,0:07:02.80,0:07:05.16,*Default,NTP,0000,0000,0000,,Well...I'm in.
+Dialogue: 0,0:07:05.16,0:07:06.88,*Default,NTP,0000,0000,0000,,Ash?
+Dialogue: 0,0:07:06.88,0:07:09.56,*Default,NTP,0000,0000,0000,,Well, you know me.\NWhere you go, I go.
+Dialogue: 0,0:07:09.56,0:07:11.92,*Default,NTP,0000,0000,0000,,Albert?
+Dialogue: 0,0:07:11.92,0:07:14.04,*Default,NTP,0000,0000,0000,,Yeah, all right.
+Dialogue: 0,0:07:15.08,0:07:16.68,*Default,NTP,0000,0000,0000,,It would be rude not to.
+Dialogue: 0,0:07:18.20,0:07:22.20,*Default,NTP,0000,0000,0000,,Good. Then let's go get him.
+Dialogue: 0,0:07:25.40,0:07:26.84,*Default,NTP,0000,0000,0000,,It is done.
+Dialogue: 0,0:07:26.84,0:07:28.36,*Default,NTP,0000,0000,0000,,How?
+Dialogue: 0,0:07:29.40,0:07:33.32,*Default,NTP,0000,0000,0000,,His throat cut from ear to ear\Nwhile he sat...
+Dialogue: 0,0:07:33.32,0:07:34.52,*Default,NTP,0000,0000,0000,,in the restroom.
+Dialogue: 0,0:07:35.88,0:07:37.12,*Default,NTP,0000,0000,0000,,Very appropriate.
+Dialogue: 0,0:07:38.92,0:07:43.88,*Default,NTP,0000,0000,0000,,You know the last thing he said to\Nme was that my only chance
+Dialogue: 0,0:07:43.88,0:07:48.64,*Default,NTP,0000,0000,0000,,of regaining my father's company...
+Dialogue: 0,0:07:48.64,0:07:51.96,*Default,NTP,0000,0000,0000,,had gone down the toilet.
+Dialogue: 0,0:07:51.96,0:07:53.68,*Default,NTP,0000,0000,0000,,There was a problem.
+Dialogue: 0,0:07:53.68,0:07:56.60,*Default,NTP,0000,0000,0000,,His wife ran to a neighbour,\Nthe police shut off the streets,
+Dialogue: 0,0:07:56.60,0:07:58.96,*Default,NTP,0000,0000,0000,,our enforcer was trapped.\NWas he arrested?
+Dialogue: 0,0:07:58.96,0:08:02.52,*Default,NTP,0000,0000,0000,,No. They shot him.
+Dialogue: 0,0:08:02.52,0:08:04.12,*Default,NTP,0000,0000,0000,,He is dead.
+Dialogue: 0,0:08:05.80,0:08:07.80,*Default,NTP,0000,0000,0000,,Replace him.
+Dialogue: 0,0:08:12.36,0:08:14.12,*Default,NTP,0000,0000,0000,,So what's going on?
+Dialogue: 0,0:08:15.92,0:08:17.36,*Default,NTP,0000,0000,0000,,Truth?
+Dialogue: 0,0:08:17.36,0:08:19.08,*Default,NTP,0000,0000,0000,,Always.
+Dialogue: 0,0:08:19.08,0:08:21.12,*Default,NTP,0000,0000,0000,,I'm tired, Albert.
+Dialogue: 0,0:08:21.12,0:08:22.80,*Default,NTP,0000,0000,0000,,Take a break.
+Dialogue: 0,0:08:23.96,0:08:27.68,*Default,NTP,0000,0000,0000,,I don't think a fortnight in Vegas\Nis gonna cure it this time.
+Dialogue: 0,0:08:27.68,0:08:30.48,*Default,NTP,0000,0000,0000,,Well, so take a year...two.
+Dialogue: 0,0:08:30.48,0:08:33.68,*Default,NTP,0000,0000,0000,,It's not that easy. What about you?
+Dialogue: 0,0:08:33.68,0:08:35.00,*Default,NTP,0000,0000,0000,,Ash? Sean and Emma?
+Dialogue: 0,0:08:35.00,0:08:39.24,*Default,NTP,0000,0000,0000,,We're all big enough\Nto take care of ourselves.
+Dialogue: 0,0:08:39.24,0:08:44.92,*Default,NTP,0000,0000,0000,,No, we're a crew, a family.\NWe don't walk out on each other.
+Dialogue: 0,0:08:44.92,0:08:50.48,*Default,NTP,0000,0000,0000,,So this guy isn't just another mark?\NHe's your retirement fund?
+Dialogue: 0,0:08:53.44,0:08:56.20,*Default,NTP,0000,0000,0000,,Marks like this one don't\Ncome along very often.
+Dialogue: 0,0:08:56.20,0:08:57.32,*Default,NTP,0000,0000,0000,,No they don't.
+Dialogue: 0,0:08:57.32,0:09:01.72,*Default,NTP,0000,0000,0000,,So maybe everything we've done has\Nbeen leading us to this point.
+Dialogue: 0,0:09:01.72,0:09:04.84,*Default,NTP,0000,0000,0000,,One big mark,\Nour very own lottery win.
+Dialogue: 0,0:09:06.04,0:09:09.16,*Default,NTP,0000,0000,0000,,Then we can all walk away on top,\Nmoney in our pockets.
+Dialogue: 0,0:09:09.16,0:09:10.92,*Default,NTP,0000,0000,0000,,He could kill you.
+Dialogue: 0,0:09:13.92,0:09:17.00,*Default,NTP,0000,0000,0000,,Well, then we make that\Na risk worth taking.
+Dialogue: 0,0:09:21.44,0:09:23.84,*Default,NTP,0000,0000,0000,,Oh, Emma, shopping list.
+Dialogue: 0,0:09:23.84,0:09:25.08,*Default,NTP,0000,0000,0000,,Oo, my kind of job.
+Dialogue: 0,0:09:25.08,0:09:26.88,*Default,NTP,0000,0000,0000,,Anything new there Em?
+Dialogue: 0,0:09:26.88,0:09:30.88,*Default,NTP,0000,0000,0000,,Yeah. His favourite buys are gas\Nand oil, but he hates new media,
+Dialogue: 0,0:09:30.88,0:09:33.16,*Default,NTP,0000,0000,0000,,pharmaceuticals, retail companies.
+Dialogue: 0,0:09:33.16,0:09:37.04,*Default,NTP,0000,0000,0000,,What he loves best is an edge,\Nsomething that sets him\Nahead from everybody else.
+Dialogue: 0,0:09:37.04,0:09:41.60,*Default,NTP,0000,0000,0000,,Then that's what we'll give him.\NSean, let's see how long we've got,\Nhe's got a private plane,
+Dialogue: 0,0:09:41.60,0:09:43.92,*Default,NTP,0000,0000,0000,,but check to see\Nwhen he's due to leave.
+Dialogue: 0,0:09:43.92,0:09:45.88,*Default,NTP,0000,0000,0000,,Yeah, gotcha. How are things going?
+Dialogue: 0,0:09:45.88,0:09:48.36,*Default,NTP,0000,0000,0000,,IT's going live now,\Nbank account's set up,
+Dialogue: 0,0:09:48.36,0:09:52.04,*Default,NTP,0000,0000,0000,,I'm still working on the hardware\Nbut I think I can crack it. Great.
+Dialogue: 0,0:09:52.04,0:09:53.92,*Default,NTP,0000,0000,0000,,We're in.
+Dialogue: 0,0:09:57.24,0:10:00.64,*Default,NTP,0000,0000,0000,,Yeah. No, no, no. Sure...
+Dialogue: 0,0:10:01.68,0:10:05.40,*Default,NTP,0000,0000,0000,,No, listen, we wait. We wait\Nuntil New York opens in the morning,
+Dialogue: 0,0:10:05.40,0:10:09.40,*Default,NTP,0000,0000,0000,,because if the Dow Jones rallies\Nwe'll get more action here.
+Dialogue: 0,0:10:09.40,0:10:13.72,*Default,NTP,0000,0000,0000,,Yeah. My clients have very specific\Ntargets with zero risk attached.
+Dialogue: 0,0:10:14.92,0:10:17.28,*Default,NTP,0000,0000,0000,,Yes, I said zero. 
+Dialogue: 0,0:10:17.28,0:10:21.76,*Default,NTP,0000,0000,0000,,No, but listen, we wait...we wait\Nuntil the very last moment,
+Dialogue: 0,0:10:21.76,0:10:25.28,*Default,NTP,0000,0000,0000,,and then we buy fast before anyone\Nelse gets wind of what we're buying.
+Dialogue: 0,0:10:25.28,0:10:27.72,*Default,NTP,0000,0000,0000,,No-one else in London\Nwill get close.
+Dialogue: 0,0:10:27.72,0:10:29.76,*Default,NTP,0000,0000,0000,,All right, call you later. Bye.
+Dialogue: 0,0:10:31.16,0:10:34.16,*Default,NTP,0000,0000,0000,,It's too much. Would you relax!\NThis is still peanuts.
+Dialogue: 0,0:10:34.16,0:10:37.80,*Default,NTP,0000,0000,0000,,We could move up to ten million\Nbefore anyone else starts\Nasking questions.
+Dialogue: 0,0:10:37.80,0:10:41.84,*Default,NTP,0000,0000,0000,,Well, I'm not so sure.\NI think it's all happening too fast.
+Dialogue: 0,0:10:41.84,0:10:46.64,*Default,NTP,0000,0000,0000,,What if they realise why we buy what\Nwe do? They won't. How could they?
+Dialogue: 0,0:10:46.64,0:10:50.28,*Default,NTP,0000,0000,0000,,Relax. Breathe! Have some wine,\Ntry the T-bone, it's to die for.
+Dialogue: 0,0:11:11.20,0:11:13.76,*Default,NTP,0000,0000,0000,,Gentlemen, forgive me. Yes?
+Dialogue: 0,0:11:13.76,0:11:16.44,*Default,NTP,0000,0000,0000,,My employer, Madani Wasem,\Nwas on the next table
+Dialogue: 0,0:11:16.44,0:11:19.56,*Default,NTP,0000,0000,0000,,and couldn't help overhear you\Ntalking about your business.
+Dialogue: 0,0:11:19.56,0:11:22.64,*Default,NTP,0000,0000,0000,,You trade on the\NLondon stock markets, no?
+Dialogue: 0,0:11:24.24,0:11:27.48,*Default,NTP,0000,0000,0000,,I'm sorry... Why are we having\Nthis conversation?
+Dialogue: 0,0:11:27.48,0:11:30.16,*Default,NTP,0000,0000,0000,,Mr Wasem is in London\Nfor a short time,
+Dialogue: 0,0:11:30.16,0:11:33.72,*Default,NTP,0000,0000,0000,,and he would like to invite you\Nto visit him at his hotel.
+Dialogue: 0,0:11:33.72,0:11:38.24,*Default,NTP,0000,0000,0000,,He believes you may find such\Na visit to be mutually beneficial.
+Dialogue: 0,0:11:41.60,0:11:43.24,*Default,NTP,0000,0000,0000,,He said what!?
+Dialogue: 0,0:11:43.24,0:11:46.04,*Default,NTP,0000,0000,0000,,That he did not do home visits
+Dialogue: 0,0:11:46.04,0:11:51.12,*Default,NTP,0000,0000,0000,,and should you wish to talk to him\Nthen to do so during office hours.
+Dialogue: 0,0:11:57.40,0:12:00.60,*Default,NTP,0000,0000,0000,,Did you tell this\N"William Cole" who I was? Yes, sir.
+Dialogue: 0,0:12:00.60,0:12:02.08,*Default,NTP,0000,0000,0000,,And?
+Dialogue: 0,0:12:02.08,0:12:05.12,*Default,NTP,0000,0000,0000,,He said that he had\Nheard of your father.
+Dialogue: 0,0:12:11.28,0:12:14.04,*Default,NTP,0000,0000,0000,,There's a fine line between piquing\Nsomeone's interest
+Dialogue: 0,0:12:14.04,0:12:17.72,*Default,NTP,0000,0000,0000,,and being so rude they never want to\Nset eyes on you again. True.
+Dialogue: 0,0:12:17.72,0:12:20.68,*Default,NTP,0000,0000,0000,,But do you think he'll call?\NHe's a bully.
+Dialogue: 0,0:12:20.68,0:12:23.60,*Default,NTP,0000,0000,0000,,It upsets him when people don't do\Nwhat he wants them to do.
+Dialogue: 0,0:12:23.60,0:12:25.24,*Default,NTP,0000,0000,0000,,Evening, all.
+Dialogue: 0,0:12:25.24,0:12:27.60,*Default,NTP,0000,0000,0000,,What's that? What's what?
+Dialogue: 0,0:12:27.60,0:12:29.36,*Default,NTP,0000,0000,0000,,The cable. What cable?
+Dialogue: 0,0:12:29.36,0:12:32.04,*Default,NTP,0000,0000,0000,,Oh this! Oh! Well, it depends\Non how you look at it.
+Dialogue: 0,0:12:32.04,0:12:35.76,*Default,NTP,0000,0000,0000,,To the untrained eye, this is just a\Nlength of fibre-optic cable.
+Dialogue: 0,0:12:35.76,0:12:38.96,*Default,NTP,0000,0000,0000,,But in the right hands\Nand with a bit of razzle dazzle,
+Dialogue: 0,0:12:38.96,0:12:42.36,*Default,NTP,0000,0000,0000,,this is the beating\Nheart of the British economy.
+Dialogue: 0,0:12:44.04,0:12:45.12,*Default,NTP,0000,0000,0000,,He called yet?
+Dialogue: 0,0:12:55.16,0:12:58.24,*Default,NTP,0000,0000,0000,,Playing hard to get never\Nworked for me either.
+Dialogue: 0,0:13:04.72,0:13:08.24,*Default,NTP,0000,0000,0000,,We've found a London broker\Nwho can oversee all our purchases.
+Dialogue: 0,0:13:16.92,0:13:19.12,*Default,NTP,0000,0000,0000,,OK, I think we might need a boost.
+Dialogue: 0,0:13:30.68,0:13:33.08,*Default,NTP,0000,0000,0000,,Bloody marvellous,\Nthe man's a miracle worker.
+Dialogue: 0,0:13:33.08,0:13:36.72,*Default,NTP,0000,0000,0000,,Invested 40k, got a 60% return\Ninside of three days.
+Dialogue: 0,0:13:36.72,0:13:39.52,*Default,NTP,0000,0000,0000,,That's incredible. Someone must be\Ngiving him an edge.
+Dialogue: 0,0:13:39.52,0:13:42.76,*Default,NTP,0000,0000,0000,,What's his name again?\NCole. William Cole.
+Dialogue: 0,0:13:42.76,0:13:46.80,*Default,NTP,0000,0000,0000,,Don't they call him "Golden Balls"\Nor such like? That's the chappie.
+Dialogue: 0,0:13:46.80,0:13:50.56,*Default,NTP,0000,0000,0000,,Can you get me in to see him?\NWell, I'll try, old son,\Nbut he's quite exclusive.
+Dialogue: 0,0:13:50.56,0:13:53.24,*Default,NTP,0000,0000,0000,,Mind you, not hard to see why.\NLIFT PINGS
+Dialogue: 0,0:14:03.48,0:14:07.32,*Default,NTP,0000,0000,0000,,You won't make it ring\Nby looking at it.
+Dialogue: 0,0:14:07.32,0:14:08.84,*Default,NTP,0000,0000,0000,,Maybe I called it wrong.
+Dialogue: 0,0:14:10.36,0:14:11.88,*Default,NTP,0000,0000,0000,,No, you're just wound up.
+Dialogue: 0,0:14:13.20,0:14:15.60,*Default,NTP,0000,0000,0000,,I mean, most of the time,\Nwhen a mark's just a mark,
+Dialogue: 0,0:14:15.60,0:14:19.36,*Default,NTP,0000,0000,0000,,you get a set-back, you don't panic,\Nyou take it in your stride.
+Dialogue: 0,0:14:19.36,0:14:22.28,*Default,NTP,0000,0000,0000,,It's only cos this one's\Nmore important.
+Dialogue: 0,0:14:23.68,0:14:24.92,*Default,NTP,0000,0000,0000,,Sorry, I don't get you.
+Dialogue: 0,0:14:28.00,0:14:30.64,*Default,NTP,0000,0000,0000,,How long have I known you, Mick?
+Dialogue: 0,0:14:30.64,0:14:33.40,*Default,NTP,0000,0000,0000,,20 years? And in all that time,\Nyou've played the odds.
+Dialogue: 0,0:14:33.40,0:14:36.96,*Default,NTP,0000,0000,0000,,Avoided marks like this Wasem\Nbloke like the plague.
+Dialogue: 0,0:14:38.48,0:14:40.48,*Default,NTP,0000,0000,0000,,So I figure if that's\Nno longer the case,
+Dialogue: 0,0:14:40.48,0:14:45.68,*Default,NTP,0000,0000,0000,,then either you've got a death\Nwish, in which case I'm not sure\Nwhy you have to take me with you.
+Dialogue: 0,0:14:45.68,0:14:49.36,*Default,NTP,0000,0000,0000,,Or...he's a special kind of mark.
+Dialogue: 0,0:14:50.40,0:14:54.16,*Default,NTP,0000,0000,0000,,The kind of mark who'll give you\Nenough money to get\Nout of the game forever.
+Dialogue: 0,0:14:58.60,0:15:00.56,*Default,NTP,0000,0000,0000,,Am I that easy to read?
+Dialogue: 0,0:15:00.56,0:15:02.20,*Default,NTP,0000,0000,0000,,Yeah, a doddle, always have been.
+Dialogue: 0,0:15:02.20,0:15:04.48,*Default,NTP,0000,0000,0000,,I should have known.\NYou can't kid a kidder.
+Dialogue: 0,0:15:04.48,0:15:06.68,*Default,NTP,0000,0000,0000,,No, that's bollocks.
+Dialogue: 0,0:15:06.68,0:15:10.56,*Default,NTP,0000,0000,0000,,You can kid anyone... Except a mate.
+Dialogue: 0,0:15:12.16,0:15:15.72,*Default,NTP,0000,0000,0000,,Whatever you do is all right\Nwith me. Do you mean that?
+Dialogue: 0,0:15:15.72,0:15:19.04,*Default,NTP,0000,0000,0000,,I wouldn't have said it otherwise.
+Dialogue: 0,0:15:19.04,0:15:22.44,*Default,NTP,0000,0000,0000,,Just don't start getting all\Nsoppy on me, all right?
+Dialogue: 0,0:15:22.44,0:15:25.84,*Default,NTP,0000,0000,0000,,Anyway, I'm not getting any younger\Nand I'm fed up of carrying you.
+Dialogue: 0,0:15:25.84,0:15:27.44,*Default,NTP,0000,0000,0000,,Well, yes. Yeah.
+Dialogue: 0,0:15:28.88,0:15:32.40,*Default,NTP,0000,0000,0000,,Although none of this makes\Na blind bit of difference\Nif he doesn't call.
+Dialogue: 0,0:16:13.92,0:16:15.20,*Default,NTP,0000,0000,0000,,Time for plan B?
+Dialogue: 0,0:16:16.64,0:16:19.16,*Default,NTP,0000,0000,0000,,MOBILE RINGS
+Dialogue: 0,0:16:20.00,0:16:21.76,*Default,NTP,0000,0000,0000,,William Cole.
+Dialogue: 0,0:16:21.76,0:16:25.00,*Default,NTP,0000,0000,0000,,Mr Cole, this is Madani Wasem.
+Dialogue: 0,0:16:25.00,0:16:26.80,*Default,NTP,0000,0000,0000,,Let me check my diary.
+Dialogue: 0,0:16:29.36,0:16:31.00,*Default,NTP,0000,0000,0000,,No, sorry, I can't do noon.
+Dialogue: 0,0:16:32.48,0:16:34.40,*Default,NTP,0000,0000,0000,,Yeah, yeah, I can do 12.30.
+Dialogue: 0,0:16:37.60,0:16:40.00,*Default,NTP,0000,0000,0000,,OK, yeah, see you then.
+Dialogue: 0,0:18:02.84,0:18:05.16,*Default,NTP,0000,0000,0000,,Yeah, it's me. We're in.
+Dialogue: 0,0:18:05.16,0:18:06.52,*Default,NTP,0000,0000,0000,,Thank you, Emma.
+Dialogue: 0,0:18:08.28,0:18:11.80,*Default,NTP,0000,0000,0000,,I swear that girl could scam a space\Nshuttle if she set her mind to it.
+Dialogue: 0,0:18:15.68,0:18:18.44,*Default,NTP,0000,0000,0000,,You know, long before "con"\Nbecame a dirty word,
+Dialogue: 0,0:18:18.44,0:18:21.56,*Default,NTP,0000,0000,0000,,all it stood for was "confidence".
+Dialogue: 0,0:18:21.56,0:18:23.80,*Default,NTP,0000,0000,0000,,And what's so bad about that?
+Dialogue: 0,0:18:23.80,0:18:28.44,*Default,NTP,0000,0000,0000,,Now, I'm not saying that all my\Npeers are angels, far from it!
+Dialogue: 0,0:18:28.44,0:18:31.72,*Default,NTP,0000,0000,0000,,But whatever industry you work in,\Nbe it an office, or a hospital,
+Dialogue: 0,0:18:31.72,0:18:34.84,*Default,NTP,0000,0000,0000,,or a road gang I guarantee you'll\Nhave your share of rogues too.
+Dialogue: 0,0:18:34.84,0:18:38.40,*Default,NTP,0000,0000,0000,,We're criminals because\Nwe work outside the law.
+Dialogue: 0,0:18:38.40,0:18:43.20,*Default,NTP,0000,0000,0000,,Fine. But what we do,\Nwe can't do without greed.
+Dialogue: 0,0:18:44.88,0:18:49.24,*Default,NTP,0000,0000,0000,,Take Madani Wasem for instance.\NNow, he could buy his stocks
+Dialogue: 0,0:18:49.24,0:18:52.24,*Default,NTP,0000,0000,0000,,and his shares just like everyone\Nelse. Pay the same price,
+Dialogue: 0,0:18:52.24,0:18:55.44,*Default,NTP,0000,0000,0000,,take the same risk. If he did,\Nthere's no way we could touch him.
+Dialogue: 0,0:18:55.44,0:18:59.16,*Default,NTP,0000,0000,0000,,Honestly, do you think we could do\Nwhat we do if he wasn't looking\Nfor an edge?
+Dialogue: 0,0:18:59.16,0:19:03.48,*Default,NTP,0000,0000,0000,,If he wasn't looking for something\Nthat gave him an unfair advantage\Nover everyone else?
+Dialogue: 0,0:19:03.48,0:19:07.24,*Default,NTP,0000,0000,0000,,No. It's his greed\Nthat makes him fair game.
+Dialogue: 0,0:19:07.24,0:19:09.84,*Default,NTP,0000,0000,0000,,All we do, is feed that greed.
+Dialogue: 0,0:19:11.08,0:19:14.32,*Default,NTP,0000,0000,0000,,And the greedier he is,\Nthe more we can take him for.
+Dialogue: 0,0:19:15.80,0:19:20.12,*Default,NTP,0000,0000,0000,,All we need to do now is plan things\Nand cover all the angles
+Dialogue: 0,0:19:20.12,0:19:21.80,*Default,NTP,0000,0000,0000,,so there are no surprises.
+Dialogue: 0,0:19:28.88,0:19:33.12,*Default,NTP,0000,0000,0000,,So how we doing?\NYeah, Sean's out front, he'll give\Nus a heads up when they're here.
+Dialogue: 0,0:19:33.12,0:19:36.28,*Default,NTP,0000,0000,0000,,We doing a convincer?\NI thought I'd freeze him out.
+Dialogue: 0,0:19:36.28,0:19:40.60,*Default,NTP,0000,0000,0000,,Do you think that's a good idea?\NThe more we drive him mad,\Nthe more he'll want to break us.
+Dialogue: 0,0:19:40.60,0:19:43.24,*Default,NTP,0000,0000,0000,,I get the logic, but this is\Na mark who has people killed
+Dialogue: 0,0:19:43.24,0:19:45.04,*Default,NTP,0000,0000,0000,,and your strategy\Nis pissing him off.
+Dialogue: 0,0:19:45.04,0:19:46.84,*Default,NTP,0000,0000,0000,,I know what I'm doing.
+Dialogue: 0,0:19:46.84,0:19:49.76,*Default,NTP,0000,0000,0000,,PHONE RINGS\NYeah?
+Dialogue: 0,0:19:53.20,0:19:55.48,*Default,NTP,0000,0000,0000,,He's here.\NAnd he's got some bird with him.
+Dialogue: 0,0:19:55.48,0:19:56.64,*Default,NTP,0000,0000,0000,,What bird?
+Dialogue: 0,0:19:57.92,0:20:00.56,*Default,NTP,0000,0000,0000,,"Fit" doesn't help, Sean.\NAny clue what she does?
+Dialogue: 0,0:20:01.68,0:20:03.64,*Default,NTP,0000,0000,0000,,No, no, it's OK, send 'em up.
+Dialogue: 0,0:20:03.64,0:20:06.88,*Default,NTP,0000,0000,0000,,If you'd just like to take\Nthe elevator up to the sixth floor,
+Dialogue: 0,0:20:06.88,0:20:09.16,*Default,NTP,0000,0000,0000,,somebody will meet you there.\NThank you.
+Dialogue: 0,0:20:20.32,0:20:23.92,*Default,NTP,0000,0000,0000,,Mr Wasem?\NPerfect, right this way, please.
+Dialogue: 0,0:20:28.08,0:20:29.72,*Default,NTP,0000,0000,0000,,Don't worry. Don't worry, OK?
+Dialogue: 0,0:20:29.72,0:20:32.88,*Default,NTP,0000,0000,0000,,Take this one. When you get back,\Nall right, just call me,
+Dialogue: 0,0:20:32.88,0:20:36.52,*Default,NTP,0000,0000,0000,,we'll talk about it. OK? OK. OK.\NGood, good.
+Dialogue: 0,0:20:49.56,0:20:53.48,*Default,NTP,0000,0000,0000,,Mr Wasem. Very pleased to meet you.
+Dialogue: 0,0:20:53.48,0:20:57.08,*Default,NTP,0000,0000,0000,,This is my broker whilst\NI'm in London, Yvonne Hammond.
+Dialogue: 0,0:20:58.04,0:21:00.96,*Default,NTP,0000,0000,0000,,Ms Hammond. A pleasure.
+Dialogue: 0,0:21:03.28,0:21:08.00,*Default,NTP,0000,0000,0000,,So. Well, look, we can, er...\NOh, Henry, for God's sake, leave it.
+Dialogue: 0,0:21:08.00,0:21:10.00,*Default,NTP,0000,0000,0000,,Get out! I'm sorry\NGet out! Out! Come on!
+Dialogue: 0,0:21:10.00,0:21:12.04,*Default,NTP,0000,0000,0000,,How quickly can\Nyou leave an office?
+Dialogue: 0,0:21:12.04,0:21:16.00,*Default,NTP,0000,0000,0000,,Terribly sorry about that,\Nmust be hire a cretin week.
+Dialogue: 0,0:21:16.00,0:21:17.56,*Default,NTP,0000,0000,0000,,You stay.
+Dialogue: 0,0:21:22.24,0:21:26.00,*Default,NTP,0000,0000,0000,,I've been hearing a lot of\Ngood things about you, Mr Cole. Oh?
+Dialogue: 0,0:21:26.00,0:21:29.24,*Default,NTP,0000,0000,0000,,People are very impressed\Nwith the returns you've achieved
+Dialogue: 0,0:21:29.24,0:21:30.96,*Default,NTP,0000,0000,0000,,and in such a short space of time.
+Dialogue: 0,0:21:30.96,0:21:34.44,*Default,NTP,0000,0000,0000,,Well, that's the beauty\Nof the markets isn't it?
+Dialogue: 0,0:21:34.44,0:21:37.80,*Default,NTP,0000,0000,0000,,I mean, if you're well informed\Nand you're, you're quick enough,
+Dialogue: 0,0:21:37.80,0:21:39.16,*Default,NTP,0000,0000,0000,,all things are possible.
+Dialogue: 0,0:21:42.52,0:21:44.92,*Default,NTP,0000,0000,0000,,They talk to you like you're the\Nlowest form of life.
+Dialogue: 0,0:21:44.92,0:21:47.28,*Default,NTP,0000,0000,0000,,Want to know where you are every\Nminute of the day,
+Dialogue: 0,0:21:47.28,0:21:50.96,*Default,NTP,0000,0000,0000,,run here, go there, do this, move\Nthat, then they treat you like\Na muppet.
+Dialogue: 0,0:21:50.96,0:21:53.68,*Default,NTP,0000,0000,0000,,I know everything he does. I know\Nhow he makes his money
+Dialogue: 0,0:21:53.68,0:21:56.00,*Default,NTP,0000,0000,0000,,and why everyone thinks\Nhe's golden bollocks.
+Dialogue: 0,0:21:56.00,0:21:58.32,*Default,NTP,0000,0000,0000,,What do I get for it?\NNothing. Just abuse.
+Dialogue: 0,0:21:58.32,0:22:02.84,*Default,NTP,0000,0000,0000,,I don't suppose your bloke's got\Nany jobs going? I do IT.\NInformation exchange systems.
+Dialogue: 0,0:22:02.84,0:22:06.20,*Default,NTP,0000,0000,0000,,I don't think so. Yeah, well, if you\Nhear of anything, let us know, eh?
+Dialogue: 0,0:22:06.20,0:22:09.84,*Default,NTP,0000,0000,0000,,I'd love to be able to tell him\Nwhere to stick his job.
+Dialogue: 0,0:22:14.80,0:22:18.08,*Default,NTP,0000,0000,0000,,Mr Wasem is in London\Nfor three days and whilst he's here,
+Dialogue: 0,0:22:18.08,0:22:20.80,*Default,NTP,0000,0000,0000,,he's very keen to make\Nsome investments.
+Dialogue: 0,0:22:22.96,0:22:24.00,*Default,NTP,0000,0000,0000,,And?
+Dialogue: 0,0:22:24.00,0:22:27.92,*Default,NTP,0000,0000,0000,,He would be very interested to hear\Nif you have any advice to give him.
+Dialogue: 0,0:22:27.92,0:22:30.16,*Default,NTP,0000,0000,0000,,After discussing your fee,\Nof course.
+Dialogue: 0,0:22:30.16,0:22:34.60,*Default,NTP,0000,0000,0000,,We do some business, yes? Ah.
+Dialogue: 0,0:22:34.60,0:22:35.84,*Default,NTP,0000,0000,0000,,Ah?
+Dialogue: 0,0:22:35.84,0:22:39.64,*Default,NTP,0000,0000,0000,,Mmm, awkward. I have a waiting list.
+Dialogue: 0,0:22:42.64,0:22:45.92,*Default,NTP,0000,0000,0000,,You have a waiting list? Yes.
+Dialogue: 0,0:22:45.92,0:22:47.72,*Default,NTP,0000,0000,0000,,Do you know who I am?
+Dialogue: 0,0:22:47.72,0:22:50.36,*Default,NTP,0000,0000,0000,,Yes, yes, but even so.
+Dialogue: 0,0:22:50.36,0:22:53.92,*Default,NTP,0000,0000,0000,,We understand that you must have\Na very long list of people
+Dialogue: 0,0:22:53.92,0:22:56.88,*Default,NTP,0000,0000,0000,,eager to do business with you,\NMr Cole,
+Dialogue: 0,0:22:56.88,0:22:58.32,*Default,NTP,0000,0000,0000,,but we're equally sure
+Dialogue: 0,0:22:58.32,0:23:02.60,*Default,NTP,0000,0000,0000,,that you could find a way\Nto make an exception for Mr Wasem.
+Dialogue: 0,0:23:06.76,0:23:08.76,*Default,NTP,0000,0000,0000,,He asked me to wait in line!
+Dialogue: 0,0:23:08.76,0:23:11.72,*Default,NTP,0000,0000,0000,,I could go back in there\Nand speak to him. No, screw him.
+Dialogue: 0,0:23:13.92,0:23:16.40,*Default,NTP,0000,0000,0000,,You. Screw you.
+Dialogue: 0,0:23:17.52,0:23:20.04,*Default,NTP,0000,0000,0000,,I will crush you.
+Dialogue: 0,0:23:20.04,0:23:21.44,*Default,NTP,0000,0000,0000,,Get the car.
+Dialogue: 0,0:23:23.08,0:23:25.28,*Default,NTP,0000,0000,0000,,I don't think he's very happy.
+Dialogue: 0,0:23:29.36,0:23:32.92,*Default,NTP,0000,0000,0000,,I do not know what you said to him\Nbut he was not pleased.
+Dialogue: 0,0:23:38.96,0:23:42.80,*Default,NTP,0000,0000,0000,,What have I missed? Does anyone\Nknow she was in London? No.
+Dialogue: 0,0:23:42.80,0:23:46.40,*Default,NTP,0000,0000,0000,,I mean, we didn't know she was in\Nthe game but did she know we were?
+Dialogue: 0,0:23:46.40,0:23:47.96,*Default,NTP,0000,0000,0000,,She can't have known.
+Dialogue: 0,0:23:47.96,0:23:49.92,*Default,NTP,0000,0000,0000,,Sorry, I've missed something here,
+Dialogue: 0,0:23:49.92,0:23:52.36,*Default,NTP,0000,0000,0000,,like a meeting or something.\NWe need to talk to her.
+Dialogue: 0,0:23:52.36,0:23:55.24,*Default,NTP,0000,0000,0000,,Do we know where to find her? No.\NBut she knows where to find us.
+Dialogue: 0,0:23:59.28,0:24:00.88,*Default,NTP,0000,0000,0000,,Eh! You'll never guess what.
+Dialogue: 0,0:24:00.88,0:24:02.20,*Default,NTP,0000,0000,0000,,Stacie's here.
+Dialogue: 0,0:24:02.20,0:24:07.96,*Default,NTP,0000,0000,0000,,How does he, how does he do that?\NMickey! Your face was a picture.
+Dialogue: 0,0:24:07.96,0:24:10.24,*Default,NTP,0000,0000,0000,,Never thought I'd see\Nyou speechless.
+Dialogue: 0,0:24:10.24,0:24:14.24,*Default,NTP,0000,0000,0000,,Well, it was a bit of a shock.\NI'm sorry.
+Dialogue: 0,0:24:14.24,0:24:17.60,*Default,NTP,0000,0000,0000,,Ash. Hello darlin'. Long time.
+Dialogue: 0,0:24:17.60,0:24:22.40,*Default,NTP,0000,0000,0000,,Albie. You look magnificent\Nand you feel even better.
+Dialogue: 0,0:24:22.40,0:24:25.64,*Default,NTP,0000,0000,0000,,Stacie, this is Emma\Nand Sean Kennedy. Hi. Hello.
+Dialogue: 0,0:24:25.64,0:24:28.88,*Default,NTP,0000,0000,0000,,You all right?\NAsh has told me all about you.
+Dialogue: 0,0:24:28.88,0:24:31.16,*Default,NTP,0000,0000,0000,,He called occasionally.
+Dialogue: 0,0:24:31.16,0:24:34.00,*Default,NTP,0000,0000,0000,,Yeah, well,\NI'm not good with small talk.
+Dialogue: 0,0:24:34.00,0:24:37.00,*Default,NTP,0000,0000,0000,,Yes, so I noticed. Where's Danny?
+Dialogue: 0,0:24:37.00,0:24:40.60,*Default,NTP,0000,0000,0000,,Oh, he fell in love with\Na cocktail waitress in Santa Monica.
+Dialogue: 0,0:24:40.60,0:24:45.04,*Default,NTP,0000,0000,0000,,They were planning a wedding,\Nchoosing names for their children.\NThen her husband found out.
+Dialogue: 0,0:24:45.04,0:24:48.36,*Default,NTP,0000,0000,0000,,Last I heard,\Nthey were heading for Vegas.
+Dialogue: 0,0:24:48.36,0:24:51.60,*Default,NTP,0000,0000,0000,,Apparently, Danny had a plan.\NYeah, I bet he did.
+Dialogue: 0,0:24:51.60,0:24:54.92,*Default,NTP,0000,0000,0000,,How long you been back? Why didn't\Nyou tell us you were coming?
+Dialogue: 0,0:24:54.92,0:24:58.76,*Default,NTP,0000,0000,0000,,How long you staying?\NA girl can't answer that\Nmany questions without a drink.
+Dialogue: 0,0:25:00.32,0:25:02.32,*Default,NTP,0000,0000,0000,,I'll kill him.
+Dialogue: 0,0:25:02.32,0:25:05.48,*Default,NTP,0000,0000,0000,,I'll wipe every trace of him\Noff the Earth.
+Dialogue: 0,0:25:12.76,0:25:14.68,*Default,NTP,0000,0000,0000,,Now, you.
+Dialogue: 0,0:25:14.68,0:25:16.16,*Default,NTP,0000,0000,0000,,You, go and shoot him.
+Dialogue: 0,0:25:17.44,0:25:19.40,*Default,NTP,0000,0000,0000,,It's the UK, sir,\Nwe can't carry guns.
+Dialogue: 0,0:25:21.24,0:25:24.32,*Default,NTP,0000,0000,0000,,Where's my enforcer?\NI have found someone.
+Dialogue: 0,0:25:24.32,0:25:28.32,*Default,NTP,0000,0000,0000,,A Ukrainian, Alex Klukas, he was\Nrecommended to me by one of our men.
+Dialogue: 0,0:25:28.32,0:25:32.40,*Default,NTP,0000,0000,0000,,He has the details.\NBut there may also be another way.
+Dialogue: 0,0:25:35.40,0:25:37.12,*Default,NTP,0000,0000,0000,,So what you playing? Nothing fancy.
+Dialogue: 0,0:25:37.12,0:25:42.36,*Default,NTP,0000,0000,0000,,Just thought I'd siphon off the top\Nof whatever he invested,\Nget 10 or 20 grand and disappear.
+Dialogue: 0,0:25:42.36,0:25:44.92,*Default,NTP,0000,0000,0000,,That's when you ran into us.\NExactly.
+Dialogue: 0,0:25:44.92,0:25:47.80,*Default,NTP,0000,0000,0000,,Have you any idea\Nhow angry you made him?
+Dialogue: 0,0:25:47.80,0:25:49.64,*Default,NTP,0000,0000,0000,,Yeah, I think so.
+Dialogue: 0,0:25:49.64,0:25:52.00,*Default,NTP,0000,0000,0000,,I don't know\Nhow far along you are, Mickey,
+Dialogue: 0,0:25:52.00,0:25:55.40,*Default,NTP,0000,0000,0000,,but I'd think seriously\Nabout walking away from this one.
+Dialogue: 0,0:25:56.52,0:25:57.72,*Default,NTP,0000,0000,0000,,Why?
+Dialogue: 0,0:25:57.72,0:26:01.12,*Default,NTP,0000,0000,0000,,There's just something about him.\NHe's not a very nice man.
+Dialogue: 0,0:26:01.12,0:26:03.00,*Default,NTP,0000,0000,0000,,Everyone's frightened of him.
+Dialogue: 0,0:26:03.00,0:26:06.72,*Default,NTP,0000,0000,0000,,I've never met a nice mark yet.\NNo, it's more than that.
+Dialogue: 0,0:26:06.72,0:26:10.04,*Default,NTP,0000,0000,0000,,We know he uses a hit man, he\Nknocked some bloke off two days ago.
+Dialogue: 0,0:26:10.04,0:26:11.36,*Default,NTP,0000,0000,0000,,Exactly.
+Dialogue: 0,0:26:11.36,0:26:15.20,*Default,NTP,0000,0000,0000,,We know what he's capable of.\NIt's a calculated risk.
+Dialogue: 0,0:26:15.20,0:26:17.04,*Default,NTP,0000,0000,0000,,So are you going back? I don't know.
+Dialogue: 0,0:26:17.04,0:26:19.96,*Default,NTP,0000,0000,0000,,It ain't going to hurt,\Nhaving you on the inside, Stace.
+Dialogue: 0,0:26:19.96,0:26:21.24,*Default,NTP,0000,0000,0000,,That's true.
+Dialogue: 0,0:26:21.24,0:26:25.76,*Default,NTP,0000,0000,0000,,As far as I can see all you've\Ndone so far is wind him up and make\Nhim furious. Look, he's a bully.
+Dialogue: 0,0:26:25.76,0:26:29.20,*Default,NTP,0000,0000,0000,,So, we take away his control,\Nyou know, take away his power,
+Dialogue: 0,0:26:29.20,0:26:32.04,*Default,NTP,0000,0000,0000,,make him feel small. And, then,\Nwhen he's ready to burst...
+Dialogue: 0,0:26:32.04,0:26:35.04,*Default,NTP,0000,0000,0000,,We find a way to give him\Nthat control back. How?
+Dialogue: 0,0:26:35.04,0:26:37.84,*Default,NTP,0000,0000,0000,,PHONE RINGS
+Dialogue: 0,0:26:40.08,0:26:42.44,*Default,NTP,0000,0000,0000,,Just like that. Ah-ho-ho-ho.
+Dialogue: 0,0:26:44.52,0:26:45.88,*Default,NTP,0000,0000,0000,,Hello?
+Dialogue: 0,0:26:54.12,0:26:59.84,*Default,NTP,0000,0000,0000,,We don't have to do this, you know,\Nwe could bring him in another way.\NYes, Mum. I mean it. I'll be OK.
+Dialogue: 0,0:26:59.84,0:27:02.60,*Default,NTP,0000,0000,0000,,Tell him what he wants to know\Nquickly, don't string it out.
+Dialogue: 0,0:27:02.60,0:27:06.20,*Default,NTP,0000,0000,0000,,This is our convincer, if he doesn't\Nhave to work for it, he\Nwon't believe it.
+Dialogue: 0,0:27:06.20,0:27:10.48,*Default,NTP,0000,0000,0000,,But you can make sure...\NWill you just stop? I've been to\Nthe toilet, I've washed me hands
+Dialogue: 0,0:27:10.48,0:27:13.80,*Default,NTP,0000,0000,0000,,and I've got a clean hankie,\Nall right? All right.
+Dialogue: 0,0:27:13.80,0:27:15.08,*Default,NTP,0000,0000,0000,,Don't wait up.
+Dialogue: 0,0:27:24.52,0:27:26.44,*Default,NTP,0000,0000,0000,,Hello, how are you?
+Dialogue: 0,0:27:26.44,0:27:28.00,*Default,NTP,0000,0000,0000,,Good, thanks.
+Dialogue: 0,0:27:31.08,0:27:35.40,*Default,NTP,0000,0000,0000,,Barir said something about a job?\NYeah, of course.
+Dialogue: 0,0:27:35.40,0:27:38.88,*Default,NTP,0000,0000,0000,,Think of this as a job interview.
+Dialogue: 0,0:27:38.88,0:27:41.16,*Default,NTP,0000,0000,0000,,Right. OK.
+Dialogue: 0,0:27:41.16,0:27:45.84,*Default,NTP,0000,0000,0000,,Now Barir tells me that you know\Nhow Mr Cole selects his investments.
+Dialogue: 0,0:27:45.84,0:27:49.64,*Default,NTP,0000,0000,0000,,Er, yeah, well, kind of. But I'm\Nnot sure I should talk about that.
+Dialogue: 0,0:27:49.64,0:27:51.16,*Default,NTP,0000,0000,0000,,Oh?
+Dialogue: 0,0:27:51.16,0:27:53.52,*Default,NTP,0000,0000,0000,,Well, it's not part of my job,\Nnot really,
+Dialogue: 0,0:27:53.52,0:27:58.60,*Default,NTP,0000,0000,0000,,I do IT, you see.\NI've, um, brought my CV.
+Dialogue: 0,0:28:02.12,0:28:03.80,*Default,NTP,0000,0000,0000,,There you go.
+Dialogue: 0,0:28:09.96,0:28:13.96,*Default,NTP,0000,0000,0000,,Let me ask you\Nthe question in a different way.
+Dialogue: 0,0:28:15.92,0:28:19.92,*Default,NTP,0000,0000,0000,,You know how\Nhe selects his investments.
+Dialogue: 0,0:28:19.92,0:28:21.24,*Default,NTP,0000,0000,0000,,I know what he does,
+Dialogue: 0,0:28:21.24,0:28:24.32,*Default,NTP,0000,0000,0000,,I heard him talking to\Nthe yank but I don't know how.
+Dialogue: 0,0:28:26.80,0:28:28.68,*Default,NTP,0000,0000,0000,,Look, I swear, I don't know.
+Dialogue: 0,0:28:28.68,0:28:32.48,*Default,NTP,0000,0000,0000,,I know what his edge is,\NI know why he never loses any money,
+Dialogue: 0,0:28:32.48,0:28:35.28,*Default,NTP,0000,0000,0000,,but how the whole thing works,\Nthe mechanics, only he knows that.
+Dialogue: 0,0:28:35.28,0:28:40.84,*Default,NTP,0000,0000,0000,,You will tell me everything\Nyou know about William Cole
+Dialogue: 0,0:28:40.84,0:28:43.00,*Default,NTP,0000,0000,0000,,and how he selects his investments.
+Dialogue: 0,0:28:45.80,0:28:46.84,*Default,NTP,0000,0000,0000,,Everything.
+Dialogue: 0,0:28:48.72,0:28:52.92,*Default,NTP,0000,0000,0000,,Every detail. You leave nothing out.
+Dialogue: 0,0:28:54.84,0:28:56.20,*Default,NTP,0000,0000,0000,,Do you understand?
+Dialogue: 0,0:29:00.44,0:29:02.64,*Default,NTP,0000,0000,0000,,Oh, Jesus!
+Dialogue: 0,0:29:02.64,0:29:03.84,*Default,NTP,0000,0000,0000,,I think he's convinced.
+Dialogue: 0,0:29:06.96,0:29:09.56,*Default,NTP,0000,0000,0000,,I'm not going to meet you.
+Dialogue: 0,0:29:09.56,0:29:12.08,*Default,NTP,0000,0000,0000,,Sorry, sir,\Nyou don't have an appointment!
+Dialogue: 0,0:29:12.08,0:29:13.24,*Default,NTP,0000,0000,0000,,I don't need one.
+Dialogue: 0,0:29:17.40,0:29:20.36,*Default,NTP,0000,0000,0000,,What do you think you're doing?\NSit down and shut up.
+Dialogue: 0,0:29:20.36,0:29:24.64,*Default,NTP,0000,0000,0000,,I'm so sorry! Call security.\NCall whoever you want,\Nyou piece of shit.
+Dialogue: 0,0:29:24.64,0:29:28.64,*Default,NTP,0000,0000,0000,,Because the second after you throw\Nme out, I'm going to tell the police
+Dialogue: 0,0:29:28.64,0:29:32.64,*Default,NTP,0000,0000,0000,,about how you're intercepting data\Nfrom the London Stock Exchange.
+Dialogue: 0,0:29:32.64,0:29:37.68,*Default,NTP,0000,0000,0000,,Which would put you out of business\Nand into prison.
+Dialogue: 0,0:29:37.68,0:29:39.20,*Default,NTP,0000,0000,0000,,Sir?
+Dialogue: 0,0:29:39.20,0:29:44.08,*Default,NTP,0000,0000,0000,,Erm, yeah, it's, er, it's OK,\NAlice, take the rest of the day off.
+Dialogue: 0,0:29:44.08,0:29:45.84,*Default,NTP,0000,0000,0000,,Close the door behind you.
+Dialogue: 0,0:29:45.84,0:29:48.28,*Default,NTP,0000,0000,0000,,Now he wants a meeting.\NNow he wants to talk.
+Dialogue: 0,0:29:48.28,0:29:51.56,*Default,NTP,0000,0000,0000,,Well, maybe I don't want\Nto do business.
+Dialogue: 0,0:29:51.56,0:29:54.36,*Default,NTP,0000,0000,0000,,Maybe I got a waiting list.
+Dialogue: 0,0:29:54.36,0:30:01.20,*Default,NTP,0000,0000,0000,,Look, I didn't mean to offend you.\NNo? Well, I'm about to offend you.\NTalk to him.
+Dialogue: 0,0:30:01.20,0:30:06.12,*Default,NTP,0000,0000,0000,,Mr Wasem is a very reasonable man\Nand he has no wish for things to be\Nanything other than cordial.
+Dialogue: 0,0:30:06.12,0:30:09.44,*Default,NTP,0000,0000,0000,,It's very lucky for you I'm\Na reasonable man, you horse's ass.
+Dialogue: 0,0:30:09.44,0:30:13.04,*Default,NTP,0000,0000,0000,,But he insists that you show him\Nhow the data is intercepted
+Dialogue: 0,0:30:13.04,0:30:16.00,*Default,NTP,0000,0000,0000,,and how you use this data to choose\Nwhich investments you make.
+Dialogue: 0,0:30:16.00,0:30:18.60,*Default,NTP,0000,0000,0000,,Before I do anything at all,
+Dialogue: 0,0:30:18.60,0:30:21.40,*Default,NTP,0000,0000,0000,,I want to know\Nhow you came by this information.
+Dialogue: 0,0:30:21.40,0:30:24.04,*Default,NTP,0000,0000,0000,,That is none of your business.
+Dialogue: 0,0:30:24.04,0:30:28.80,*Default,NTP,0000,0000,0000,,You just show me how it works.
+Dialogue: 0,0:30:30.60,0:30:35.08,*Default,NTP,0000,0000,0000,,I can't do that because\Nthere are other people involved.
+Dialogue: 0,0:30:40.44,0:30:45.00,*Default,NTP,0000,0000,0000,,Let me explain something to you,\NMr Golden Balls.
+Dialogue: 0,0:30:45.00,0:30:48.36,*Default,NTP,0000,0000,0000,,it would give me great pleasure\Nto just tell the police
+Dialogue: 0,0:30:48.36,0:30:52.32,*Default,NTP,0000,0000,0000,,everything I know and I can go home.
+Dialogue: 0,0:30:52.32,0:30:54.84,*Default,NTP,0000,0000,0000,,Or I can forget about the police
+Dialogue: 0,0:30:54.84,0:31:00.84,*Default,NTP,0000,0000,0000,,and just shoot you\Nand everyone you love in the head.
+Dialogue: 0,0:31:00.84,0:31:05.04,*Default,NTP,0000,0000,0000,,The only thing that's stopping me\Nfrom doing that
+Dialogue: 0,0:31:05.04,0:31:07.76,*Default,NTP,0000,0000,0000,,is the thought\Nthat I can make some money here.
+Dialogue: 0,0:31:07.76,0:31:11.84,*Default,NTP,0000,0000,0000,,So you, you got\Na very simple choice.
+Dialogue: 0,0:31:12.84,0:31:17.40,*Default,NTP,0000,0000,0000,,You can either show me\Nhow the interception works
+Dialogue: 0,0:31:17.40,0:31:19.52,*Default,NTP,0000,0000,0000,,or you can go to prison
+Dialogue: 0,0:31:20.88,0:31:23.68,*Default,NTP,0000,0000,0000,,or you be dead.
+Dialogue: 0,0:31:26.76,0:31:28.80,*Default,NTP,0000,0000,0000,,All right, I'll need some time.
+Dialogue: 0,0:31:28.80,0:31:30.40,*Default,NTP,0000,0000,0000,,Of course.
+Dialogue: 0,0:31:33.28,0:31:35.12,*Default,NTP,0000,0000,0000,,You have a minute.
+Dialogue: 0,0:31:38.84,0:31:41.88,*Default,NTP,0000,0000,0000,,Have you gone insane?\NI had no choice, they know.
+Dialogue: 0,0:31:41.88,0:31:44.76,*Default,NTP,0000,0000,0000,,How? That doesn't matter.
+Dialogue: 0,0:31:44.76,0:31:49.04,*Default,NTP,0000,0000,0000,,All that's important is that\Nyou show me what I came to see.
+Dialogue: 0,0:31:49.04,0:31:51.24,*Default,NTP,0000,0000,0000,,I'm sorry, there's no other way.
+Dialogue: 0,0:32:12.52,0:32:14.76,*Default,NTP,0000,0000,0000,,This is it?
+Dialogue: 0,0:32:14.76,0:32:18.56,*Default,NTP,0000,0000,0000,,This cable carries a\Nlive feed into the\Nstock exchange building next door.
+Dialogue: 0,0:32:18.56,0:32:22.24,*Default,NTP,0000,0000,0000,,There was a fault in the\Nsystem and George was sent over
+Dialogue: 0,0:32:22.24,0:32:25.00,*Default,NTP,0000,0000,0000,,from the company in Houston who\Nsupplied the software.
+Dialogue: 0,0:32:25.00,0:32:27.44,*Default,NTP,0000,0000,0000,,His team had to dig up the cable
+Dialogue: 0,0:32:27.44,0:32:30.72,*Default,NTP,0000,0000,0000,,so that they could fit\Na new digital transcoder unit.
+Dialogue: 0,0:32:30.72,0:32:34.08,*Default,NTP,0000,0000,0000,,When we did, I realised\Nwith an exposed cable\Nand the right software,
+Dialogue: 0,0:32:34.08,0:32:36.60,*Default,NTP,0000,0000,0000,,we could manipulate the data\Nthat passes through it.
+Dialogue: 0,0:32:36.60,0:32:38.72,*Default,NTP,0000,0000,0000,,This is a hard drive.
+Dialogue: 0,0:32:38.72,0:32:40.52,*Default,NTP,0000,0000,0000,,It records all of the data coming in
+Dialogue: 0,0:32:40.52,0:32:42.92,*Default,NTP,0000,0000,0000,,and holds it up\Nfor nine tenths of a second
+Dialogue: 0,0:32:42.92,0:32:46.76,*Default,NTP,0000,0000,0000,,before playing it on down the line.\NTo the stock exchange? Exactly.
+Dialogue: 0,0:32:46.76,0:32:49.00,*Default,NTP,0000,0000,0000,,It holds it up long enough\Nfor us to analyse it
+Dialogue: 0,0:32:49.00,0:32:52.68,*Default,NTP,0000,0000,0000,,and identify any major shifts,\Ntrends or movements,
+Dialogue: 0,0:32:52.68,0:32:55.04,*Default,NTP,0000,0000,0000,,before playing it on\Nto the stock exchange boards.
+Dialogue: 0,0:32:55.04,0:32:58.28,*Default,NTP,0000,0000,0000,,It's also hooked up\Nto our trading account,
+Dialogue: 0,0:32:58.28,0:33:00.80,*Default,NTP,0000,0000,0000,,so it can make purchases\Nbased on those calculations.
+Dialogue: 0,0:33:00.80,0:33:03.20,*Default,NTP,0000,0000,0000,,Wait. You're saying\Nyou can analyse the data
+Dialogue: 0,0:33:03.20,0:33:07.68,*Default,NTP,0000,0000,0000,,and actually purchase stocks\Nbefore the stock exchange\Ngets the same information?
+Dialogue: 0,0:33:07.68,0:33:11.52,*Default,NTP,0000,0000,0000,,That's exactly what I'm saying.\NBut that's, that's genius.
+Dialogue: 0,0:33:11.52,0:33:15.68,*Default,NTP,0000,0000,0000,,Can this be done? Well, if,\Nif what they're saying is true.
+Dialogue: 0,0:33:15.68,0:33:18.88,*Default,NTP,0000,0000,0000,,It's absolutely true.\NAnd there's no risk. Ever.
+Dialogue: 0,0:33:18.88,0:33:21.72,*Default,NTP,0000,0000,0000,,We only ever buy stock\Nwe know is going to rise.
+Dialogue: 0,0:33:21.72,0:33:25.40,*Default,NTP,0000,0000,0000,,And presumably you can off-load\Nbefore anyone else\Nif it starts to go down?
+Dialogue: 0,0:33:25.40,0:33:30.08,*Default,NTP,0000,0000,0000,,We don't hold on to it that long,\Nwe just make our\Nprofits and get out.
+Dialogue: 0,0:33:32.32,0:33:35.80,*Default,NTP,0000,0000,0000,,OK, I'm in.
+Dialogue: 0,0:33:35.80,0:33:39.40,*Default,NTP,0000,0000,0000,,You're in? In for what?\NYou will make investments for me.
+Dialogue: 0,0:33:39.40,0:33:41.72,*Default,NTP,0000,0000,0000,,Look, I'm sorry,\Nit's not that simple.
+Dialogue: 0,0:33:41.72,0:33:43.24,*Default,NTP,0000,0000,0000,,I heard you in the restaurant.
+Dialogue: 0,0:33:43.24,0:33:46.04,*Default,NTP,0000,0000,0000,,You said you have\Na capacity for ten million.
+Dialogue: 0,0:33:46.04,0:33:49.80,*Default,NTP,0000,0000,0000,,Well, yes, I mean, that's the top\Nend of our buying power but...
+Dialogue: 0,0:33:49.80,0:33:53.64,*Default,NTP,0000,0000,0000,,But what? Well, even if we had\Nthat kind of money,
+Dialogue: 0,0:33:53.64,0:33:56.28,*Default,NTP,0000,0000,0000,,which, by the way, we don't,\Nwe'd never go over a million,
+Dialogue: 0,0:33:56.28,0:34:01.32,*Default,NTP,0000,0000,0000,,we don't want to draw attention\Nto ourselves. That's because you're\Na horse's ass.
+Dialogue: 0,0:34:01.32,0:34:05.16,*Default,NTP,0000,0000,0000,,You will invest\Nthe full ten million.
+Dialogue: 0,0:34:05.16,0:34:08.12,*Default,NTP,0000,0000,0000,,Ten million? Hedge fund managers\Ninvest hundreds of millions
+Dialogue: 0,0:34:08.12,0:34:10.68,*Default,NTP,0000,0000,0000,,why would anyone notice ten?
+Dialogue: 0,0:34:10.68,0:34:14.76,*Default,NTP,0000,0000,0000,,Because we're private brokers\Ntrading for private investors.
+Dialogue: 0,0:34:14.76,0:34:16.72,*Default,NTP,0000,0000,0000,,Then you buy the stock in my name,
+Dialogue: 0,0:34:16.72,0:34:21.28,*Default,NTP,0000,0000,0000,,no-one will question that level\Nof investment if it's from me.
+Dialogue: 0,0:34:21.28,0:34:25.44,*Default,NTP,0000,0000,0000,,You take my ten million,\Nyou double it.
+Dialogue: 0,0:34:25.44,0:34:27.80,*Default,NTP,0000,0000,0000,,Look, well I'd need\Nall the money in the account.
+Dialogue: 0,0:34:27.80,0:34:30.28,*Default,NTP,0000,0000,0000,,And the returns?\NThey'd go to the same account.
+Dialogue: 0,0:34:30.28,0:34:32.72,*Default,NTP,0000,0000,0000,,Miss Hammond will put everything\Nin place.
+Dialogue: 0,0:34:32.72,0:34:36.60,*Default,NTP,0000,0000,0000,,Look, I don't know, we'd have to\Nprogramme in a new trading account,
+Dialogue: 0,0:34:36.60,0:34:39.56,*Default,NTP,0000,0000,0000,,and re-set the buying criteria.\NThen do it.
+Dialogue: 0,0:34:39.56,0:34:42.68,*Default,NTP,0000,0000,0000,,Wait a minute, wait a minute,\Nwhat do we get out of this, huh?
+Dialogue: 0,0:34:42.68,0:34:45.64,*Default,NTP,0000,0000,0000,,Yeah, I mean we still\Nget our commission, right?
+Dialogue: 0,0:34:45.64,0:34:47.52,*Default,NTP,0000,0000,0000,,Er, 22%. Cash.
+Dialogue: 0,0:34:47.52,0:34:48.72,*Default,NTP,0000,0000,0000,,Five per cent.
+Dialogue: 0,0:34:48.72,0:34:50.40,*Default,NTP,0000,0000,0000,,What?
+Dialogue: 0,0:34:50.40,0:34:53.96,*Default,NTP,0000,0000,0000,,Perhaps the experience\Nwill teach you some manners.
+Dialogue: 0,0:34:55.28,0:34:57.16,*Default,NTP,0000,0000,0000,,You call me when it's ready.
+Dialogue: 0,0:35:02.56,0:35:05.88,*Default,NTP,0000,0000,0000,,OK, once the money\Nis in the trading account,
+Dialogue: 0,0:35:05.88,0:35:09.68,*Default,NTP,0000,0000,0000,,I want two men watching\NCole around the clock. Yes, sir.
+Dialogue: 0,0:35:09.68,0:35:13.24,*Default,NTP,0000,0000,0000,,I want you to learn\Nhow they programme the machine.
+Dialogue: 0,0:35:13.24,0:35:15.16,*Default,NTP,0000,0000,0000,,Me? Why?
+Dialogue: 0,0:35:16.24,0:35:19.64,*Default,NTP,0000,0000,0000,,Because once you can use it,\NI'll have no further use for Cole
+Dialogue: 0,0:35:19.64,0:35:21.04,*Default,NTP,0000,0000,0000,,and the old man.
+Dialogue: 0,0:35:21.04,0:35:23.08,*Default,NTP,0000,0000,0000,,Wait.
+Dialogue: 0,0:35:26.28,0:35:28.32,*Default,NTP,0000,0000,0000,,I don't mind bending\Nthe rules to make money,
+Dialogue: 0,0:35:28.32,0:35:30.12,*Default,NTP,0000,0000,0000,,the City's corrupt anyway.
+Dialogue: 0,0:35:30.12,0:35:33.80,*Default,NTP,0000,0000,0000,,But I won't be a party to murder.
+Dialogue: 0,0:35:34.80,0:35:37.64,*Default,NTP,0000,0000,0000,,Would you rather\NI asked someone else?
+Dialogue: 0,0:35:39.08,0:35:41.92,*Default,NTP,0000,0000,0000,,Cos then,\NI wouldn't need you either.
+Dialogue: 0,0:35:43.08,0:35:44.52,*Default,NTP,0000,0000,0000,,No.
+Dialogue: 0,0:35:44.52,0:35:46.36,*Default,NTP,0000,0000,0000,,Then just do it.
+Dialogue: 0,0:35:47.68,0:35:50.12,*Default,NTP,0000,0000,0000,,Call my enforcer,\Nget him on a plane.
+Dialogue: 0,0:36:05.04,0:36:07.80,*Default,NTP,0000,0000,0000,,OK, time to bail out.
+Dialogue: 0,0:36:07.80,0:36:09.24,*Default,NTP,0000,0000,0000,,You what?
+Dialogue: 0,0:36:09.24,0:36:12.08,*Default,NTP,0000,0000,0000,,He wants me to learn\Nhow to programme the machine.
+Dialogue: 0,0:36:12.08,0:36:13.76,*Default,NTP,0000,0000,0000,,So that he can have you killed.
+Dialogue: 0,0:36:13.76,0:36:17.00,*Default,NTP,0000,0000,0000,,Well, that's kind of\Nwhat we expected.
+Dialogue: 0,0:36:17.00,0:36:20.20,*Default,NTP,0000,0000,0000,,He told Barir to call the enforcer\Nand whatever you do,
+Dialogue: 0,0:36:20.20,0:36:23.04,*Default,NTP,0000,0000,0000,,he's not going to let you\Nout of his sight. I know.
+Dialogue: 0,0:36:23.04,0:36:27.00,*Default,NTP,0000,0000,0000,,From tomorrow morning he'll have\Ntwo of his guards on you full time.
+Dialogue: 0,0:36:27.00,0:36:30.20,*Default,NTP,0000,0000,0000,,Even if you pull this off,\Nyou'll never get away clean.
+Dialogue: 0,0:36:30.20,0:36:32.12,*Default,NTP,0000,0000,0000,,This is wicked.
+Dialogue: 0,0:36:32.12,0:36:35.12,*Default,NTP,0000,0000,0000,,Without a doubt, this is one of the\Ncoolest things I've ever tried on.
+Dialogue: 0,0:36:35.12,0:36:38.96,*Default,NTP,0000,0000,0000,,I actually look like I could\Nswim faster than a shark!
+Dialogue: 0,0:36:38.96,0:36:40.24,*Default,NTP,0000,0000,0000,,All right, Stace? Hi.
+Dialogue: 0,0:36:40.24,0:36:42.64,*Default,NTP,0000,0000,0000,,Just for the record,
+Dialogue: 0,0:36:42.64,0:36:47.56,*Default,NTP,0000,0000,0000,,this isn't an accurate\Nrepresentation of my underwear.
+Dialogue: 0,0:36:47.56,0:36:48.88,*Default,NTP,0000,0000,0000,,Pleased to hear it.
+Dialogue: 0,0:36:51.28,0:36:56.04,*Default,NTP,0000,0000,0000,,He's got issues, from when he was\Na baby. I do not have issues.
+Dialogue: 0,0:36:56.04,0:37:01.04,*Default,NTP,0000,0000,0000,,Mickey, I don't like it.
+Dialogue: 0,0:37:01.04,0:37:04.56,*Default,NTP,0000,0000,0000,,It feels wrong.\NWhat about the money?
+Dialogue: 0,0:37:04.56,0:37:08.28,*Default,NTP,0000,0000,0000,,He's having it transferred\Nfirst thing tomorrow\Nbefore the markets open.
+Dialogue: 0,0:37:08.28,0:37:12.12,*Default,NTP,0000,0000,0000,,He's also bringing 500,000\Nin cash which is your commission
+Dialogue: 0,0:37:12.12,0:37:15.32,*Default,NTP,0000,0000,0000,,if you double him up. OK.
+Dialogue: 0,0:37:15.32,0:37:19.04,*Default,NTP,0000,0000,0000,,I tell you someone's planning\Nto have you killed\Nand all you say is OK?
+Dialogue: 0,0:37:20.28,0:37:23.64,*Default,NTP,0000,0000,0000,,You're taking ten million\Nfrom this man, Mickey,
+Dialogue: 0,0:37:23.64,0:37:27.96,*Default,NTP,0000,0000,0000,,he's not going to just put it down\Nto experience and walk away.
+Dialogue: 0,0:37:32.08,0:37:35.00,*Default,NTP,0000,0000,0000,,I know Wasem won't just walk away.
+Dialogue: 0,0:37:35.00,0:37:39.60,*Default,NTP,0000,0000,0000,,Which is why it's a good reason\Nfor us all to lay low for a bit.
+Dialogue: 0,0:37:41.72,0:37:45.40,*Default,NTP,0000,0000,0000,,So, I was thinking,\Nwhen this job is done,
+Dialogue: 0,0:37:45.40,0:37:49.76,*Default,NTP,0000,0000,0000,,we should take a break.\NGo our separate ways for a while.
+Dialogue: 0,0:37:49.76,0:37:53.00,*Default,NTP,0000,0000,0000,,How long's a while? Who knows?
+Dialogue: 0,0:37:53.00,0:37:56.16,*Default,NTP,0000,0000,0000,,I thought it best\Nnot to make plans.
+Dialogue: 0,0:37:56.16,0:38:00.12,*Default,NTP,0000,0000,0000,,I was going to talk to you about\Nthis when the job was done but...
+Dialogue: 0,0:38:00.12,0:38:02.16,*Default,NTP,0000,0000,0000,,seems now is as good a time as any.
+Dialogue: 0,0:38:02.16,0:38:05.40,*Default,NTP,0000,0000,0000,,So, that's why we're taking this\Njob? It's walking away money?
+Dialogue: 0,0:38:05.40,0:38:06.92,*Default,NTP,0000,0000,0000,,If you want to call it that.
+Dialogue: 0,0:38:06.92,0:38:11.00,*Default,NTP,0000,0000,0000,,That's it, then? One last job\Nand we're finished, huh?
+Dialogue: 0,0:38:11.00,0:38:15.96,*Default,NTP,0000,0000,0000,,I've always thought it was a good\Nidea to quit while you're ahead.
+Dialogue: 0,0:38:15.96,0:38:19.48,*Default,NTP,0000,0000,0000,,I think ten million\Nqualifies as being ahead.
+Dialogue: 0,0:38:21.28,0:38:22.80,*Default,NTP,0000,0000,0000,,This is the question.
+Dialogue: 0,0:38:22.80,0:38:27.36,*Default,NTP,0000,0000,0000,,If you didn't take this break,\Nwould you still do the job?
+Dialogue: 0,0:38:35.24,0:38:36.40,*Default,NTP,0000,0000,0000,,If I'm honest.
+Dialogue: 0,0:38:37.72,0:38:39.08,*Default,NTP,0000,0000,0000,,No, I wouldn't.
+Dialogue: 0,0:38:39.08,0:38:44.64,*Default,NTP,0000,0000,0000,,And I wouldn't blame any one of you\Nthat wanted to walk away right now.
+Dialogue: 0,0:38:44.64,0:38:47.40,*Default,NTP,0000,0000,0000,,But, come on!\NThe money comes in tomorrow.
+Dialogue: 0,0:38:47.40,0:38:49.76,*Default,NTP,0000,0000,0000,,Our play is\Nthat the City of London police
+Dialogue: 0,0:38:49.76,0:38:51.48,*Default,NTP,0000,0000,0000,,has had us under surveillance.
+Dialogue: 0,0:38:51.48,0:38:54.16,*Default,NTP,0000,0000,0000,,Ash has  lined up a dozen\Ngrifters and all the vehicles.
+Dialogue: 0,0:38:54.16,0:38:56.72,*Default,NTP,0000,0000,0000,,We get ourselves arrested\Nbut we let Wasem get away.
+Dialogue: 0,0:38:56.72,0:39:00.64,*Default,NTP,0000,0000,0000,,He'll be desperate to leave\Nthe country, thinking the\Nmoney's been impounded,
+Dialogue: 0,0:39:00.64,0:39:04.12,*Default,NTP,0000,0000,0000,,there's nothing to keep him here,\Nwhere as we, on the other hand,
+Dialogue: 0,0:39:04.12,0:39:09.32,*Default,NTP,0000,0000,0000,,will cash in and be long gone\Nby the time the dust settles.
+Dialogue: 0,0:39:16.24,0:39:18.96,*Default,NTP,0000,0000,0000,,It will work. Trust me.
+Dialogue: 0,0:39:20.20,0:39:23.92,*Default,NTP,0000,0000,0000,,PHONE RINGS
+Dialogue: 0,0:39:24.96,0:39:26.20,*Default,NTP,0000,0000,0000,,Hello.
+Dialogue: 0,0:39:26.20,0:39:28.76,*Default,NTP,0000,0000,0000,,We have a job.
+Dialogue: 0,0:39:28.76,0:39:31.76,*Default,NTP,0000,0000,0000,,Stay in your room,\NI will send over a package.
+Dialogue: 0,0:39:43.32,0:39:46.60,*Default,NTP,0000,0000,0000,,You OK? Yeah.
+Dialogue: 0,0:39:51.48,0:39:54.00,*Default,NTP,0000,0000,0000,,So, it must be nice\Nto see Stacie again.
+Dialogue: 0,0:39:54.00,0:39:57.44,*Default,NTP,0000,0000,0000,,Yeah, yeah, it is.\NYeah, Ash told me that you two, um,
+Dialogue: 0,0:39:57.44,0:40:00.84,*Default,NTP,0000,0000,0000,,you were quite close for a while.\NYeah, we were.
+Dialogue: 0,0:40:00.84,0:40:04.08,*Default,NTP,0000,0000,0000,,Yeah, you go back a long way.\NYeah, that's right.
+Dialogue: 0,0:40:07.88,0:40:12.44,*Default,NTP,0000,0000,0000,,So, this, er, whole break thing.\NYou know the whole, um,
+Dialogue: 0,0:40:12.44,0:40:14.12,*Default,NTP,0000,0000,0000,,going our own way thing.
+Dialogue: 0,0:40:14.12,0:40:17.64,*Default,NTP,0000,0000,0000,,Only it's a bit sudden\Nand it's a bit like,
+Dialogue: 0,0:40:17.64,0:40:21.20,*Default,NTP,0000,0000,0000,,Stacie turning up the way she has\Nand I just, I...I was wondering
+Dialogue: 0,0:40:21.20,0:40:23.56,*Default,NTP,0000,0000,0000,,if the two things\Nwere related in any way.
+Dialogue: 0,0:40:23.56,0:40:27.84,*Default,NTP,0000,0000,0000,,It's just curiosity, really,\NIt's a good job I'm not a cat.
+Dialogue: 0,0:40:27.84,0:40:31.52,*Default,NTP,0000,0000,0000,,No, the thing, the thing is...\NNo, it's not. It's not what?
+Dialogue: 0,0:40:31.52,0:40:34.88,*Default,NTP,0000,0000,0000,,Related. OK.
+Dialogue: 0,0:40:34.88,0:40:38.92,*Default,NTP,0000,0000,0000,,It's just... I want to live\Na normal life for a while.
+Dialogue: 0,0:40:38.92,0:40:41.92,*Default,NTP,0000,0000,0000,,Get to know people for who they are.
+Dialogue: 0,0:40:41.92,0:40:45.76,*Default,NTP,0000,0000,0000,,Not constantly look at them and see\Nif they'd make a great mark or not.
+Dialogue: 0,0:40:45.76,0:40:48.48,*Default,NTP,0000,0000,0000,,So, it's more like a holiday,\Nreally?
+Dialogue: 0,0:40:48.48,0:40:52.40,*Default,NTP,0000,0000,0000,,Yeah, I guess so. Yeah, so we could\Nstill, you know, like, meet up
+Dialogue: 0,0:40:52.40,0:40:55.08,*Default,NTP,0000,0000,0000,,and spend time together\Nand...and chill.
+Dialogue: 0,0:40:55.08,0:40:56.84,*Default,NTP,0000,0000,0000,,I'd like that.
+Dialogue: 0,0:40:56.84,0:41:01.40,*Default,NTP,0000,0000,0000,,Me too. Then the work thing wouldn't\Nbe there any more, would it?
+Dialogue: 0,0:41:01.40,0:41:03.60,*Default,NTP,0000,0000,0000,,No, it wouldn't.
+Dialogue: 0,0:41:03.60,0:41:06.16,*Default,NTP,0000,0000,0000,,And if everything goes right\Ntomorrow, then you know,
+Dialogue: 0,0:41:06.16,0:41:08.72,*Default,NTP,0000,0000,0000,,we'll be stinking rich.
+Dialogue: 0,0:41:08.72,0:41:09.88,*Default,NTP,0000,0000,0000,,Yes, we will.
+Dialogue: 0,0:41:09.88,0:41:14.28,*Default,NTP,0000,0000,0000,,So, at some point,\Nwe could be talking
+Dialogue: 0,0:41:14.28,0:41:17.20,*Default,NTP,0000,0000,0000,,you and me, and a desert island and,
+Dialogue: 0,0:41:17.20,0:41:20.64,*Default,NTP,0000,0000,0000,,like, a couple of million\Nin the bank or something.
+Dialogue: 0,0:41:22.40,0:41:24.56,*Default,NTP,0000,0000,0000,,That doesn't sound too shabby,\Ndoes it?
+Dialogue: 0,0:41:24.56,0:41:27.36,*Default,NTP,0000,0000,0000,,No, it doesn't.
+Dialogue: 0,0:41:30.96,0:41:32.16,*Default,NTP,0000,0000,0000,,OK, good.
+Dialogue: 0,0:41:36.20,0:41:40.72,*Default,NTP,0000,0000,0000,,Great, well, then I'll just\Nleave you to your thinking.
+Dialogue: 0,0:41:40.72,0:41:42.00,*Default,NTP,0000,0000,0000,,I just thought I'd ask.
+Dialogue: 0,0:41:42.00,0:41:43.96,*Default,NTP,0000,0000,0000,,I'm really glad you did.
+Dialogue: 0,0:42:16.12,0:42:20.12,*Default,NTP,0000,0000,0000,,OK, so you go when Albert calls\NNick to give him the thumbs up.
+Dialogue: 0,0:42:20.12,0:42:25.04,*Default,NTP,0000,0000,0000,,Hard and fast, OK? Lots of noise.\NWe need them scared enough\Nto run straight to the airport.
+Dialogue: 0,0:42:25.04,0:42:28.12,*Default,NTP,0000,0000,0000,,Everyone in cuffs\Nand dragged out to the vans.
+Dialogue: 0,0:42:28.12,0:42:32.88,*Default,NTP,0000,0000,0000,,We're going to be outside the London\NStock Exchange, it won't be long\Nbefore the real old bill notice.
+Dialogue: 0,0:42:32.88,0:42:35.88,*Default,NTP,0000,0000,0000,,So, don't hang about, get them\Nin the vans and on your way.
+Dialogue: 0,0:42:35.88,0:42:37.48,*Default,NTP,0000,0000,0000,,The mark is last up.
+Dialogue: 0,0:42:37.48,0:42:40.20,*Default,NTP,0000,0000,0000,,He'll be with his bodyguard\Nand Stacie.
+Dialogue: 0,0:42:40.20,0:42:44.00,*Default,NTP,0000,0000,0000,,Stacie will offer to bribe Nick\Nat that point
+Dialogue: 0,0:42:44.00,0:42:48.32,*Default,NTP,0000,0000,0000,,and that's when you let them go.\NIs that all clear? Yeah.
+Dialogue: 0,0:42:48.32,0:42:50.32,*Default,NTP,0000,0000,0000,,Right, get yourselves in position.
+Dialogue: 0,0:42:50.32,0:42:52.48,*Default,NTP,0000,0000,0000,,Good luck.
+Dialogue: 0,0:42:52.48,0:42:54.24,*Default,NTP,0000,0000,0000,,All right?
+Dialogue: 0,0:42:56.28,0:42:58.28,*Default,NTP,0000,0000,0000,,Nice one. Take care, Albert.
+Dialogue: 0,0:43:01.16,0:43:04.08,*Default,NTP,0000,0000,0000,,So, Stacie called.\NThe money's in the trading account
+Dialogue: 0,0:43:04.08,0:43:08.72,*Default,NTP,0000,0000,0000,,but when we get there,\NWasem needs to put his pin number in\Nbefore we can move it. OK.
+Dialogue: 0,0:43:08.72,0:43:12.20,*Default,NTP,0000,0000,0000,,We'll clear out of the penthouse and\Nmeet at the hotel when it's done.
+Dialogue: 0,0:43:12.20,0:43:15.40,*Default,NTP,0000,0000,0000,,We'll split the money\Nby direct transfer, and then...
+Dialogue: 0,0:43:16.68,0:43:20.12,*Default,NTP,0000,0000,0000,,..all go our separate ways.
+Dialogue: 0,0:43:21.36,0:43:23.84,*Default,NTP,0000,0000,0000,,Everyone know what they're doing?\NRight.
+Dialogue: 0,0:43:23.84,0:43:25.84,*Default,NTP,0000,0000,0000,,EDDIE CLEARS HIS THROAT
+Dialogue: 0,0:43:28.24,0:43:29.84,*Default,NTP,0000,0000,0000,,What about me?
+Dialogue: 0,0:43:29.84,0:43:31.64,*Default,NTP,0000,0000,0000,,Eh?
+Dialogue: 0,0:43:31.64,0:43:35.68,*Default,NTP,0000,0000,0000,,Everyone's talking about\Nthe biggest job ever,\Nhistory in the making and all that
+Dialogue: 0,0:43:35.68,0:43:38.44,*Default,NTP,0000,0000,0000,,and everyone's got something\Nto do except me.
+Dialogue: 0,0:43:38.44,0:43:40.68,*Default,NTP,0000,0000,0000,,Even the bloody dogs\Nhave got a part.
+Dialogue: 0,0:43:40.68,0:43:45.12,*Default,NTP,0000,0000,0000,,Yeah, yeah, well, er,\Nthere's a reason we haven't\Ngiven you anything yet, Ed.
+Dialogue: 0,0:43:45.12,0:43:49.56,*Default,NTP,0000,0000,0000,,Yeah? Because we've saved\Nthe best till last.
+Dialogue: 0,0:43:49.56,0:43:53.56,*Default,NTP,0000,0000,0000,,Ah, see, I thought it'd be\Nsomething like that.
+Dialogue: 0,0:43:53.56,0:43:56.52,*Default,NTP,0000,0000,0000,,So, what? Do I get like a uniform,\Nan' all that?
+Dialogue: 0,0:43:56.52,0:43:58.12,*Default,NTP,0000,0000,0000,,No, you won't need one,
+Dialogue: 0,0:43:58.12,0:44:02.96,*Default,NTP,0000,0000,0000,,you see, the most important part\Nof your job...
+Dialogue: 0,0:44:04.96,0:44:08.44,*Default,NTP,0000,0000,0000,,..is to have the drinks ready and\Non the table for when we get back.
+Dialogue: 0,0:44:12.60,0:44:14.92,*Default,NTP,0000,0000,0000,,Good luck, Ed.
+Dialogue: 0,0:44:40.52,0:44:42.24,*Default,NTP,0000,0000,0000,,Sir, we need your pin.
+Dialogue: 0,0:44:46.56,0:44:48.40,*Default,NTP,0000,0000,0000,,Thank you.
+Dialogue: 0,0:44:52.84,0:44:55.04,*Default,NTP,0000,0000,0000,,OK. Three minutes.
+Dialogue: 0,0:44:58.04,0:45:01.72,*Default,NTP,0000,0000,0000,,That it?\NYeah. Like we were never here.
+Dialogue: 0,0:45:20.60,0:45:24.08,*Default,NTP,0000,0000,0000,,What's happening with my money?
+Dialogue: 0,0:45:24.08,0:45:25.20,*Default,NTP,0000,0000,0000,,It's all right.
+Dialogue: 0,0:45:26.40,0:45:28.48,*Default,NTP,0000,0000,0000,,It's buying.
+Dialogue: 0,0:46:07.00,0:46:11.12,*Default,NTP,0000,0000,0000,,Are we ready to do the transfer?
+Dialogue: 0,0:46:11.12,0:46:16.00,*Default,NTP,0000,0000,0000,,So, now, we transferring his ten\Nmillion from the trading account,\Ninto our account.
+Dialogue: 0,0:46:24.44,0:46:26.32,*Default,NTP,0000,0000,0000,,Hi. Hello.
+Dialogue: 0,0:46:26.32,0:46:29.80,*Default,NTP,0000,0000,0000,,We have a reservation,\Nunder the name of Jones. OK.
+Dialogue: 0,0:46:54.96,0:46:58.84,*Default,NTP,0000,0000,0000,,This is the most fun I've ever had.\NYou know what?
+Dialogue: 0,0:46:58.84,0:47:02.84,*Default,NTP,0000,0000,0000,,I think we come back tomorrow,\Nwe do it all over again.
+Dialogue: 0,0:47:02.84,0:47:07.32,*Default,NTP,0000,0000,0000,,Stay where you are!\NGet on the floor! Down now!
+Dialogue: 0,0:47:07.32,0:47:12.56,*Default,NTP,0000,0000,0000,,Armed Police! Nobody move! You are\Nunder arrest on suspicion of fraud.
+Dialogue: 0,0:47:18.84,0:47:20.36,*Default,NTP,0000,0000,0000,,Come on. Come on.
+Dialogue: 0,0:47:20.36,0:47:23.88,*Default,NTP,0000,0000,0000,,This has nothing to do with us. All\Nright, darlin', tell it\Nto the judge.
+Dialogue: 0,0:47:23.88,0:47:27.80,*Default,NTP,0000,0000,0000,,No, no, no, I mean it.\NThey did it, they have this machine,\Nthey wanted us to invest.
+Dialogue: 0,0:47:27.80,0:47:30.36,*Default,NTP,0000,0000,0000,,That's what happened,\Nshe's telling the truth!
+Dialogue: 0,0:47:30.36,0:47:33.56,*Default,NTP,0000,0000,0000,,We didn't even give them the money.\NHold up.
+Dialogue: 0,0:47:33.56,0:47:35.80,*Default,NTP,0000,0000,0000,,Bring 'em back.
+Dialogue: 0,0:47:37.12,0:47:39.12,*Default,NTP,0000,0000,0000,,Take the rest of them away.
+Dialogue: 0,0:47:40.72,0:47:43.84,*Default,NTP,0000,0000,0000,,It was...it was just\Na demonstration,
+Dialogue: 0,0:47:43.84,0:47:47.00,*Default,NTP,0000,0000,0000,,we only met them yesterday.
+Dialogue: 0,0:47:47.00,0:47:50.56,*Default,NTP,0000,0000,0000,,They were trying to convince us to\Ninvest but we didn't.
+Dialogue: 0,0:47:50.56,0:47:54.24,*Default,NTP,0000,0000,0000,,Open the bag,\Nyou can see for yourself.
+Dialogue: 0,0:47:59.56,0:48:02.24,*Default,NTP,0000,0000,0000,,So, this is your money? Yes.
+Dialogue: 0,0:48:04.28,0:48:07.92,*Default,NTP,0000,0000,0000,,B-But it doesn't have to be.\NIt could be yours.
+Dialogue: 0,0:48:07.92,0:48:10.52,*Default,NTP,0000,0000,0000,,So, if it just disappeared.
+Dialogue: 0,0:48:11.80,0:48:16.80,*Default,NTP,0000,0000,0000,,There is half a million pounds\Nin cash in that bag, so...
+Dialogue: 0,0:48:18.76,0:48:23.24,*Default,NTP,0000,0000,0000,,If you let us go we won't even\Nlook back, I swear.
+Dialogue: 0,0:48:23.24,0:48:27.72,*Default,NTP,0000,0000,0000,,I've got a jet fuelled\Nand ready to leave,
+Dialogue: 0,0:48:27.72,0:48:30.64,*Default,NTP,0000,0000,0000,,I can be out of the country\Nin an hour.
+Dialogue: 0,0:48:30.64,0:48:35.32,*Default,NTP,0000,0000,0000,,You've got the machine,\Nthe people who built it.
+Dialogue: 0,0:48:35.32,0:48:37.52,*Default,NTP,0000,0000,0000,,Why do you need us?
+Dialogue: 0,0:48:50.40,0:48:52.24,*Default,NTP,0000,0000,0000,,Our friend's on his way\Nto the airport.
+Dialogue: 0,0:48:52.24,0:48:54.96,*Default,NTP,0000,0000,0000,,Stacie's going to lose him\Nand meet you back at the hotel.
+Dialogue: 0,0:48:54.96,0:48:57.00,*Default,NTP,0000,0000,0000,,You son of a bitch, you did it.
+Dialogue: 0,0:48:57.00,0:48:59.04,*Default,NTP,0000,0000,0000,,Hold tight.
+Dialogue: 0,0:49:11.32,0:49:13.00,*Default,NTP,0000,0000,0000,,You did well.
+Dialogue: 0,0:49:13.00,0:49:16.04,*Default,NTP,0000,0000,0000,,Just get on the plane\Nbefore they change their mind.
+Dialogue: 0,0:49:36.08,0:49:38.12,*Default,NTP,0000,0000,0000,,We're back.
+Dialogue: 0,0:49:38.12,0:49:40.48,*Default,NTP,0000,0000,0000,,Ah. Hey. Ha-ha-ha.
+Dialogue: 0,0:49:43.84,0:49:46.92,*Default,NTP,0000,0000,0000,,Current balance, ten million pounds.
+Dialogue: 0,0:49:46.92,0:49:50.60,*Default,NTP,0000,0000,0000,,Yes! And he gave us half a mill\Ncommission in cash
+Dialogue: 0,0:49:50.60,0:49:52.52,*Default,NTP,0000,0000,0000,,for taking it off him. Yeah-hey.
+Dialogue: 0,0:49:54.96,0:49:57.76,*Default,NTP,0000,0000,0000,,Thank you, my dear.
+Dialogue: 0,0:49:57.76,0:50:03.16,*Default,NTP,0000,0000,0000,,To us. To us! Yeah, yeah! Woo hoo!
+Dialogue: 0,0:50:03.16,0:50:08.04,*Default,NTP,0000,0000,0000,,They've just gone into the hotel.\NNo. No police.
+Dialogue: 0,0:50:18.76,0:50:21.28,*Default,NTP,0000,0000,0000,,Ah, taste of victory. Scary. Scary.
+Dialogue: 0,0:50:22.96,0:50:24.64,*Default,NTP,0000,0000,0000,,Guys, Get out.
+Dialogue: 0,0:50:26.40,0:50:28.04,*Default,NTP,0000,0000,0000,,Go. Go, go, move.
+Dialogue: 0,0:50:31.96,0:50:33.04,*Default,NTP,0000,0000,0000,,Come on, Albert.
+Dialogue: 0,0:51:15.28,0:51:16.40,*Default,NTP,0000,0000,0000,,Mickey Bricks,
+Dialogue: 0,0:51:18.00,0:51:21.84,*Default,NTP,0000,0000,0000,,if you've ever been brilliant,\Nplease be brilliant now.
+Dialogue: 0,0:51:42.16,0:51:47.20,*Default,NTP,0000,0000,0000,,Gentlemen. I know what\Nyou're thinking but, er...
+Dialogue: 0,0:51:47.20,0:51:49.52,*Default,NTP,0000,0000,0000,,GUNFIRE
+Dialogue: 0,0:52:36.88,0:52:40.16,*Default,NTP,0000,0000,0000,,That's my money. That's my money.\NCome on, come on.
+Dialogue: 0,0:53:01.92,0:53:06.32,*Default,NTP,0000,0000,0000,,I guess most of you\Nmust have thought that,
+Dialogue: 0,0:53:06.32,0:53:09.36,*Default,NTP,0000,0000,0000,,one day, it would end like this.
+Dialogue: 0,0:53:14.92,0:53:18.64,*Default,NTP,0000,0000,0000,,Which, without an extraordinary\Namount of planning,
+Dialogue: 0,0:53:18.64,0:53:20.92,*Default,NTP,0000,0000,0000,,it very well might have done.
+Dialogue: 0,0:53:24.60,0:53:28.48,*Default,NTP,0000,0000,0000,,Come on, then. Off your arses.\NWakey wakey.
+Dialogue: 0,0:53:28.48,0:53:30.80,*Default,NTP,0000,0000,0000,,Honestly, eh?
+Dialogue: 0,0:53:30.80,0:53:34.76,*Default,NTP,0000,0000,0000,,What would you lot do without me\Ncoming to bale you out of trouble\Nall the time?
+Dialogue: 0,0:53:34.76,0:53:36.92,*Default,NTP,0000,0000,0000,,I mean it's all right Mickey\Ndoing all that,
+Dialogue: 0,0:53:36.92,0:53:41.24,*Default,NTP,0000,0000,0000,,"Look at me, I'm a clever bastard"\Nstuff, but when it comes down to it.
+Dialogue: 0,0:53:41.24,0:53:43.20,*Default,NTP,0000,0000,0000,,You just can't do it without me,\Ncan you?
+Dialogue: 0,0:53:43.20,0:53:46.28,*Default,NTP,0000,0000,0000,,Are you sure you couldn't find\Nanyone else? I'm sorry.
+Dialogue: 0,0:53:46.28,0:53:49.32,*Default,NTP,0000,0000,0000,,Hello. Who's this? Very pretty.\NHello, sweetheart.
+Dialogue: 0,0:53:49.32,0:53:53.36,*Default,NTP,0000,0000,0000,,I'm Danny. Danny Blue.\NProbably heard a lot about me.
+Dialogue: 0,0:53:56.52,0:53:59.32,*Default,NTP,0000,0000,0000,,Call my enforcer,\Nget him on a plane.
+Dialogue: 0,0:54:20.56,0:54:23.20,*Default,NTP,0000,0000,0000,,Alex Klukas? I'm here.
+Dialogue: 0,0:54:24.92,0:54:26.48,*Default,NTP,0000,0000,0000,,Hello, Mickey.
+Dialogue: 0,0:54:29.68,0:54:31.08,*Default,NTP,0000,0000,0000,,Try this on.
+Dialogue: 0,0:54:31.08,0:54:34.64,*Default,NTP,0000,0000,0000,,Just for the record, this isn't\Nan accurate representation
+Dialogue: 0,0:54:34.64,0:54:35.80,*Default,NTP,0000,0000,0000,,of my underwear.
+Dialogue: 0,0:54:47.60,0:54:50.64,*Default,NTP,0000,0000,0000,,I want you to learn\Nhow they programme the machine.
+Dialogue: 0,0:54:51.84,0:54:54.36,*Default,NTP,0000,0000,0000,,How does the machine work?
+Dialogue: 0,0:54:54.36,0:54:57.60,*Default,NTP,0000,0000,0000,,Well, basically, it's a box\Nwith a bunch of lights in it.
+Dialogue: 0,0:54:57.60,0:55:00.20,*Default,NTP,0000,0000,0000,,I thought it might be.
+Dialogue: 0,0:55:00.20,0:55:03.16,*Default,NTP,0000,0000,0000,,Gentlemen.\NI know what you're thinking.
+Dialogue: 0,0:55:12.64,0:55:14.72,*Default,NTP,0000,0000,0000,,Come on then, off your arses.
+Dialogue: 0,0:55:16.88,0:55:21.12,*Default,NTP,0000,0000,0000,,Did you, er, did you throw it all\Nover? Nah, fifty grand or so.
+Dialogue: 0,0:55:43.24,0:55:45.36,*Default,NTP,0000,0000,0000,,Er, now might be a good time\Nto slip away.
+Dialogue: 0,0:55:45.36,0:55:47.20,*Default,NTP,0000,0000,0000,,I think that's a fabulous idea.
+Dialogue: 0,0:55:47.20,0:55:51.76,*Default,NTP,0000,0000,0000,,How about, me and you, we just slip\Naway together? Danny, behave.
+Dialogue: 0,0:55:51.76,0:55:53.12,*Default,NTP,0000,0000,0000,,Easy pal, that's my sister.
+Dialogue: 0,0:55:53.12,0:55:55.40,*Default,NTP,0000,0000,0000,,Whoa, everybody's a bit touchy,\Nain't they?
+Dialogue: 0,0:55:55.40,0:55:58.68,*Default,NTP,0000,0000,0000,,I didn't have to use blanks,\Nyou know, I did think about it.
+Dialogue: 0,0:55:58.68,0:56:01.32,*Default,NTP,0000,0000,0000,,How you doing, Albie? Pretty good,\NDanny, pretty good.
+Dialogue: 0,0:56:01.32,0:56:04.72,*Default,NTP,0000,0000,0000,,I'm sorry I had to shoot you.\NDon't worry about it.
+Dialogue: 0,0:56:04.72,0:56:09.20,*Default,NTP,0000,0000,0000,,I blame Mickey. He's very\Ntheatrical. Someone shut him up. It\Nwas OTT, that's all I'm saying.
+Dialogue: 0,0:56:09.20,0:56:12.68,*Default,NTP,0000,0000,0000,,We were still being watched.\NExactly.\NAlways playing to the audience.
+Dialogue: 0,0:56:12.68,0:56:15.40,*Default,NTP,0000,0000,0000,,When you've taken\Nsomeone for ten million,
+Dialogue: 0,0:56:15.40,0:56:19.40,*Default,NTP,0000,0000,0000,,the only way you can be sure they're\Nnot coming after you is if they\Nthink you're dead.
+Dialogue: 0,0:56:19.40,0:56:22.28,*Default,NTP,0000,0000,0000,,Ten million? Is this a good time\Nto talk about my cut?
+Dialogue: 0,0:56:22.28,0:56:26.44,*Default,NTP,0000,0000,0000,,I think we'd better be going.\NTime we should make a move, come on.
+Dialogue: 0,0:56:32.04,0:56:33.64,*Default,NTP,0000,0000,0000,,Wahey. Yeah.
+Dialogue: 0,0:56:33.64,0:56:36.80,*Default,NTP,0000,0000,0000,,I've just had an amazing\Nand original idea. God, help us.
+Dialogue: 0,0:56:36.80,0:56:41.48,*Default,NTP,0000,0000,0000,,Bear with me, right, one, two,\Nthree, there's seven of us, right?
+Dialogue: 0,0:56:41.48,0:56:45.48,*Default,NTP,0000,0000,0000,,We should hook up. We'll start\Na new gang, maybe I'll lead it,
+Dialogue: 0,0:56:45.48,0:56:47.92,*Default,NTP,0000,0000,0000,,we'll call it....
+Dialogue: 0,0:56:47.92,0:56:49.48,*Default,NTP,0000,0000,0000,,The Magnificent Seven.
+Dialogue: 0,0:56:51.32,0:56:56.12,*Default,NTP,0000,0000,0000,,What d'you think, Albert?\NI think that's a hell of an idea.
+Dialogue: 0,0:56:56.12,0:57:00.48,*Default,NTP,0000,0000,0000,,What about The Great Eight?\NTo The Great Eight.
+Dialogue: 0,0:57:02.76,0:57:04.60,*Default,NTP,0000,0000,0000,,So, that's it. I'm out of here.
+Dialogue: 0,0:57:04.60,0:57:07.56,*Default,NTP,0000,0000,0000,,I hope you've picked up\Na few things along the way.
+Dialogue: 0,0:57:07.56,0:57:11.76,*Default,NTP,0000,0000,0000,,If something seems too good to be\Ntrue, it almost certainly is.
+Dialogue: 0,0:57:11.76,0:57:13.96,*Default,NTP,0000,0000,0000,,Always look a gift horse\Nin the mouth.
+Dialogue: 0,0:57:13.96,0:57:16.84,*Default,NTP,0000,0000,0000,,Unless you don't much care\Nwhether it has teeth or not.
+Dialogue: 0,0:57:16.84,0:57:19.32,*Default,NTP,0000,0000,0000,,And, remember,\Nyou can't cheat an honest man.
+Dialogue: 0,0:57:20.32,0:57:23.12,*Default,NTP,0000,0000,0000,,So, if you bend the rules\Nto make some easy money,
+Dialogue: 0,0:57:23.12,0:57:24.88,*Default,NTP,0000,0000,0000,,you deserve what you get.
+Dialogue: 0,0:57:24.88,0:57:28.56,*Default,NTP,0000,0000,0000,,Oh, and, er, don't believe\Neverything people tell you.
+Dialogue: 0,0:57:28.56,0:57:31.08,*Default,NTP,0000,0000,0000,,Whoever they are.
+Dialogue: 0,0:57:31.08,0:57:33.72,*Default,NTP,0000,0000,0000,,Think things through for yourself.
+Dialogue: 0,0:57:33.72,0:57:36.24,*Default,NTP,0000,0000,0000,,Is it for real?
+Dialogue: 0,0:57:36.24,0:57:40.12,*Default,NTP,0000,0000,0000,,Is someone telling you\Nthat story for a reason?
+Dialogue: 0,0:57:41.88,0:57:46.48,*Default,NTP,0000,0000,0000,,Or...are they having you\Nright at it?
+Dialogue: 0,0:57:48.64,0:57:50.64,*Default,NTP,0000,0000,0000,,But most important of all...
+Dialogue: 0,0:57:50.64,0:57:52.08,*Default,NTP,0000,0000,0000,,Whether it's business...
+Dialogue: 0,0:57:52.08,0:57:53.72,*Default,NTP,0000,0000,0000,,Buying. Selling.
+Dialogue: 0,0:57:53.72,0:57:57.12,*Default,NTP,0000,0000,0000,,Whether it's someone you know.\NOr someone you don't.
+Dialogue: 0,0:57:57.12,0:57:59.12,*Default,NTP,0000,0000,0000,,Even if it's love.
+Dialogue: 0,0:58:03.92,0:58:05.96,*Default,NTP,0000,0000,0000,,Never be a mark.
+Dialogue: 0,0:58:40.92,0:58:44.40,*Default,NTP,0000,0000,0000,,Subtitles by Red Bee Media Ltd

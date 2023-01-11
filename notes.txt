@@ -1,0 +1,79 @@
+wget downloads：
+https://builtvisible.com/download-your-website-with-wget/
+1. download .exe
+2. cmd  Type: path 
+3. copy WGET.exe to c:\Windows\System32 folder
+4. restart your Command Prompt
+5. test WGET is working properly
+   cmd  Type: wget -h
+   you should see something like this:
+   Startup:
+  -V,  --version                   display the version of Wget and exit
+  -h,  --help                      print this help
+  -b,  --background                go to background after startup
+  -e,  --execute=COMMAND           execute a `.wgetrc'-style command
+
+srt2xml - script for converting SRT-files (subtitles) to tokenized XML
+srt2xml [OPTIONS] < input.srt > output.xml
+[OPTIONS]
+-e encoding ......... specify the character encoding of the SRT file
+-l lang-id .......... use non-breaking prefixes for the given language
+-r filename ......... save an untokenized version in <filename>
+-s .................. always start a new sentence at each time frame
+
+What is Shell Script Permission Denied Error in Linux?
+./samplescript.sh
+bash: ./samplescript.sh: Permission denied 
+solution:“chmod” (change mode) command
+checking the file permission:
+ls -l samplescript.sh
+changed to execute:
+chmod u+x samplescript.sh
+ls -l samplescript.sh
+view the script file’s content:
+cat samplescript.sh
+ ./samplescript.sh
+
+awk options 'selection _criteria {action }' input-file > output-file
+Options:  
+-f program-file : Reads the AWK program source from the file 
+                  program-file, instead of from the 
+                  first command line argument.
+-F fs            : Use fs for the input field separator
+
+install perls：
+sudo apt-get install libmodule-install-perl
+install clone perl module：
+sudo apt-get install libclone-perl
+
+df -h
+
+
+Windows下GitLab配置SSH
+确定自己的电脑用户路径下没有.ssh文件夹，如果有，则删除
+设置本地git的账户邮箱和用户名
+ git config --global user.name "Ziyi Yan"
+ git config --global user.email "zyan11@sheffield.ac.uk"
+命令查看配置的git账户和邮箱是否成功了
+git config user.name
+git config user.email
+生成一个新的SSH密钥
+ssh-keygen -t rsa -C "zyan11@sheffield.ac.uk"
+将SSH公钥添加到GitLab账户
+在我的电脑--->C盘--->用户--->你自己的用户路径下，可以看到一个新的.ssh文件夹
+使用notepad++等工具打开id_rsa.pub，复制其中的内容，千万不要改变其中的内容
+登陆你的gitlab账户，在gitlab的设置页面，找到设置SSH的地方
+
+delete files from gitlab repo:
+In the command-line, navigate to your local repository.
+Ensure you are in the default branch:
+git checkout master
+The rm -r command will recursively remove your folder:
+git rm -r folder-name
+Commit the change:
+git commit -m “Remove duplicated directory”
+Push the change to your remote repository:
+git push
+
+
+

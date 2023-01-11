@@ -1,0 +1,858 @@
+ 00 : 00 : 07, 137 -- > 00 : 00 : 08, 575 Previously on Young Sheldon ...
+ 0 0 : 0 0 : 0 0 , 0 0 0   - - >   0 0 : 0 0 : 0 5 , 0 0 0   m   2 1 1   - 8   b   2 1 7   - 6   2 1 7   - 4   2 1 7   - 2   l   2 1 7   2 4   b   2 1 7   2 6   2 1 7   2 9   2 1 1   3 1   l   3 1   3 1   b   2 6   2 9   2 6   2 6   2 6   2 4   l   2 6   - 2   b   2 6   - 4   2 6   - 6   3 1   - 8   m   2 1 1   - 8   b   2 1 7   - 6   2 1 7   - 4   2 1 7   - 2   l   2 1 7   2 4   b   2 1 7   2 6   2 1 7   2 9   2 1 1   3 1   l   3 1   3 1   b   2 6   2 9   2 6   2 6   2 6   2 4   l   2 6   - 2   b   2 6   - 4   2 6   - 6   3 1   - 8   m   2 1 1   - 8   b   2 1 7   - 6   2 1 7   - 4   2 1 7   - 2   l   2 1 7   2 4   b   2 1 7   2 6   2 1 7   2 9   2 1 1   3 1   l   3 1   3 1   b   2 6   2 9   2 6   2 6   2 6   2 4   l   2 6   - 2   b   2 6   - 4   2 6   - 6   3 1   - 8  
+
+ m   5 0   0   l   1 7 9   0   b   2 0 8   0   2 2 9   2 1   2 2 9   5 0   l   2 2 9   1 7 9   b   2 2 9   2 0 8   2 0 8   2 2 8   1 7 9   2 2 8   l   5 0   2 2 8   b   2 1   2 2 8   0   2 0 8   0   1 7 9   l   0   5 0   b   0   2 1   2 1   0   5 0   0  
+
+ m   0   0   b   1   - 1   2   - 2   4   - 1   b   7   1   3   2   5   5   b   6   7   8   7   9   5   l   1 5   - 6   b   1 8   - 7   2 0   - 6   2 0   - 3   b   1 9   - 1   1 7   2   1 7   4   b   1 6   7   2 0   7   2 1   6   b   2 2   4   2 3   2   2 5   - 1   b   2 7   - 2   2 9   - 1   2 9   1   b   2 9   2   2 8   3   2 9   5   b   3 0   7   3 2   7   3 3   6   b   3 4   5   3 4   4   3 5   3   b   3 7   2   3 9   3   3 9   5   b   3 9   6   3 8   8   3 7   9   b   3 4   1 3   2 9   1 3   2 5   9   b   2 2   1 3   1 7   1 3   1 3   9   b   1 0   1 3   3   1 3   0   8    
+
+ m   3 2 5   0   l   3 5 5   0   l   3 3 2   4 7   l   3 5 4   4 7   l   3 9 9   1 3 6   l   3 6 9   1 3 6   l   3 2 8   5 3   l   2 8 8   1 3 6   l   2 5 7   1 3 6   l   3 2 5   0   m   4 6 7   0   l   4 9 7   0   l   4 7 4   4 7   l   4 9 6   4 7   l   5 4 1   1 3 6   l   5 1 1   1 3 6   l   4 7 0   5 3   l   4 3 0   1 3 6   l   3 9 9   1 3 6   l   4 6 7   0   m   5 4 5   1   l   5 8 3   1   l   5 8 3   1 4   l   5 6 8   1 4   l   5 6 8   1 9   l   5 8 3   1 9   l   5 8 3   3 0   l   5 6 8   3 0   l   5 6 8   3 4   l   5 9 9   3 4   l   5 9 9   3 0   l   5 8 3   3 0   l   5 8 3   1 9   l   5 9 9   1 9   l   5 9 9   1 4   l   5 8 3   1 4   l   5 8 3   1   l   6 1 1   1   b   6 1 6   1   6 2 2   6   6 2 2   1 0   l   6 2 2   3 6   l   6 5 2   0   l   6 7 8   0   l   6 4 4   4 1   l   6 2 2   4 1   l   6 2 2   4 7   l   5 9 6   4 7   l   5 9 7   5 4   l   6 2 5   5 4   l   6 2 5   6 8   l   5 4 1   6 8   l   5 4 1   5 4   l   5 7 2   5 4   l   5 7 1   4 7   l   5 4 5   4 7   l   5 4 5   1   m   5 8 3   7 2   l   5 8 3   8 5   l   5 6 9   8 5   l   5 6 9   9 0   l   5 9 8   9 0   l   5 9 8   8 5   l   5 8 3   8 5   l   5 8 3   7 2   l   6 1 1   7 2   b   6 1 5   7 2   6 2 1   7 8   6 2 1   8 2   l   6 5 3   4 4   l   6 7 8   4 4   l   6 4 4   8 6   l   6 2 1   8 6   l   6 2 1   1 0 3   l   5 9 7   1 0 3   l   5 9 7   1 3 6   l   5 7 0   1 3 6   l   5 6 4   1 2 6   l   5 6 2   1 3 6   l   5 4 2   1 3 6   l   5 4 8   1 0 7   l   5 6 8   1 0 7   l   5 6 5   1 2 1   l   5 7 1   1 2 1   l   5 7 1   1 0 3   l   5 4 7   1 0 3   l   5 4 7   7 2   l   5 8 3   7 2   m   6 0 0   1 0 7   l   6 2 0   1 0 7   l   6 2 4   1 2 4   l   6 5 3   8 9   l   6 7 9   8 9   l   6 4 2   1 3 6   l   6 1 5   1 3 6   l   6 1 8   1 3 2   l   6 0 6   1 3 2   l   6 0 0   1 0 7   m   6 8 9   0   l   7 1 6   0   l   7 2 1   1 5   l   7 3 2   1 5   l   7 3 2   3 0   l   7 1 8   5 6   l   7 3 1   5 6   l   7 3 5   1 0 0   l   7 2 1   1 0 0   l   7 1 7   5 9   l   7 1 4   6 4   l   7 1 4   1 3 6   l   6 9 3   1 3 6   l   6 9 3   7 9   l   6 7 6   7 9   l   7 0 7   3 0   l   6 7 9   3 0   l   6 7 9   1 5   l   6 9 4   1 5   l   6 8 9   0   m   7 3 8   0   l   8 0 4   0   b   8 0 7   0   8 1 3   6   8 1 3   9   l   8 1 3   8 7   l   7 9 4   8 7   l   7 9 4   1 4   l   7 5 6   1 4   l   7 5 6   8 7   l   7 6 3   7 7   l   7 6 3   2 1   l   7 8 7   2 1   l   7 8 7   9 1   l   7 9 8   9 1   l   7 9 8   1 2 0   l   8 2 0   1 2 0   l   8 1 2   1 3 6   l   7 7 8   1 3 6   l   7 7 8   9 0   l   7 4 8   1 3 6   l   7 2 3   1 3 6   l   7 5 6   8 7   l   7 3 8   8 7   l   7 3 8   0   m   2 5 7   1 5 1   l   2 7 5   1 5 1   l   2 9 7   1 8 2   l   3 1 9   1 5 1   l   3 3 7   1 5 1   l   3 0 4   1 9 7   l   3 0 4   2 2 7   l   2 9 0   2 2 7   l   2 9 0   1 9 7   l   2 5 7   1 5 1   m   3 3 7   1 5 1   l   3 5 5   1 5 1   l   3 7 7   1 8 2   l   3 9 9   1 5 1   l   4 1 7   1 5 1   l   3 8 4   1 9 7   l   3 8 4   2 2 7   l   3 7 0   2 2 7   l   3 7 0   1 9 7   l   3 3 7   1 5 1   m   4 2 5   1 9 2   l   4 4 7   1 9 2   b   4 4 5   1 8 1   4 2 7   1 8 1   4 2 5   1 9 2   l   4 1 0   1 9 2   b   4 1 4   1 6 2   4 5 8   1 6 2   4 6 2   1 9 2   l   4 6 2   2 0 6   l   4 2 5   2 0 6   b   4 2 5   2 1 0   4 2 9   2 1 2   4 3 3   2 1 3   l   4 6 2   2 1 3   l   4 6 2   2 2 7   l   4 3 3   2 2 7   b   4 1 2   2 2 7   4 0 8   2 0 3   4 1 0   1 9 2   m   4 6 2   1 5 1   l   5 3 2   1 5 1   l   5 3 2   1 6 5   l   5 0 4   1 6 5   l   5 0 4   2 2 7   l   4 8 9   2 2 7   l   4 8 9   1 6 5   l   4 6 2   1 6 5   l   4 6 2   1 5 1   m   5 8 0   1 7 2   l   5 8 0   1 8 6   l   5 4 9   1 8 6   b   5 4 3   1 8 6   5 4 3   1 9 2   5 4 9   1 9 2   l   5 6 5   1 9 2   b   5 8 9   1 9 2   5 8 9   2 2 7   5 6 5   2 2 7   l   5 3 2   2 2 7   l   5 3 2   2 1 3   l   5 6 5   2 1 3   b   5 7 0   2 1 3   5 7 0   2 0 6   5 6 5   2 0 6   l   5 4 9   2 0 6   b   5 2 4   2 0 6   5 2 4   1 7 2   5 4 9   1 7 2   l   5 8 0   1 7 2   m   5 9 2   2 1 3   l   6 0 6   2 1 3   l   6 0 6   2 2 7   l   5 9 2   2 2 7   l   5 9 2   2 1 3   m   6 3 9   1 7 2   l   6 6 5   1 7 2   l   6 6 5   1 8 6   l   6 3 9   1 8 6   b   6 2 3   1 8 6   6 2 3   2 1 3   6 3 9   2 1 3   l   6 6 5   2 1 3   l   6 6 5   2 2 7   l   6 3 9   2 2 7   b   6 0 3   2 2 7   6 0 3   1 7 2   6 3 9   1 7 2   m   7 0 0   1 8 4   b   7 2 2   1 8 4   7 2 2   2 1 5   7 0 0   2 1 5   l   7 0 0   2 2 9   b   7 4 0   2 2 9   7 4 0   1 7 0   7 0 0   1 7 0   b   6 6 0   1 7 0   6 6 0   2 2 9   7 0 0   2 2 9   l   7 0 0   2 1 5   b   6 8 0   2 1 5   6 8 0   1 8 4   7 0 0   1 8 4   m   7 3 7   1 7 2   l   7 8 2   1 7 2   b   8 0 3   1 7 2   8 1 3   1 7 7   8 1 3   1 9 8   l   8 1 3   2 2 8   l   7 9 9   2 2 8   l   7 9 9   1 9 8   b   7 9 9   1 8 6   7 9 3   1 8 7   7 8 2   1 8 7   l   7 8 2   2 2 8   l   7 6 8   2 2 8   l   7 6 8   1 8 7   l   7 5 2   1 8 7   l   7 5 2   2 2 8   l   7 3 7   2 2 8   l   7 3 7   1 7 2  
+
+ 原 创 翻 译   双 语 字 幕  
+
+ 最 新 连 载 海 外 影 视 剧 下 载   请 登 陆   w w w . Y Y e T s . c o m   仅 供 交 流 学 习   禁 止 商 用 盈 利  
+
+ 《 少 年 谢 尔 顿 》 前 情 提 要   P r e v i o u s l y   o n   Y o u n g   S h e l d o n . . .  
+
+ 什 么 情 况   W h a t   t h e   h e l l ' s   g o i n g   o n ?  
+
+ 妈 妈 觉 得 我 疯 了   M o m   t h i n k s   t h a t   I ' m   c r a z y .  
+ What the hell 's going on ?
+ m   2 0 0   - 1   l   2 0 0   1 3   l   1 9   1 3   b   1 4   1 2   1 4   6   1 4   6   b   1 4   6   1 4   0   1 9   - 1   m   3 8   - 1   l   4 4   6   l   3 8   1 3   l   1 9   1 3   b   1 4   1 2   1 4   6   1 4   6   b   1 4   6   1 4   0   1 9   - 1   翻 译   随 时 放 空 赛 太 公   油 腻 希  
+
+ 我 们 不 是 说 好 不 提 这 种 字 眼 吗   I   t h o u g h t   w e   w e r e n ' t   s u p p o s e d   t o   s a y   s t u f f   l i k e   t h a t .  
+ Mom thinks that I 'm crazy .
+ 宝 贝   有 件 事 我 得 告 诉 你   B a b y ,   t h e r e ' s   s o m e t h i n g   I   n e e d   t o   t e l l   y o u .  
+ I thought we weren 't supposed to say stuff like that .
+ 校 对   光 速 切 屏 赛 哥    
+
+ 斯 特 吉 斯 博 士   D r .
+
+   S t u r g i s  
+ Baby , there 's something I need to tell you .
+ 不 是 住 进 了 你 想 的 那 种 医 院   i s   n o t   i n   t h e   k i n d   o f   h o s p i t a l   y o u   t h i n k   h e   i s .  
+ Dr. Sturgis is not in the kind of hospital you think he is .
+ m   3 8   - 1   l   4 4   6   l   3 8   1 3   l   1 9   1 3   b   1 4   1 2   1 4   6   1 4   6   b   1 4   6   1 4   0   1 9   - 1   后 期   灰 灰 是 菇 凉   时 间 轴   加 森  
+
+ 那 他 是 在 哪 种 医 院   W h a t   k i n d   o f   h o s p i t a l   i s   h e   i n ?  
+
+ 精 神 病 院   T h e   p s y c h i a t r i c   k i n d .  
+ What kind of hospital is he in ?
+ 总 监   新 浪 微 博 @ 赛 太 公   你 觉 得 因 为 我 和 他 都 有 天 赋   A n d   y o u   t h i n k   s i n c e   h e   a n d   I   a r e   b o t h   g i f t e d ,  
+ The psychiatric kind .
+ 我 以 后 也 会 变 成 他 那 样 吗   I ' m   g o i n g   t o   e n d   u p   l i k e   h i m ?   宝 贝   O h ,   b a b y .  
+ And you think since he and I are both gifted , I 'm going to end up like him ?
+ 看 见 没   一 点 沟 通 就 能 有 巨 大 的 效 果   S e e   h o w   v a l u a b l e   a   l i t t l e   c o m m u n i c a t i o n   c a n   b e ?  
+ Oh , baby .
+ 这 事 你 屁 功 劳 都 没 有   Y o u   d o   n o t   t a k e   c r e d i t   f o r   t h i s .  
+ See how valuable a little communication can be ? You do not take credit for this .
+ 你 永 远 不 会 知 道 科 学 灵 感 何 时 会 来 临   Y o u   n e v e r   k n o w   w h e r e   s c i e n t i f i c   i n s p i r a t i o n   w i l l   s t r i k e .  
+
+ 牛 顿 是 坐 在 苹 果 树 下 时   F o r   N e w t o n ,   i t   w a s   u n d e r   a n   a p p l e   t r e e .  
+ ADULT SHELDON : You never know where scientific inspiration will strike .
+ 阿 基 米 德 是 坐 在 浴 缸 里 时   F o r   A r c h i m e d e s ,   i t   w a s   s i t t i n g   i n   a   b a t h t u b .  
+ For Newton , it was under an apple tree .
+ 而 我 呢   在 那 一 天   F o r   m e ,   o n   t h i s   p a r t i c u l a r   d a y ,  
+ For Archimedes , it was sitting in a bathtub .
+ 感 觉 会 在 " 流 汗 的 人 们 吃 着 肉 " 时 来 灵 感   i t   h a d   a   " S w e a t y   p e o p l e   e a t i n g   m e a t "   k i n d   o f   v i b e .  
+ For me , on this particular day , it had a " sweaty people eating meat " kind of vibe .
+ 谢 尔 顿   你 一 定 要 在 这 里 搞 这 些 吗   S h e l d o n ,   d o   y o u   r e a l l y   h a v e   t o   d o   t h a t   h e r e ?   如 果 店 里 的 人 不 想 我 解 开 统 一 场 论   I f   t h e   m a n a g e m e n t   d i d n ' t   w a n t   m e   t o   s o l v e   u n i f i e d   f i e l d   t h e o r y ,  
+ Sheldon , do you really have to do that here ?
+ 那 他 们 为 什 么 要 给 我 蜡 笔 呢   w h y   w o u l d   t h e y   g i v e   m e   a   c r a y o n ?  
+ If the management didn 't want me to solve unified field theory , why would they give me a crayon ?
+ 我 就 跟 你 说 车 窗 开 个 缝   把 他 留 车 上 吧   I   t o l d   y o u   t o   c r a c k   a   w i n d o w   a n d   l e a v e   h i m   i n   t h e   c a r .   我 灵 光 一 闪   I t   o c c u r r e d   t o   m e   如 果 麦 克 斯 韦 方 程 组 中 加 入 一 个 磁 单 极 子   t h a t   M a x w e l l ' s   e q u a t i o n s   w o u l d   a c h i e v e   f u l l   s y m m e t r y  
+ I told you to crack a window and leave him in the car .
+ 就 能 达 到 完 全 对 称   b y   a d d i n g   a   m a g n e t i c   m o n o p o l e .  
+ It occurred to me that Maxwell 's equations would achieve full symmetry by adding a magnetic monopole .
+ 我 画 了 一 只 瓢 虫   I   d r e w   a   l a d y b u g .   好 啦 好 啦   A l l   r i g h t ,   y ' a l l .   我 可 以 把 菜 放 下 吗   O h . . .   ‭ I s   i t   o k a y   t o   s e t   t h i s   d o w n ?  
+ I drew a ladybug .
+ 我 现 在 这 里 正 忙 着   你 能 等 会 再 上 菜 吗   I ' m   a   l i t t l e   b u s y .
+ All right , y 'all .
+   C o u l d   y o u   c o m e   b a c k   l a t e r ?   谢 尔 顿   我 很 饿 了   S h e l d o n ,   I ' m   h u n g r y .  
+ - Oh ...
+ 我 们 坐 过 去 隔 壁 桌 吧   L e t ' s   j u s t   s i t   o v e r   t h e r e .  
+ - Is it okay to set this down ?
+ 不 行   我 们 一 家 得 坐 同 一 桌 一 起 用 餐   N o .
+ I 'm a little busy . Could you come back later ?
+   W e ' r e   g o n n a   e a t   t o g e t h e r   a s   a   f a m i l y .  
+ Sheldon , I 'm hungry . Let 's just sit over there . No .
+ 这 样 就 不 是 电 力   而 是 电 磁 力   I n s t e a d   o f   e l e c t r i c i t y ,   w e ' l l   h a v e   m a g n e t r i c i t y .  
+ We 're gonna eat together as a family .
+ 我 快 举 不 动 了   I t ' s   g e t t i n g   h e a v y .  
+ Instead of electricity , we 'll have magnetricity .
+ 我 们 就 坐 隔 壁   有 事 就 叫 我 们   W e ' l l   b e   r i g h t   o v e r   h e r e   i f   y o u   n e e d   u s .   过 去 吧   L e t ' s   g o .  
+ [ WHlSPERS ] : It 's getting heavy .
+ 再 见 啦   小 瓢 虫   B y e ,   l a d y b u g .  
+ We 'll be right over here if you need us .
+ ♪   世 上 没 人 比 我 强 壮   ♪   ♪   N o b o d y   e l s e   i s   s t r o n g e r   t h a n   I   a m   ♪  
+ Let 's go . Bye , ladybug .
+ ♪   昨 天 我 移 了 一 座 山   ♪   ♪   Y e s t e r d a y   I   m o v e d   a   m o u n t a i n   ♪  
+ ♪ Nobody else is stronger than I am ♪ ♪ Yesterday I moved a mountain ♪ ♪ I bet I could be your hero ♪ ♪ I am a mighty little man ♪
+ ♪   我 相 信 我 能 当 你 的 英 雄   ♪   ♪   I   b e t   I   c o u l d   b e   y o u r   h e r o   ♪   ♪   我 是 个 了 不 起 的 小 家 伙   ♪   ♪   I   a m   a   m i g h t y   l i t t l e   m a n   ♪   ♪   我 是 个 了 不 起 的 小 家 伙   ♪   ♪   I   a m   a   m i g h t y   l i t t l e   m a n   ♪  
+
+ 少   年  
+
+ 谢 尔 顿  
+
+ 宝 贝   你 必 须 得 吃 点 东 西   B a b y ,   y o u   n e e d   t o   e a t   s o m e t h i n g .  
+
+ 感 觉 我 可 以 改 变   B u t   i t   l o o k s   l i k e   I   c a n   c h a n g e   t h e   d e f i n i t i o n s  
+
+ 电 力 与 电 磁 场 的 定 义   o f   e l e c t r i c   a n d   m a g n e t i c   f i e l d s  
+ Baby , you need to eat something .
+ 这 样 磁 荷 这 个 变 量 就 不 会 为 0   a n d   r o t a t e   t h e   m a g n e t i c   c h a r g e   a w a y   m a t h e m a t i c a l l y   t o   z e r o .  
+ But it looks like I can change the definitions of electric and magnetic fields and rotate the magnetic charge away mathematically to zero .
+ 或 许 吃 一 点 炸 秋 葵 会 有 帮 助   M a y b e   s o m e   f r i e d   o k r a   w o u l d   h e l p .   理 查 德 · 费 曼 发 明 量 子 电 动 力 学 时   R i c h a r d   F e y n m a n   d i d n ' t   d e v e l o p   q u a n t u m   e l e c t r o d y n a m i c s   靠 的 可 不 是 吃 炸 秋 葵   b y   f i l l i n g   u p   o n   f r i e d   o k r a .  
+ Maybe some fried okra would help .
+ 那 可 能 是 因 为 他 妈 妈 爱 他 的 程 度   W e l l ,   m a y b e   t h a t ' s   b e c a u s e   h i s   m a m a   d i d n ' t   l o v e   h i m  
+ Richard Feynman didn 't develop quantum electrodynamics by filling up on fried okra .
+ 没 有 我 爱 你 那 么 深 啊   a s   m u c h   a s   I   l o v e   y o u .   理 查 德 · 费 曼 是 犹 太 人   R i c h a r d   F e y n m a n   w a s   J e w i s h .  
+ Well , maybe that 's because his mama didn 't love him as much as I love you .
+ 他 的 妈 妈 才 不 可 能 给 他 吃 炸 秋 葵 [ 黑 人 菜 ]   H i s   m o t h e r   d i d n ' t   g i v e   h i m   f r i e d   o k r a .  
+ ADULT SHELDON :
+
+ Richard Feynman was Jewish .
+
+ His mother didn 't give him fried okra .
+ 我 是 漏 了 哪 里 呢   U g h .
+
+   W h a t   a m   I   m i s s i n g ?  
+
+ 你 再 吵 醒 我 一 次   W a k e   m e   u p   o n e   m o r e   t i m e ,  
+ Ugh . What am I missing ?
+ 我 就 往 你 手 套 里 打 喷 嚏   a n d   I   w i l l   s n e e z e   i n   y o u r   m i t t e n s .  
+ Wake me up one more time , and I will sneeze in your mittens .
+ 打 一 个 带 鼻 涕 的 大 喷 嚏 进 去   A   b i g ,   w e t ,   s n o t t y   o n e .  
+ A big , wet , snotty one .
+
+ ♪ ♪
+ 小 宝 贝   你 在 干 嘛 呢   B a b y ,   w h a t   a r e   y o u   d o i n g ?   做 事   W o r k i n g .  
+ Baby , what are you doing ?
+ 你 是 一 整 晚 没 睡 待 在 这 里 吗   H a v e   y o u   b e e n   o u t   h e r e   a l l   n i g h t ?   没 有 啊   怎 么 这 么 问   现 在 几 点 了   N o .
+ Working .
+   W h y ,   w h a t   t i m e   i s   i t ?  
+
+ 7 点 3 0   7 : 3 0 .  
+ Have you been out here all night ?
+ 那 我 是 待 了 一 晚   O h .   T h e n   y e s .  
+ No .
+
+ Why , what time is it ?
+
+ 7 : 30 .
+
+ Oh .
+ 我 了 个 . . .  
+ Then yes .
+ S o n   o f   a . . .  
+
+ 老 爸   你 在 忙 吗   D a d ,   y o u   b u s y ?  
+ [ GRUNTlNG ]
+ 我 表 情 看 起 来 像 在 忙 吗   D o   I   l o o k   l i k e   I ' m   b u s y ?   你 在 水 槽 底 下   我 看 不 见 你 表 情 啊   I   c a n ' t   s e e   w h a t   y o u   l o o k   l i k e .
+ Son of a ...
+   Y o u ' r e   u n d e r   t h e   s i n k .  
+ Dad , you busy ?
+ 找 我 什 么 事   W h a t   d o   y o u   w a n t ?  
+ Do I look like I 'm busy ? I can 't see what you look like .
+ 你 可 以 教 我 怎 么 投 球 吗   W o u l d   y o u   t e a c h   m e   h o w   t o   t h r o w   a   b a s e b a l l ?  
+ You 're under the sink . [ GRUNTS ]
+ 怎 么 突 然 想 学 了   W h a t ' s   b r i n g i n g   t h i s   o n ?  
+ What do you want ?
+
+ Would you teach me how to throw a baseball ?
+
+ What 's bringing this on ? ♪ ♪ ♪ Saying I love you ♪ ♪ Is not the words ♪ ♪ I want to hear from you ♪ ♪ More than words ♪ ♪ Is all ... ♪
+ 我 也 不 知 道   就 感 觉 挺 好 玩   I   d o n ' t   k n o w ,   j u s t   s e e m s   f u n .   行 啊   有 何 不 可   S u r e ,   w h y   n o t ?   太 好 了   我 去 拿 手 套   G r e a t ,   I ' l l   g e t   t h e   g l o v e s .  
+ I don 't know , just seems fun .
+ 不 是 现 在   N o t   n o w !  
+ Sure , why not ?
+
+ Great , I 'll get the gloves . Not now !
+ 有 什 么 新 鲜 事 啊   S o ,   w h a t ' s   n e w ?  
+
+ 我 有 点 担 心 谢 尔 顿   I ' m   w o r r i e d   a b o u t   S h e l d o n .  
+ So , what 's new ?
+ 我 说 了 是 " 新 鲜 事 "   I   s a i d   " n e w . "   他 都 不 睡 觉   也 不 吃 饭   H e ' s   n o t   s l e e p i n g ,   h e ' s   n o t   e a t i n g .  
+ I 'm worried about Sheldon .
+ 我 们 昨 晚 出 门 吃 烧 烤   W e   w e n t   o u t   f o r   b a r b e c u e   l a s t   n i g h t ,  
+ I said " new . "
+ 他 一 口 都 没 吃   a n d   h e   d i d n ' t   t o u c h   a   t h i n g .  
+ He 's not sleeping , he 's not eating .
+ 他 还 开 始 咬 指 甲 了   H e   a l s o   s t a r t e d   b i t i n g   h i s   n a i l s .   我 从 没 看 过 他 有 这 习 惯   I ' v e   n e v e r   s e e n   h i m   d o   t h a t   b e f o r e .  
+ We went out for barbecue last night , and he didn 't touch a thing .
+ 他 心 里 有 什 么 烦 恼 吗   I s   h e   w o r r i e d   a b o u t   s o m e t h i n g ?  
+ He also started biting his nails .
+ 他 一 心 想 着 一 个 科 学 的 问 题   H e ' s   f i x a t e d   o n   s o m e   s c i e n c e   p r o b l e m .  
+ I 've never seen him do that before .
+ 我 确 定 他 会 解 开 的   W e l l ,   I ' m   s u r e   h e ' l l   s o l v e   i t  
+ Is he worried about something ?
+ 然 后 一 切 就 会 变 回 原 来 那 样   a n d   t h e n   e v e r y t h i n g   w i l l   g o   b a c k   t o   n o r m a l .  
+ He 's fixated on some science problem .
+ 希 望 如 此   I   h o p e   s o .  
+ Well , I 'm sure he 'll solve it and then everything will go back to normal .
+ 约 翰 最 近 怎 么 样 了   W h a t ' s   g o i n g   o n   w i t h   J o h n ?  
+ I hope so .
+ 一 切 如 常   N o t   m u c h .  
+ What 's going on with John ?
+ 我 们 就 书 信 往 来   W e   w r i t e   l e t t e r s   b a c k   a n d   f o r t h .   那 很 浪 漫 啊   T h a t ' s   r o m a n t i c .  
+ Not much .
+ 他 是 上 前 线 写 信 才 浪 漫 啊   R o m a n t i c   i f   h e   w e r e   o f f   t o   w a r ,  
+ We write letters back and forth .
+ 他 进 精 神 病 院 有 什 么 浪 漫 的   n o t   i n   a   m e n t a l   h o s p i t a l .  
+ That 's romantic . Romantic if he were off to war , not in a mental hospital .
+ 他 也 是 在 跟 心 魔 打 仗 啊   W e l l ,   h e ' s   a t   w a r   w i t h   h i s   i n n e r   d e m o n s .  
+ Well , he 's at war with his inner demons .
+ - 你 是 右 撇 子 吧   - 你 不 知 道 吗   -   Y o u ' r e   r i g h t - h a n d e d ,   y e a h ?
+
+   -   Y o u   d o n ' t   k n o w ?  
+
+ 行 啊   聪 明 鬼   那 我 是 左 撇 子 还 右 撇 子   O k a y ,   s m a r t a s s ,   w h i c h   o n e   a m   I ?  
+ - You 're right- handed , yeah ?
+ 我 是 右 撇 子   I ' m   r i g h t - h a n d e d .  
+ - You don 't know ? Okay , smartass , which one am I ?
+ 那 把 手 套 戴 上 你 的 左 手   P u t   t h i s   o n   y o u r   l e f t   h a n d .  
+ [ EXHALES ]
+ 你 以 前 投 过 球 吗   Y o u   e v e r   t h r o w n   a   b a l l   b e f o r e ?  
+ I 'm right- handed .
+ 只 用 石 头 丢 过 谢 尔 顿   J u s t   r o c k s   a t   S h e l d o n .  
+ Put this on your left hand .
+ 有 丢 中 吗   D i d   y o u   h i t   h i m ?  
+ You ever thrown a ball before ?
+ 每 次 都 中 了   E v e r y   t i m e .   很 好   那 我 们 算 有 些 基 础   S o ,   w e   g o t   s o m e t h i n g   t o   w o r k   w i t h .  
+ Just rocks at Sheldon . Did you hit him ? Every time .
+ 好   根 据 我 新 学 到 的   你 是 右 撇 子   A l l   r i g h t ,   s i n c e   y o u ' r e   r i g h t - h a n d e d ,   w h i c h   I   n o w   k n o w ,  
+ So , we got something to work with .
+ 你 要 把 你 的 右 手 臂 举 起   y o u ' r e   g o n n a   b r i n g   y o u r   a r m   u p  
+ All right , since you 're right- handed , which I now know , you 're gonna bring your arm up and follow through like this .
+ 然 后 顺 着 这 动 作 丢 出 去   a n d   f o l l o w   t h r o u g h   l i k e   t h i s .   好   O k a y .   很 棒   你 可 能 很 有 天 赋   N i c e .
+ Okay .
+   Y o u   m i g h t   b e   a   n a t u r a l .   我 不 意 外   这 可 是 我 平 常 画 画 上 色 的 那 只 手   I ' m   n o t   s u r p r i s e d .
+
+   T h i s   i s   t h e   a r m   I   c o l o r   w i t h .  
+ Nice .
+
+ You might be a natural . I 'm not surprised .
+ 我 都 没 意 识 到 我 在 啃 手 指   I   w a s n ' t   e v e n   a w a r e   I   w a s   c h e w i n g   t h e m .  
+ This is the arm I color with .
+ 宝 贝   我 觉 得 这 个 数 学 题   B a b y ,   I   t h i n k   t h i s   m a t h   p r o b l e m  
+ [ WlNCES ]
+ 你 为 了 解 开   把 自 己 逼 过 头 了   y o u ' r e   w o r k i n g   o n   i s   s t r e s s i n g   y o u   o u t .  
+ I wasn 't even aware I was chewing them .
+ 很 有 可 能   毕 竟 爱 因 斯 坦 辛 苦 了 3 0 年   I t   m a k e s   s e n s e .
+ Baby , I think this math problem you 're working on is stressing you out .
+   E i n s t e i n   s t r u g g l e d   w i t h   i t   f o r   3 0   y e a r s   最 后 都 还 是 没 有 解 开   a n d   n e v e r   f o u n d   a   s o l u t i o n .  
+ It makes sense . Einstein struggled with it for 30 years and never found a solution .
+ 或 许 你 先 别 想   放 一 放   之 后 灵 感 就 来 了 呢   M a y b e   i f   y o u   s t o p   t h i n k i n g   a b o u t   i t ,   i t ' l l   j u s t   c o m e   t o   y o u .  
+
+ - 不   我 不 能 停 下   - 谢 尔 顿   -   N o .
+ Maybe if you stop thinking about it , it 'll just come to you .
+   I   c a n ' t   s t o p .   ‭ -   S h e l d o n .   如 果 我 停 下   就 会 失 去 动 力   I f   I   s t o p ,   I ' l l   l o s e   m o m e n t u m .   然 后 就 永 远 解 不 开   我 就 会 是 个 失 败 者   I ' l l   n e v e r   s o l v e   i t .
+
+   I ' l l   b e   a   f a i l u r e .  
+ - No . I can 't stop .
+ 我 的 人 生 就 会 比 咸 鱼 还 不 如   M y   l i f e   w i l l   b e   w o r t h l e s s .  
+ - Sheldon .
+ 好 了 够 了   你 必 须 停 止 搞 科 学 一 阵 子   O k a y ,   t h a t ' s   i t .
+ If I stop , I 'll lose momentum . I 'll never solve it .
+   Y o u ' r e   t a k i n g   a   b r e a k   f r o m   s c i e n c e .  
+ I 'll be a failure . My life will be worthless .
+ 给 我 一 个 应 该 这 么 做 的 好 理 由   G i v e   m e   o n e   g o o d   r e a s o n   w h y   I   w o u l d   d o   t h a t .  
+ Okay , that 's it .
+ 斯 特 吉 斯 博 士 现 在 沦 落 到 哪 了   W h e r e   i s   D r .
+ You 're taking a break from science .
+   S t u r g i s   r i g h t   n o w ?  
+ Give me one good reason why I would do that .
+ 这 是 个 好 理 由   T h a t ' s   a   g o o d   r e a s o n .  
+ Where is Dr. Sturgis right now ?
+
+ That 's a good reason .
+ 你 要 记 得   眼 睛 盯 着   A l l   r i g h t ,   r e m e m b e r ,   y o u   n e e d   t o   l o o k   你 想 要 球 飞 过 去 的 落 点   r i g h t   w h e r e   y o u   w a n t   t h e   b a l l   t o   g o .  
+
+ 不 然 我 还 能 看 哪 里   W h e r e   e l s e   w o u l d   I   l o o k ?  
+
+ 光 是 刚 才 五 分 钟   W e l l ,   i n   t h e   l a s t   f i v e   m i n u t e s ,  
+ All right , remember , you need to look right where you want the ball to go .
+ 我 就 看 到 你 看 了 蝴 蝶   I   s a w   y o u   w a t c h   a   b u t t e r f l y ,   一 只 松 鼠   还 有 卖 冰 激 凌 的 卡 车   a   s q u i r r e l   a n d   t h e   i c e   c r e a m   t r u c k .   你 自 己 也 看 了 冰 激 凌 卡 车 啊   Y o u   l o o k e d   a t   t h e   i c e   c r e a m   t r u c k ,   t o o .  
+ Where else would I look ?
+
+ Well , in the last five minutes ,
+
+ I saw you watch a butterfly , a squirrel and the ice cream truck .
+ 哪 个 队 伍 的 球 帽 上 有 个 大 红 " T " 字   W h i c h   t e a m   h a s   a   b i g   r e d   " T "   o n   t h e i r   h a t ?  
+ You looked at the ice cream truck , too .
+ 德 州 游 骑 兵 队   T e x a s   R a n g e r s .  
+
+ - 是 受 我 们 喜 爱 的 队 伍 吗   - 是 啊   -   I s   t h a t   a   t e a m   w e   l i k e ?
+
+   -   U h ,   y e a h .  
+ Which team has a big red " T " on their hat ?
+ 这 里 大 多 数 的 人 都 支 持 他 们   Y e a h ,   t h a t ' s   w h o   m o s t   p e o p l e   a r o u n d   h e r e   r o o t   f o r .  
+ Texas Rangers .
+ 那 如 果 要 聊 这 队   我 可 以 说 些 什 么 呢   O k a y .
+ - Is that a team we like ? - Uh , yeah .
+   A n d   w h a t ' s   s o m e t h i n g   I   c o u l d   s a y   a b o u t   t h e   R a n g e r s ?  
+ Yeah , that 's who most people around here root for .
+ 说 出 来 会 让 人 惊 叹 的   Y o u   k n o w ,   t o   s o u n d   c o o l .  
+ Okay .
+ - 这 是 跟 小 男 生 有 关 吗   - 不 是   -   I s   t h i s   a b o u t   a   b o y ?   -   ‭ N o .  
+ And what 's something I could say about the Rangers ?
+ 抱 歉   是 我 误 会 了   A l l   r i g h t ,   s o r r y .  
+ You know , to sound cool .
+
+ - Is this about a boy ? - No . All right , sorry .
+ 如 果 想 聊   你 可 以 说 " 虽 然 诺 兰 · 莱 恩 老 了   I f   y o u   w a n t ,   y o u   c o u l d   s a y ,   " E v e n   t h o u g h   N o l a n   R y a n   i s   o l d ,  
+ If you want , you could say , " Even though Nolan Ryan is old , the Rangers were still smart to get him . "
+ 但 游 骑 兵 队 招 揽 他 来 十 分 明 智 "   t h e   R a n g e r s   w e r e   s t i l l   s m a r t   t o   g e t   h i m . "   真 有 这 回 事 吗   T h a t ' s   a   r e a l   t h i n g ?   这 是 真 的   T h a t ' s   a   r e a l   t h i n g .  
+
+ 诺 兰 · 莱 恩 几 岁 了   H o w   o l d   i s   N o l a n   R y a n ?  
+ That 's a real thing ?
+ 美 国 职 棒 大 联 盟 史 上 第 一 的 三 振 王   1 9 4 7 年 出 生   1 9 9 3 年 在 游 骑 兵 队 退 休  
+
+ 我 这 年 纪   M y   a g e .  
+
+ 恶 心   E w .  
+ That 's a real thing .
+
+ How old is Nolan Ryan ?
+ 我 太 习 惯 整 天 想 着 科 学 了   I ' m   s o   u s e d   t o   t h i n k i n g   a b o u t   s c i e n c e ,  
+ My age .
+ 我 不 知 道 该 怎 么 让 自 己 停 下   I ' m   n o t   s u r e   h o w   t o   m a k e   m y s e l f   s t o p .  
+ Ew .
+ 一 旦 我 开 始 想 着   A s   s o o n   a s   I   t h i n k   a b o u t  
+ I 'm so used to thinking about science ,
+ 我 要 不 想 科 学   我 就 又 重 新 开 始 想 了   n o t   t h i n k i n g   a b o u t   i t ,   I ' m   t h i n k i n g   a b o u t   i t .  
+ I 'm not sure how to make myself stop .
+ 那 你 为 什 么 不 想 点 别 的 呢   W e l l ,   w h y   d o n ' t   y o u   j u s t   t h i n k   a b o u t   s o m e t h i n g   e l s e ?  
+ As soon as I think about not thinking about it , I 'm thinking about it .
+ - 比 如 呢   - 不 知 道 啊   -   L i k e   w h a t ?   ‭ -   I   d o n ' t   k n o w .   看 漫 画 呢   R e a d   a   c o m i c   b o o k ?  
+ Well , why don 't you just think about something else ?
+ 你 觉 得 咬 了 彼 得 · 帕 克 的 蜘 蛛   H o w   d o   y o u   t h i n k   t h e   s p i d e r   t h a t   b i t   P e t e r   P a r k e r   是 怎 么 有 放 射 性 的   是 科 学   g o t   r a d i o a c t i v e ?   S c i e n c e .  
+ - Like what ? - I don 't know . Read a comic book ?
+ 你 觉 得 布 鲁 斯 · 班 纳 是 怎 么 受 到 伽 马 射 线 照 射 的   H o w   d o   y o u   t h i n k   B r u c e   B a n n e r   g o t   e x p o s e d   t o   g a m m a   r a y s ?  
+ How do you think the spider that bit Peter Parker got radioactive ?
+ - 是 科 学   - 行 了   -   S c i e n c e .   -   ‭ A l l   r i g h t .   当 绿 魔 在 飞 . . .   W h e n   t h e   G r e e n   G o b l i n   f l i e s . . .  
+ Science .
+ - 我 说 行 了   - 是 科 学   -   I   s a i d   a l l   r i g h t .   -   ‭ S c i e n c e .  
+ How do you think Bruce Banner got exposed to gamma rays ?
+ 我 知 道 你 不 会 想 听 这 个   I   k n o w   y o u   d o n ' t   w a n t   t o   h e a r   t h i s ,  
+ - Science . - All right . When the Green Goblin flies ...
+ 但 我 发 现 祈 祷 可 以 给 心 灵 带 来 无 上 平 静   b u t   I   f i n d   p r a y e r   c a n   b r i n g   i n c r e d i b l e   p e a c e   o f   m i n d .  
+ - I said all right . - Science .
+ 别 闹 了   玛 丽   我 在 想 办 法 帮 这 孩 子 呢   C o m e   o n ,   M a r y ,   I ' m   t r y i n g   t o   h e l p   t h e   k i d .  
+ I know you don 't want to hear this , but I find prayer can bring incredible peace of mind .
+ 你 需 要 一 个 新 爱 好   Y o u   j u s t   n e e d   a   n e w   h o b b y .   很 好   那 你 有 什 么 爱 好   V e r y   w e l l .
+ Come on , Mary , I 'm trying to help the kid .
+   W h a t   a r e   y o u r s ?   抽 烟   喝 酒   赌 博   S m o k i n g ,   d r i n k i n g   a n d   g a m b l i n g .  
+ You just need a new hobby .
+ 但 我 们 可 以 给 你 找 到 差 不 多 有 趣 的 事 情 啊   B u t   w e   c a n   f i n d   y o u   s o m e t h i n g   a l m o s t   a s   f u n .  
+ Very well . What are yours ? Smoking , drinking and gambling .
+ 再 来 一 起 流 汗 吧   L e t ' s   s w e a t   a g a i n !  
+ But we can find you something almost as fun .
+ 大 家 一 起 来   C o m e   o n ,   e v e r y b o d y !   《 理 查 德 · 西 蒙 斯 的 体 操 演 唱 会 》   跟 上 啊   谢 尔 顿   C o m e   o n ,   S h e l d o n .  
+ Let 's sweat again !
+ 一 起 来 热 血 沸 腾 吧   L e t ' s   g e t   t h a t   b l o o d   p u m p i n g .   谢 了   不 必   I ' d   r a t h e r   n o t .   ‭  
+ Come on , everybody !
+ 做 嘛   稍 微 运 动 一 下   D o   i t .
+ MEEMAW : Come on , Sheldon .
+   A   l i t t l e   e x e r c i s e   w i l l   h e l p  
+ Let 's get that blood pumping .
+ 有 助 于 把 头 伸 出 你 的 龟 壳   g e t   y o u r   h e a d   o u t   o f   y o u r   b u t t .  
+ - I 'd rather not .
+
+ - [ CHUCKLES ]
+
+ Do it .
+
+ A little exercise will help get your head out of your butt .
+ 手 部 动 作 做 起 来   G e t   t h o s e   h a n d s   g o i n g .   回 到 前 面   B a c k   t o   t h e   f r o n t .  
+ [ CHEERlNG OVER TV ]
+ 你 觉 得 怎 么 样   W h a t   d o   y o u   t h i n k ?  
+ RlCHARD SlMMONS :
+ 我 觉 得 我 想 死   I   t h i n k   I   h a t e   t h i s .  
+ Get those hands going . Back to the front .
+ 但 好 歹 你 现 在 没 心 思 想 科 学 了 吧   W e l l ,   y o u ' r e   n o t   t h i n k i n g   a b o u t   s c i e n c e   n o w ,   a m   I   r i g h t ?  
+ What do you think ? I think I hate this .
+ 因 为 我 在 想 我 有 多 想 死   I ' m   t h i n k i n g   a b o u t   h o w   m i s e r a b l e   I   a m .  
+ Well , you 're not thinking about science now , am I right ?
+ 一 起 搭 火 车   来 吧   L e t ' s   g e t   o n   t h a t   t r a i n .   C a n   w e ?   换 回 前 面   来   B a c k   t o   t h e   f r o n t .
+ I 'm thinking about how miserable I am .
+   C o m e   o n .   三   T h r e e .  
+ SlMMONS :
+
+ Let 's get on that train .
+ 四   帮 我 一 起 数 出 来   Y e s .   F o u r .
+ Can we ? Back to the front .
+   C o u n t   t h e m   o u t   f o r   m e !  
+ Come on .
+ 五   F i v e .  
+ Three .
+
+ Yes .
+
+ Four .
+
+ Count them out for me ! Five .
+ B 1 4   B - 1 4 .  
+ Uh- huh .
+ B 1 4   B - 1 4 .  
+
+ 有 几 张 独 立 的 宾 果 卡   B   I   G   O 列   从 1 5 中 选 5  
+ B- 14 .
+ 第 N 列   从 1 5 中 选 4   你 还 有 什 么 别 的   W h a t   e l s e   y o u   g o t ?  
+ B- 14 .
+
+ What else you got ?
+ 你 确 定 别 人 的 手 指 没 进 过 这 里 面 吗   A r e   y o u   p o s i t i v e   o t h e r   p e o p l e ' s   f i n g e r s   h a v e n ' t   b e e n   i n   t h i s ?  
+
+ 我 特 别 帮 你 弄 了 一 颗 新 球   I   m a d e   s u r e   t o   g e t   y o u   a   n e w   o n e .  
+
+ - 感 觉 不 新 啊   - 是 新 球   -   I t   d o e s n ' t   l o o k   n e w .
+ Are you positive other people 's fingers haven 't been in this ?
+   -   I t ' s   n e w .   出 手 吧   L e t   h e r   r i p .  
+ I made sure to get you a new one .
+
+ - It doesn 't look new .
+
+ - It 's new .
+
+ Let her rip .
+
+
+ 我 还 是 在 想 着 科 学   I ' m   s t i l l   t h i n k i n g   a b o u t   s c i e n c e .  
+
+ 没 关 系   T h a t ' s   o k a y .  
+ I 'm still thinking about science .
+ 瞄 准 最 前 面 那 个 球 瓶   J u s t   a i m   f o r   t h e   f r o n t   p i n .  
+ That 's okay .
+
+ Just aim for the front pin .
+
+ ♪ ♪
+
+
+ 感 觉 你 今 天 跟 米 希 玩 得 很 开 心 啊   Y o u   a n d   M i s s y   l o o k e d   l i k e   y o u   w e r e   h a v i n g   f u n   t o d a y .  
+
+ 是 啊   是 挺 开 心   U h ,   y e a h ,   w e   w e r e .  
+ You and Missy looked like you were having fun today .
+ 你 们 父 女 俩 好 好 培 养 了 感 情   A   l i t t l e   f a t h e r - d a u g h t e r   b o n d i n g .   是 的   感 觉 很 棒   Y e a h .   I t   w a s   n i c e .  
+ Uh , yeah , we were .
+ 你 们 在 外 面 待 了 很 久   H m m .   Y o u   g u y s   w e r e   o u t   t h e r e   f o r   a   w h i l e .  
+ A little father- daughter bonding .
+
+ [ CHUCKLES ]
+
+ Yeah . It was nice . Hmm .
+ 都 聊 了 什 么 呀   W h a t   w e r e   y o u   t a l k i n g   a b o u t ?  
+ You guys were out there for a while .
+ 就 是 人 生 咯   O h ,   y o u   k n o w ,   j u s t . . .   l i f e .  
+ What were you talking about ?
+ 好   S u r e .  
+ Oh , you know , just ... life .
+ 没 什 么 问 题 吧   E v e r y t h i n g   o k a y ?   一 点 问 题 都 没 有   E v e r y t h i n g ' s   f i n e .  
+ Sure .
+ 没 什 么 好 担 心 的 啦   N o t h i n g   t o   w o r r y   a b o u t .  
+ Everything okay ? Everything 's fine .
+ 你 真 的 不 打 算 告 诉 人 家 吗   Y o u ' r e   r e a l l y   n o t   g o n n a   t e l l   m e ?  
+ Nothing to worry about .
+ 不   N o .  
+ You 're really not gonna tell me ?
+
+ No .
+ 你 好 啊 谢 尔 顿   有 什 么 能 帮 你 的 吗   H e y   t h e r e ,   S h e l d o n .
+
+   W h a t   c a n   I   d o   f o r   y a ?  
+
+ 不 知 道 你 有 没 有 关 于   I ' m   w o n d e r i n g   i f   y o u   h a v e   a n y   b o o k s  
+
+ 戒 掉 坏 习 惯 的 书   o n   s t o p p i n g   b a d   h a b i t s .  
+
+ 有 几 本   你 想 戒 掉 什 么 习 惯   A   f e w .
+ Hey there , Sheldon .
+   W h a t   h a b i t   a r e   y o u   t r y i n g   t o   s t o p ?  
+ What can I do for ya ?
+ - 科 学   - 妈 呀   -   S c i e n c e .   -   ‭ Y o w z a ,  
+ I 'm wondering if you have any books on stopping bad habits .
+ 不 是 永 远 戒 掉 啦   I t ' s   n o t   p e r m a n e n t .   我 只 是 想 放 下 一 段 时 间   I ' m   j u s t   l o o k i n g   t o   t a k e   a   b r e a k .  
+ A few .
+
+ What habit are you trying to stop ?
+ 这 话 我 以 前 听 过   I ' v e   h e a r d   t h a t   o n e   b e f o r e .  
+ - Science . - Yowza .
+ 你 放 下 过 什 么   W h a t   d i d   y o u   t a k e   a   b r e a k   f r o m ?  
+ It 's not permanent .
+ 幸 福   H a p p i n e s s .  
+ I 'm just looking to take a break .
+ 好 吧   O k a y .   我 尝 试 了 几 种 不 同 的 活 动   I ' v e   t r i e d   a   f e w   d i f f e r e n t   a c t i v i t i e s ,  
+ I 've heard that one before . What did you take a break from ?
+ 但 不 管 我 做 什 么   最 终 都 把 我 引 回 科 学   b u t   w h a t e v e r   I   d o   j u s t   l e a d s   m e   b a c k   t o   s c i e n c e .  
+ Happiness .
+ 我 们 来 想 想 看   什 么 是 跟 科 学 截 然 相 反 的   W e l l ,   l e t ' s   t h i n k   a b o u t   i t .
+ Okay .
+   W h a t ' s   t h e   o p p o s i t e   o f   s c i e n c e ?  
+ I 've tried a few different activities , but whatever I do just leads me back to science .
+ 科 学 基 于 事 实   S c i e n c e   i s   b a s e d   i n   f a c t s ,   事 实 的 对 立 面 就 是 虚 构 作 品   a n d   t h e   o p p o s i t e   o f   f a c t s   i s   f i c t i o n .  
+ Well , let 's think about it .
+ 奇 幻 小 说 怎 么 样   H o w   a b o u t   f a n t a s y ?  
+ What 's the opposite of science ?
+ 有 魔 法 和 龙   M a g i c   a n d   d r a g o n s .  
+ Science is based in facts , and the opposite of facts is fiction .
+ 图 书 馆 里 有 一 整 区 都 是 这 个 分 类   W e   h a v e   a   w h o l e   s e c t i o n   h e r e .   听 上 去 智 商 就 要 破 底 了   O o h ,   t h a t   s o u n d s   i n t e l l e c t u a l l y   b a n k r u p t .  
+ How about fantasy ?
+ 我 愿 意 试 一 试   I ' l l   g i v e   i t   a   s h o t .  
+ Magic and dragons .
+
+ We have a whole section here .
+ 好 消 息   G o o d   n e w s .  
+ Ooh , that sounds intellectually bankrupt .
+ 我 找 到 方 法 暂 时 放 下 科 学 了   I   f o u n d   a   w a y   t o   t a k e   a   b r e a k   f r o m   s c i e n c e .  
+ I 'll give it a shot .
+ 太 好 了   什 么 方 式   T h a t ' s   g r e a t .
+
+   W h a t   i s   i t ?  
+ Good news .
+ 叫 《 指 环 王 [ 主 ] 》 的 长 篇 奇 幻 小 说   A   f a n t a s y   b o o k   s e r i e s   c a l l e d   T h e   L o r d   o f   t h e   R i n g s .  
+ I found a way to take a break from science . That 's great . What is it ?
+ 至 少 书 名 里 含 有 " 主 "   W e l l ,   i t ' s   g o t   " T h e   L o r d "   i n   i t .  
+ A fantasy book series called The Lord of the Rings .
+ 很 了 不 起 了   T h a t ' s   s o m e t h i n g .  
+ Well , it 's got " the Lord " in it .
+
+ That 's something .
+ 刚 才 这 一 投 还 带 了 旋 啊   T h a t   o n e   h a d   s o m e   z i p   o n   i t .  
+
+ 带 旋 是 好 事 吧   Z i p ' s   a   g o o d   t h i n g ,   r i g h t ?  
+
+ 是 的   Y e s .  
+
+ 所 以 看 起 来 我 像 懂 行 的 吗   S o   i t   l o o k s   l i k e   I   k n o w   w h a t   I ' m   d o i n g ?  
+ That one had some zip on it .
+ 跟 职 业 球 手 没 两 样   J u s t   l i k e   a   p r o .  
+ Zip 's a good thing , right ?
+ 但 是 淑 女 职 业 球 手   B u t   l i k e   a   l a d y   p r o ?  
+ Yes .
+ 当 然   非 常 淑 女   O h ,   y e s .   V e r y   m u c h .  
+ So it looks like I know what I 'm doing ? Just like a pro .
+ 还 有 什 么 游 骑 兵 队 的 好 话 是 我 能 说 的   I s   t h e r e   a n y t h i n g   e l s e   g o o d   I   c o u l d   s a y   a b o u t   t h e   R a n g e r s ?  
+ But like a lady pro ?
+ 我 想 想 啊   U h ,   l e t ' s   s e e .  
+ Oh , yes .
+
+ Very much .
+ 告 诉 有 兴 趣 的 人   T e l l   w h o e v e r ' s   i n t e r e s t e d  
+ Is there anything else good I could say about the Rangers ?
+ 绝 对 没 人 能 撼 动 诺 兰 · 莱 恩 的 三 振 出 局 纪 录   t h a t   n o   o n e ' s   e v e r   g o n n a   t o u c h   N o l a n   R y a n ' s   s t r i k e o u t   r e c o r d .  
+ Uh , let 's see .
+ 因 为 他 经 常 被 三 振 出 局   ' C a u s e   h e   s t r i k e s   o u t   a l l   t h e   t i m e .  
+ Tell whoever 's interested that no one 's ever gonna touch Nolan Ryan 's strikeout record .
+ 不 是 的   N o .   因 为 他 经 常 投 出 好 球   让 对 手 三 振 出 局   B e c a u s e   h e   t h r o w s   ‭ s t r i k e o u t s   a l l   t h e   t i m e .   差 别 很 大   O h .
+
+   B i g   d i f f e r e n c e .  
+ ' Cause he strikes out all the time .
+ 晚 饭 好 了   D i n n e r ' s   r e a d y .  
+ [ CHUCKLES ] : No .
+ 再 五 分 钟 行 吗   F i v e   m o r e   m i n u t e s ?  
+ Because he throws strikeouts all the time . Oh .
+ 她 想 跟 亲 亲 老 爸 再 玩 五 分 钟 嘛   S h e   w a n t s   f i v e   m o r e   m i n u t e s   w i t h   h e r   o l e   d a d .  
+ Big difference .
+
+ Dinner 's ready .
+
+ Five more minutes ?
+ 他 们 在 外 面 干 什 么   W h a t   a r e   t h e y   d o i n g   o u t   t h e r e ?  
+ She wants five more minutes with her ole dad .
+ 联 络 感 情   那 很 棒   谢 尔 顿   书 看 得 怎 么 样   T h e y ' r e   b o n d i n g .   I t ' s   g r e a t .   S h e l d o n ,   h o w ' s   y o u r   b o o k ?  
+
+ 话 题 转 得 真 硬   N i c e   p i v o t .  
+
+ 非 常 棒   有 个 叫 咕 噜 的 人 物   E x c e l l e n t .
+ What are they doing out there ?
+   T h e r e ' s   a   c h a r a c t e r   n a m e d   G o l l u m   被 力 量 之 戒 吞 蚀 了 心 智   w h o   w a s   c o r r u p t e d   b y   t h e   R i n g   o f   P o w e r .  
+ They 're bonding . It 's great . Sheldon , how 's your book ?
+ 现 在 他 光 着 身 子 到 处 乱 跑   还 喜 欢 一 口 咬 掉 鱼 头   N o w   h e   r u n s   a r o u n d   n a k e d   a n d   b i t e s   t h e   h e a d s   o f f   f i s h .  
+ Nice pivot . SHELDON : Excellent .
+ 那 叫 寿 司   T h a t ' s   c a l l e d   s u s h i .  
+ There 's a character named Gollum who was corrupted by the Ring of Power .
+ 不 过 说 真 的   我 宁 死 也 不 吃 那 玩 意   W h i c h ,   b y   t h e   w a y ,   I   w i l l   d i e   b e f o r e   I   e a t .  
+ Now he runs around naked and bites the heads off fish .
+ 说 到 死   你 死 了 之 后   S p e a k i n g   o f   d y i n g ,   w h e n   y o u   d o ,   你 的 车 能 给 我 吗   c a n   I   h a v e   y o u r   c a r ?  
+ MEEMAW :
+
+ That 's called sushi .
+
+ Which , by the way , I will die before I eat .
+ 这 不 可 能 啊   T h i s   c a n ' t   b e   r i g h t .  
+ Speaking of dying , when you do , can I have your car ?
+ 又 怎 么 了   W h a t   n o w ?  
+
+ 甘 道 夫 在 跃 马 旅 店   I n   t h e   l e t t e r   t h a t   G a n d a l f   l e a v e s   f o r   F r o d o  
+ This can 't be right .
+ 留 给 佛 罗 多 的 信 上 说   那 天 是 年 中 日 [ 6 月 2 2 日 ]   a t   T h e   P r a n c i n g   P o n y ,   h e   s a y s   t h a t   i t ' s   M i d - y e a r ' s   D a y ,   夏 尔 纪 年 1 4 1 8 年   S h i r e   y e a r   1 4 1 8 .  
+ [ GROANS ] What now ?
+ 然 而 在 附 录 二 里   写 着 甘 道 夫 于 6 月 2 9 日   H o w e v e r ,   i n   A p p e n d i x   B ,   i t   s a y s   t h a t   G a n d a l f   m e t   R a d a g a s t  
+ In the letter that Gandalf leaves for Frodo at The Prancing Pony , he says that it 's Mid- year 's Day ,
+ 遇 到 褐 袍 瑞 达 加 斯 特   那 是 不 可 能 的   因 为 . . .   o n   J u n e   2 9 ,   w h i c h   i s   i m p o s s i b l e   b e c a u s e . . .  
+ Shire year 1418 .
+ 喂   H e y !  
+ However , in Appendix B , it says that Gandalf met Radagast on June 29 , which is impossible because ...
+ 下 次 丢 的 就 是 老 娘 的 鞋 子   N e x t   t i m e ,   i t ' s   m y   s h o e .   我 还 会 带 上 旋   A n d   I   w i l l   p u t   z i p   o n   i t .  
+ Hey ! Next time , it 's my shoe . And I will put zip on it .
+ " 住 在 镇 上 的 男 人 个 子 很 高 "   " T h e   m a n   w h o   l i v e d   i n   t h e   t o w n   w a s   t a l l . "  
+
+ 这 句 话 里 哪 个 词 是 关 系 代 词   W h i c h   w o r d   i s   t h e   r e l a t i v e   p r o n o u n ?  
+ " The man who lived in the town was tall . "
+ 谢 尔 顿   S h e l d o n .   你 读 过 《 指 环 王 》 吗   H a v e   y o u   r e a d   T h e   L o r d   o f   t h e   R i n g s ?   读 过   U m ,   I   h a v e ,  
+ Which word is the relative pronoun ?
+ 但 我 们 现 在 不 是 在 讨 论 这 个   b u t   t h a t ' s   n o t   w h a t   w e ' r e   r e a l l y   d o i n g   r i g h t   n o w .  
+ Sheldon .
+ 关 系 代 词 是 " w h o "   T h e   r e l a t i v e   p r o n o u n   i s   " w h o . "  
+ Have you read The Lord of the Rings ?
+ 你 有 没 发 现 在 《 护 戒 使 者 》 里   N o w ,   d i d   y o u   n o t i c e   t h a t   i n   F e l l o w s h i p ,  
+ Um , I have , but that 's not what we 're really doing right now .
+ 埃 尔 隆 德 说 巴 拉 多 的 地 基   E l r o n d   s a y s   t h a t   t h e   f o u n d a t i o n s   o f   B a r a d - d u r   由 至 尊 魔 戒 所 建 成   w e r e   m a d e   w i t h   t h e   O n e   R i n g ?   就 当 做 是 吧   L e t ' s   s a y   s u r e .  
+ The relative pronoun is " who . " Now , did you notice that in Fellowship ,
+ 然 而 在 附 录 二 《 纪 年 传 说 》 中   显 然   H o w e v e r ,   i n   A p p e n d i x   B ,   " T h e   T a l e   o f   Y e a r s , "   I t ' s   c l e a r   t h a t  
+ Elrond says that the foundations of Barad- dûr were made with the One Ring ?
+ 魔 王 索 伦 于 第 二 纪 元 1 0 0 0 年 开 始 建 造 巴 拉 多   S a u r o n   b e g a n   b u i l d i n g   B a r a d - d û r   i n   S e c o n d   A g e   1 0 0 0 ,  
+ Let 's say sure .
+ 那 比 铸 造 魔 戒 还 早 了 6 0 0 年   6 0 0   y e a r s   b e f o r e   t h e   r i n g   w a s   f o r g e d .  
+ However , in Appendix B , " The Tale of Years , " it 's clear that Sauron began building Barad- dûr in Second Age 1000 , 600 years before the ring was forged .
+ 小 乔 治   G e o r g i e .   想 象 一 下 跟 这 奇 葩 一 起 生 活   I m a g i n e   l i v i n g   w i t h   t h i s .   每 天 一 小 时 就 够 我 受 的 了   A n   h o u r   a   d a y   i s   e n o u g h .  
+
+ 时 间 线 根 本 说 不 通 啊   T h e   t i m e l i n e   d o e s n ' t   m a k e   s e n s e .  
+ Georgie . Imagine living with this .
+ 山 姆 · 詹 吉 的 出 生 年 份 既 有 2 9 6 3   I   m e a n ,   i t   l i s t s   S a m w i s e   G a m g e e ' s   b i r t h   y e a r   a s   b o t h  
+ An hour a day is enough .
+ 也 有 2 9 8 0   2 9 6 3   a n d   2 9 8 0 .  
+ The timeline doesn 't make sense .
+ 或 许 他 谎 报 年 龄 了   M a y b e   h e   l i e d   a b o u t   h i s   a g e .   - 为 什 么   - 我 也 不 知 道   或 许   -   W h y ?   ‭ -   I   d o n ' t   k n o w .
+ I mean , it lists
+   M a y b e   h e   t h i n k s  
+ Samwise Gamgee 's birth year as both 2963 and 2980 .
+ 他 认 为 他 的 颈 纹 让 他 显 老   h i s   n e c k   m a k e s   h i m   l o o k   o l d e r   t h a n   h e   i s .   但 他 才 三 十 几 岁   B u t   h e ' s   o n l y   i n   h i s   3 0 s .  
+ Maybe he lied about his age .
+ 还 很 年 轻   T h a t ' s   y o u n g .   谢 谢 你 啦   T h a n k   y o u .  
+ - Why ?
+
+ - I don 't know .
+ 对 霍 比 特 人 而 言   人 类 到 这 岁 数 就 是 大 妈 了   F o r   a   h o b b i t .
+ Maybe he thinks his neck makes him look older than he is .
+   F o r   a   h u m a n ,   t h a t ' s   m o m m y - a g e .   谢 你 全 家   T h a n k   y o u .  
+ But he 's only in his 30s . That 's young . Thank you .
+ 当 佛 罗 多 和 山 姆 骑 马 穿 过 夏 尔 时   W h e n   F r o d o   a n d   S a m   a r e   r i d i n g   t h r o u g h   t h e   S h i r e ,  
+ For a hobbit .
+ 书 里 说 月 亮 往 西 移 动 了   t h e   b o o k   s a y s   t h e   m o o n   w e n t   w e s t w a r d ,  
+ For a human , that 's mommy- age .
+ 但 根 据 托 尔 金 创 作 的 历 法   b u t   a c c o r d i n g   t o   t h e   c a l e n d a r   T o l k i e n   c r e a t e d ,  
+ Thank you .
+ 当 时 不 应 该 能 看 见 月 亮   t h e r e   s h o u l d   h a v e   b e e n   n o   m o o n   v i s i b l e .  
+ When Frodo and Sam are riding through the Shire , the book says the moon went westward , but according to the calendar Tolkien created , there should have been no moon visible .
+ 但 在 附 录 里   托 尔 金 辩 解 道   B u t   i n   t h e   a p p e n d i x ,   T o l k i e n   c o v e r s   h i m s e l f   《 西 界 红 皮 书 》 的 翻 译 可 能 有 误   b y   s a y i n g   t h e r e   m a y   b e   m i s t r a n s l a t i o n s   f r o m   t h e   R e d   B o o k .   这 是 小 说 里 的 托 尔 金 说 的   F i c t i o n a l   T o l k i e n   s a y s   t h a t ,  
+ But in the appendix , Tolkien covers himself by saying there may be mistranslations from the Red Book .
+ 但 我 很 想 知 道   是 不 是 该 书 作 者   b u t   I   c a n ' t   h e l p   w o n d e r i n g   i f   r e a l   T o l k i e n ,   真 正 的 托 尔 金 犯 了 这 个 错   w h o   w r o t e   t h e   b o o k ,   m a d e   t h e   m i s t a k e   还 是 这 是 小 说 版 托 尔 金   o r   i f   i t   w a s   a n   i n t e n t i o n a l   m i s t a k e  
+
+ 他 根 据 原 始 来 源 翻 译 出   m a d e   b y   t h e   f i c t i o n a l   T o l k i e n ,  
+ Fictional Tolkien says that , but I can 't help wondering if real Tolkien , who wrote the book , made the mistake or if it was an intentional mistake made by the fictional Tolkien , who translated these real- world events from an original source .
+ 这 些 真 实 世 界 的 事 件 时   w h o   t r a n s l a t e d   t h e s e   r e a l - w o r l d   e v e n t s   故 意 犯 的 错   f r o m   a n   o r i g i n a l   s o u r c e .   妈 呀   O h ,   n o .  
+
+ 别 人 听 我 说 话 时 也 是 这 感 受 吗   I s   t h a t   h o w   I   s o u n d   t o   p e o p l e ?  
+
+ 闺 女   你 想 玩 投 球 吗   H e y !
+
+   Y o u   w a n t   t o   t h r o w   t h e   b a l l   a r o u n d ?  
+ Oh , no .
+ 不 要   走 开   N o ,   g o   a w a y .  
+ Is that how I sound to people ?
+ 学 校 里 出 什 么 事 了 吗   D i d   s o m e t h i n g   h a p p e n   a t   s c h o o l ?  
+ Hey ! You want to throw the ball around ?
+ 我 不 想 说   I   d o n ' t   w a n t   t o   t a l k   a b o u t   i t .  
+ [ CRYlNG ]
+ 好 吧   O k a y .
+ No , go away .
+   W e l l . . .  
+ Did something happen at school ? I don 't want to talk about it .
+ 如 果 你 想 谈   我 随 时 都 在   Y o u   c h a n g e   y o u r   m i n d ,   y o u   k n o w   I ' m   h e r e   f o r   y o u .  
+ Okay .
+
+ Well ...
+
+ You change your mind , you know I 'm here for you .
+ 他 喜 欢 别 人   H e   l i k e s   s o m e o n e   e l s e .  
+ He likes someone else .
+
+
+ 你 说 什 么   宝 贝   I ' m   s o r r y ,   s w e e t h e a r t .  
+
+ 她 连 诺 兰 · 莱 恩 是 谁 都 不 知 道   S h e   d o e s n ' t   e v e n   k n o w   w h o   N o l a n   R y a n   i s .  
+
+ 这 男 生 听 起 来 是 个 大 白 痴   T h i s   g u y   s o u n d s   l i k e   a n   i d i o t .  
+ I 'm sorry , sweetheart .
+ 他 才 不 是   他 很 完 美   H e ' s   n o t .   H e ' s   p e r f e c t .   好 吧   A l l   r i g h t .  
+ She doesn 't even know who Nolan Ryan is .
+
+ This guy sounds like an idiot .
+ 想 让 我 叫 妈 妈 来 吗   W a n t   m e   t o   g e t   y o u r   m o m ?  
+ He 's not .
+ 不 要   N o .  
+ He 's perfect . All right .
+ 想 让 我 去 揍 他 一 顿 吗   Y o u   w a n t   m e   t o   b e a t   t h i s   g u y   u p ?  
+
+ 不 要   N o .  
+ Want me to get your mom ?
+ 我 能 做 什 么   W h a t   c a n   I   d o ?  
+ No .
+
+ You want me to beat this guy up ?
+
+ No .
+
+ [ SNlFFLES ]
+ 真 不 错   N i c e .  
+ What can I do ?
+
+ [ SNlFFLES ]
+ 怎 么 投 出 曲 球 啊   H o w   d o   y o u   m a k e   i t   c u r v e ?  
+
+ 这 有 点 难 度   W e l l ,   t h a t ' s   a   l i t t l e   t r i c k y .  
+ Nice .
+ 把 两 根 手 指 压 在 接 缝 上   Y o u . . .   y o u   p u t   t w o   f i n g e r s   o n   t h e   s e a m .  
+
+ 看 到 了 吗   然 后 转 动 手 腕   R i g h t ?
+ How do you make it curve ?
+   A n d   t h e n   y o u   f l i c k   y o u r   w r i s t .  
+ Well , that 's a little tricky .
+ - 好   - 知 道 了 吗   来   试 一 下   -   O k a y .   -   ‭ Y e a h ?   H e r e ,   t r y   i t .  
+ You ... you put two fingers on the seam .
+ 两 根 . . .   放 这 里 啊   T w o . . .   O h ,   s o   t h e r e .  
+ Right ?
+ 这 就 对 了   放 在 接 缝 上   T h e r e   y o u   g o ,   r i g h t   o n   t h e   s t i t c h   t h e r e .  
+ And then you flick your wrist . - Okay .
+ 两 根 手 指 放 在 上 面   T w o   f i n g e r s   o n   i t .  
+ - Yeah ?
+
+ Here , try it .
+ - 然 后 球 脱 手 前 一 刻   转 动 手 腕   - 这 样 吗   -   T h e n   a t   t h e   e n d ,   y o u   f l i c k   y o u r   w r i s t .   -   ‭ L i k e   t h a t ?  
+ Two ...
+ 就 是 这 样   投 一 个 试 试   T h e r e   y o u   g o .
+ Oh , so there .
+   G i v e   h e r   a   s h o t .  
+ There you go , right on the stitch there .
+ 还 挺 厉 害 啊   H e y !
+ Two fingers on it .
+   H o w   a b o u t   t h a t ?   对 吧   我 就 说 了 跟 职 业 球 手 没 两 样   R i g h t ?
+ - Then at the end , you flick your wrist .
+   J u s t   l i k e   a   p r o ,   I ' m   t e l l i n g   y o u .  
+ - Like that ?
+
+ There you go . Give her a shot .
+ 我 们 要 再 多 练 习   W e l l ,   w e ' l l   w o r k   o n   t h a t ,   s h a l l   w e ?  
+ [ LAUGHS ] :
+ 绝 对 的   D e f i n i t e l y .   ‭  
+ Hey !
+
+ How about that ?
+
+ Right ?
+
+ Just like a pro , I 'm telling you .
+ 不 错   N i c e .  
+ Well , we 'll work on that , shall we ?
+ 遍 寻 答 案 无 果 后   H a v i n g   f o u n d   n o   a n s w e r s ,  
+ - Definitely . - [ LAUGHS ]
+ 我 决 定 自 己 纠 正   I   t o o k   i t   u p o n   m y s e l f   t o   r e c t i f y  
+ Nice . ♪ Yeah , yeah , oh , yeah ♪
+ 《 指 环 王 》 中 前 后 矛 盾 的 时 间 线   t h e   i n c o n s i s t e n t   t i m e l i n e   i n   L o r d   o f   t h e   R i n g s .   J . R . R . 托 尔 金 是 很 聪 明 没 错   J . R . R .
+ ADULT SHELDON : Having found no answers ,
+   T o l k i e n   h a d   a   b r i l l i a n t   m i n d ,  
+ I took it upon myself to rectify the inconsistent timeline in Lord of the Rings .
+ 但 老 实 说   b u t   l e t ' s   b e   h o n e s t .   他 跟 S . L . 库 珀 比 差 远 了   H e   w a s   n o   S . L .   C o o p e r .  
+ J. R. R. Tolkien had a brilliant mind , but let 's be honest .
+
+ He was no S. L. Cooper . ♪ In a deep , dark hole ♪ ♪ And then I followed it in ♪ ♪ I watched myself crawlin ' out ... ♪
+ 你 还 好 吧   Y o u   o k a y   o u t   h e r e ?   等 我 完 成 这 个 就 会 好 了   I   w i l l   b e   o n c e   I   f i n i s h   t h i s .   纵 使 我 很 努 力 想 排 列 出 前 后 一 致 的 年 表   A s   h a r d   a s   I   t r i e d   t o   w o r k   o u t   a   c o n s i s t e n t   c h r o n o l o g y ,  
+ You okay out here ?
+ 我 还 是 不 断 遇 到 障 碍   I   k e p t   r u n n i n g   i n t o   r o a d b l o c k s .  
+ I will be once I finish this . ♪ I got up so tight ... ♪
+
+ ADULT SHELDON :
+
+ As hard as I tried to work out a consistent chronology ,
+
+ I kept running into roadblocks . ♪ I just dropped in ♪ ♪ To see what condition ♪ ♪ My condition was in ... ♪
+ 我 漏 掉 了 什 么   W h a t   a m   I   m i s s i n g ?   我 们 永 远 都 不 会 想 明 白 的   W e ' r e   n e v e r   g o i n g   t o   f i g u r e s   i t   o u t .  
+ [ SlGHS ]
+
+ What am I missing ?
+
+
+ 我 们 可 以 的   我 们 很 聪 明   我 们 绝 顶 聪 明   W e   c a n ,   w e ' r e   s m a r t s .
+ [ AS GOLLUM ] :
+   W e ' r e   s o   s m a r t s .  
+ We 're never going to figures it out .
+ 我 们 的 大 脑 就 是 宝 贝   O u r   b r a i n s   i s   p r e c i o u s .  
+ [ SNARLlNG ]
+ 如 果 我 们 的 大 脑 是 宝 贝   I f   o u r   b r a i n s   i s   p r e c i o u s ,  
+ [ AS SMÉAGOL ] : We can , we 're smarts .
+ 那 都 浪 费 在 霍 比 特 人 身 上 了   w e ' r e   w a s t i n g   i t   o n   h o b b i t s e s .  
+ We 're so smarts .
+ 我 们 喜 欢 科 学   W e   l i k e   s c i e n c e s .  
+ Our brains is precious .
+ 我 们 暂 时 放 下 科 学 了   W e   t o o k   a   b r e a k   f r o m   s c i e n c e s .  
+ [ SNARLlNG ] If our brains is precious , we 're wasting it on hobbitses . [ AS GOLLUM ] :
+ 科 学 快 把 我 们 逼 疯 了   I t   w a s   m a k i n g   u s   c r a z y .  
+
+ 结 果 我 们 现 在 成 什 么 样 子 了   A n d   l o o k   a t   u s   n o w .  
+ We like sciences . [ AS SMÉAGOL ] :
+ 瞧 那 些 恶 心 的 霍 比 特 人 对 我 们 做 了 什 么   L o o k   a t   w h a t   t h o s e   n a s t y   h o b b i t s e s   h a v e   d o n e   t o   u s .  
+ We took a break from sciences .
+
+ It was making us crazy . [ AS GOLLUM ] :
+ 不   是 物 理   N o ,   i t   w a s   p h y s i c s e s .  
+ And look at us now . Look at what those nasty hobbitses have done to us .
+ 是 物 理 害 我 们 变 成 这 样   P h y s i c s e s   d i d   t h i s   t o   u s .  
+
+ 是 霍 比 特 人   H o b b i t s e s .  
+
+ 是 物 理   P h y s i c s e s .  
+ [ AS SMÉAGOL ] :
+ 霍 比 特 人   H o b b i t s e s .  
+ No , it was physicses .
+
+ Physicses did this to us . [ AS GOLLUM ] : Hobbitses .
+ 我 警 告 过 你 的   I   w a r n e d   y o u .  
+ [ AS SMÉAGOL ] :
+
+ Physicses .
+
+ [ AS GOLLUM ] :
+
+ Hobbitses .
+ 妈 妈   妈 妈   M o m .
+ [ GRUNTlNG ]
+   M o m .   怎 么 了   ‭ W h a t ' s   w r o n g ?  
+ Ow . I warned you .
+ 我 变 成 咕 噜 和 史 麦 戈 了   在 一 个 山 洞 里   I   w a s   G o l l u m   a n d   S m e a g o l   a n d   I   w a s   i n   a   c a v e  
+ Mom .
+ 跟 我 自 己 争 辩 物 理 和 霍 比 特 人   f i g h t i n g   w i t h   m y s e l f   o v e r   p h y s i c s   a n d   h o b b i t s .  
+ Mom . - [ SNORlNG ]
+ 但 之 后 我 意 识 到   虽 然 物 理 使 我 崩 溃 沮 丧   A n d   t h e n   I   r e a l i z e d   t h a t   e v e n   t h o u g h   p h y s i c s   i s   f r u s t r a t i n g ,  
+ - What 's wrong ?
+ 但 它 不 会 把 我 变 成 受 尽 折 磨   i t   w o n ' t   t u r n   m e   i n t o   a   t o r m e n t e d   c r e a t u r e  
+ I was Gollum and Sméagol and I was in a cave fighting with myself over physics and hobbits .
+ 爱 把 鱼 头 生 生 咬 下 来 的 怪 物   w h o   b i t e s   t h e   h e a d s   o f f   f i s h .   说 完 了   晚 安   O k a y ,   g o o d   n i g h t .  
+ And then I realized that even though physics is frustrating , it won 't turn me into a tormented creature who bites the heads off fish .
+ 我 给 米 希 当 好 爸 爸 了   I ' v e   b e e n   d o i n g   a   g r e a t   j o b   w i t h   M i s s y .   你 去 给 他 当 好 妈 妈   T h i s   o n e ' s   o n   y o u .  
+ Okay , good night .
+
+ [ SlGHS ]
+
+ I 've been doing a great job with Missy .
+
+ This one 's on you .
+
+ [ INDlSTlNCT CHATTER , LAUGHTER ]
+
+ - MARCUS :
+
+ Ow !
+
+ - [ MlSSY LAUGHS ]
+
